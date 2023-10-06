@@ -1,0 +1,2154 @@
+product,marketing_name,cpu,device,brand,memory_mb,phone_count
+dedede,Intel Jasper Lake Chromebook,N4500,dedede_cheets,google,4096,5
+nautilus,Chromebook Plus (V2),m3-7y30,nautilus_cheets,google,4096,22
+relm,Intel Braswell Chromebook,N3060,relm_cheets,google,2048,23
+kukui,Mediatek MT8183 Tablet,MT8183,kukui_cheets,google,4096,48
+rammus,Intel Amber Lake Y Chromebook,m3-8100Y,rammus_cheets,google,4096,32
+asuka,Chromebook 13 3380,3855U,asuka_cheets,google,2048,3
+cepheus,MI 9,SDM855,cepheus,Xiaomi,6144,1
+mantaray,Nexus 10,Exynos 5250,manta,google,2048,6
+volteer,Intel Tiger Lake Chromebook,i3-1115G4,volteer_cheets,google,4096,4
+wizpig,Intel Braswell Chromebook,N3060,wizpig_cheets,google,2048,3
+occam,Nexus 4,APQ8064,mako,google,2048,2
+razorg,Nexus 7 (2013),APQ8064,deb,google,2048,10
+redfin,Pixel 5,SM7250,redfin,google,8192,53
+celes,Chromebook 3,N3050,celes_cheets,google,2048,28
+begonia,Redmi Note 8 Pro,MT6785T,begonia,Redmi,8192,1
+hatch,Intel Comet Lake U Chromebook,i3-10110U,hatch_cheets,google,4096,1
+barbet,Pixel 5a 5G,SM7250,barbet,google,6144,38
+jacuzzi,Mediatek MT8173 Chromebook,MT8183,jacuzzi_cheets,google,4096,41
+lars,Chromebook 14 for work,3855U,lars_cheets,google,2048,6
+yuna,Chromebook 15 (CB5-571),3215U,yuna_cheets,google,2048,6
+jerry,Rockchip RK3288 Chromebook,RK3288,jerry_cheets,google,2048,4
+bonito,Pixel 3a XL,SDM670,bonito,google,4096,39
+atlas,Pixelbook,i5-8200Y,atlas_cheets,google,8192,14
+bramble,Pixel 4a (5G),SM7250,bramble,google,6144,39
+cyan,Chromebook R11 (C738T),N3060,cyan_cheets,google,4096,25
+volantisg,Nexus 9 LTE,Tegra K1-CA15,flounder_lte,google,2048,2
+kevin,Chromebook Plus,RK3399,kevin_cheets,google,4096,5
+walleye,Pixel 2,MSM8998,walleye,google,4096,48
+reks,Lenovo N Series Chromebook,N3060,reks_cheets,google,2048,15
+panther,Pixel 7,Tensor,panther,google,8192,41
+cheetah,Pixel 7 Pro,Tensor,cheetah,google,12288,42
+YAL-L21H,HUAWEI nova 5T,KIRIN980,HWYAL,HUAWEI,8192,1
+strongbad,Qualcomm SC7180 Detachable,SC7180,strongbad_cheets,google,4096,26
+flame,Pixel 4,SDM855,flame,google,6144,37
+setzer,HP Chromebook 11 G5 / 11-vxxx,N3060,setzer_cheets,google,2048,16
+asurada,Mediatek MT8192 Chromebook,MT8192,asurada_cheets,google,4096,10
+taimen,Pixel 2 XL,MSM8998,taimen,google,4096,53
+elm,Acer Chromebook R13,MT8173,elm_cheets,google,2048,31
+chell,HP Chromebook 13 G1,m3-6y30,chell_cheets,google,2048,4
+sand,Chromebook 15 CB515-1HT/1H,N3350,sand_cheets,google,2048,9
+ryu,Pixel C,Tegra X1 T210,dragon,google,3072,15
+angler,Nexus 6P,MSM8994,angler,google,3072,24
+reef,Intel Apollo Lake Chromebook,N3350,reef_cheets,google,2048,16
+oriole,Pixel 6,Tensor,oriole,google,8192,58
+gm4g_s,4G,MSM8916,gm4g_s_sprout,google,2048,11
+gm4gtkc_s,4G,MSM8916,gm4gtkc_s_sprout,google,2048,4
+zork,AMD Raven Ridge Chromebook,Ryzen 3 3250C,zork_cheets,google,4096,19
+sargo,Pixel 3a,SDM670,sargo,google,4096,47
+volantis,Nexus 9,Tegra K1-CA15,flounder,google,2048,9
+cave,ASUS Chromebook Flip C302,m3-6y30,cave_cheets,google,4096,11
+banon,Chromebook 15 (CB3-532),N3060,banon_cheets,google,2048,19
+minnie,Chromebook Flip C100PA,RK3288,minnie_cheets,google,4096,12
+beyond1qlteue,Galaxy S10,SM8150,beyond1q,samsung,8192,1
+gm4g,4G Dual,MSM8916,gm4g_sprout,google,2048,9
+sailfish,Pixel,MSM8996,sailfish,google,4096,26
+gandof,Toshiba Chromebook 2 (2015 Edition),3215U,gandof_cheets,google,2048,2
+razor,Nexus 7 (2013),APQ8064,flo,google,2048,21
+raven,Pixel 6 Pro,Tensor,raven,google,12288,48
+edgar,Chromebook 14 (CB3-431),N3160,edgar_cheets,google,2048,15
+sunfish,Pixel 4a,SM7150,sunfish,google,6144,46
+lulu,Chromebook 13 7310,3215U,lulu_cheets,google,2048,3
+caroline,Chromebook Pro,m3-6y30,caroline_cheets,google,4096,6
+trogdor,Qualcomm SC7180 Chromebook,SC7180,trogdor_cheets,google,4096,25
+nocturne,Pixel Slate,i7-8500Y,nocturne_cheets,google,4096,7
+octopus,Intel Gemini Lake Chromebook,N4000,octopus_cheets,google,4096,24
+hana,Mediatek MTK8173 Chromebook,MT8173,hana_cheets,google,2048,35
+hammerhead,Nexus 5,MSM8974,hammerhead,google,2048,27
+bluejay,Pixel 6a,Tensor,bluejay,google,6144,51
+paine,Acer Chromebook 11 (C740),3215U,paine_cheets,google,2048,9
+ultima,ThinkPad 11e Chromebook 3rd Gen,N3160,ultima_cheets,google,2048,11
+marlin,Pixel XL,MSM8996,marlin,google,4096,31
+bullhead,Nexus 5X,MSM8992,bullhead,google,2048,15
+d2que,Galaxy Note10+,SM8150,d2q,samsung,12288,1
+bob,Chromebook Flip C101PA,RK3399,bob_cheets,google,2048,4
+nami,Intel Kaby Lake U Chromebook,i3-7130U,nami_cheets,google,4096,18
+terra,Chromebook C202SA/C300SA/C301SA,N3060,terra_cheets,google,2048,14
+sentry,Thinkpad 13 Chromebook,3855U,sentry_cheets,google,2048,2
+VZW_Midnight,Visible Midnight,MT6762,WTVIS01,Visible,3072,1
+shamu,Nexus 6,APQ8084AB,shamu,google,3072,11
+scarlet,Chromebook Tab 10,RK3399,scarlet_cheets,google,4096,13
+blueline,Pixel 3,SDM845,blueline,google,4096,49
+crosshatch,Pixel 3 XL,SDM845,crosshatch,google,4096,44
+snappy,Chromebook x360 11 G1 EE,N3350,snappy_cheets,google,4096,30
+grunt,AMD Stoney Ridge Chromebook,A4-9120C,grunt_cheets,google,4096,23
+dream2qltesq,Galaxy S8+,MSM8998,dream2qltesq,samsung,4096,55
+dreamqltesq,Galaxy S8,MSM8998,dreamqltesq,samsung,4096,57
+trltevzw,Galaxy Note4,APQ8084,trltevzw,samsung,3072,1
+a8hpltedx,Galaxy A8,Exynos 5433,a8hplte,samsung,2048,15
+dream2lteks,Galaxy S8+,Exynos 8895,dream2lteks,samsung,4096,39
+gta7liteser,Galaxy Tab A7 Lite,MT8768T,gta7lite,samsung,3072,28
+a21sks,Galaxy A21s,Exynos 850,a21s,samsung,3072,30
+b0quew,Galaxy S22 Ultra,SM8450,b0q,samsung,8192,43
+s3ve3gxx,Galaxy S3 Neo,MSM8228,s3ve3g,samsung,1536,10
+lt03lteub,Galaxy Note 10.1 2014 Edition,MSM8974,lt03lte,samsung,3072,1
+a02xx,Galaxy A02,MT6739WW,a02,samsung,3072,42
+gts6lwifixx,Galaxy Tab S6,SM8150,gts6lwifi,samsung,6144,49
+greatqlteldusq,Galaxy Note8,MSM8998,greatqlte,samsung,6144,4
+gtanotexlltekx,Galaxy Tab A (2016) with S Pen,Exynos 7870,gtanotexlltekx,samsung,3072,20
+gts4lltetur,Galaxy Tab S4,MSM8998,gts4llte,samsung,4096,1
+a21snstur,Galaxy A21s,Exynos 850,a21s,samsung,3072,38
+gts8pxxx,Galaxy Tab S8+ 5G,SM8450,gts8p,samsung,8192,35
+j5y17lteskt,Galaxy J5,Exynos 7870,j5y17lteskt,samsung,2048,9
+degasveltezt,Galaxy Tab4 7.0,PXA1908,degasvelte,samsung,1536,2
+d2tmo,Galaxy S3,MSM8960,d2tmo,samsung,2048,1
+a01qtu,Galaxy A01,SDM439,a01q,samsung,2048,22
+gta4lveeea,Galaxy Tab A7,T618,gta4lve,samsung,3072,4
+rubensltekx,Galaxy Tab4 Active,MSM8926,rubensltekx,samsung,1536,3
+a32xtfn,Galaxy A32 5G,MT6853V/NZA,a32x,samsung,6144,35
+j5ltedx,Galaxy J5,MSM8916,j5lte,samsung,1536,17
+gts8uwifizc,Galaxy Tab S8 Ultra,SM8450,gts8uwifi,samsung,8192,1
+gts4llteeea,Galaxy Tab S4,MSM8998,gts4llte,samsung,4096,15
+j3popelteuc,Galaxy J3 Pop,Exynos 7570,j3popelteatt,samsung,1536,16
+gtactive3wifixx,Galaxy Tab Active3,Exynos 9810,gtactive3wifi,samsung,4096,15
+f2qxxx,Galaxy Z Fold2 5G,SM8250Pro,f2q,samsung,12288,38
+m12nsxx,Galaxy M12,Exynos 850,m12,samsung,3072,38
+a6elteuc,Galaxy A6,Exynos 7884,a6elteatt,samsung,3072,11
+m53xnseea,Galaxy M53 5G,MT6877,m53x,samsung,6144,27
+y2qcsw,Galaxy S20+ 5G,SM8250,y2q,samsung,12288,34
+bloomqxx,Galaxy Z Flip,SM8150P,bloomq,samsung,8192,32
+e7lteub,Galaxy E7,MSM8916,e7lte,samsung,2048,11
+a20pue,Galaxy A20,Exynos 7904,a20p,samsung,3072,28
+x1qsqw,Galaxy S20 5G,SM8250,x1q,samsung,12288,34
+a13xue,Galaxy A13 5G,MT6833V/NZA,a13x,samsung,4096,36
+gracelteldu,Galaxy Note7,Exynos 8890,gracelte,samsung,4096,1
+klimtwifizs,Galaxy Tab S 8.4,Exynos 5420,klimtwifi,samsung,3072,3
+a71xskt,Galaxy A Quantum,Exynos 980,a71x,samsung,8192,34
+j4ltejx,Galaxy J4,Exynos 7570,j4lte,samsung,2048,41
+j7veltedx,Galaxy J7 Neo,Exynos 7870,j7velte,samsung,2048,49
+gts28veltexx,Galaxy Tab S2,MSM8976,gts28velte,samsung,3072,31
+a7xeltektt,Galaxy A7(2016),Exynos 7580,a7xeltektt,samsung,3072,13
+serrano3gxx,Galaxy S4 Mini,MSM8230AB,serrano3g,samsung,1536,5
+gt5note10lteskt,Galaxy Tab A 9.7,MSM8916,gt5note10lteskt,samsung,2048,1
+gts8uwifixx,Galaxy Tab S8 Ultra,SM8450,gts8uwifi,samsung,8192,34
+j3ltespr,Galaxy J3,MSM8916,j3ltespr,samsung,1536,8
+klimtltexx,Galaxy TabS 8.4,Exynos 5420,klimtlte,samsung,3072,21
+heroltebmc,Galaxy S7,Exynos 8890,heroltebmc,samsung,4096,39
+crownlteks,Galaxy Note9,Exynos 9810,crownlteks,samsung,6144,47
+a20skt,Galaxy Wide4,Exynos 7884B,a20,samsung,3072,27
+j4lteub,Galaxy J4,Exynos 7570,j4lte,samsung,2048,36
+viennalteub,Galaxy Note Pro 12.2,MSM8974,viennalte,samsung,3072,1
+SC-01K,Galaxy Note8,MSM8998,SC-01K,samsung,6144,24
+a03nsxx,Galaxy A03,T606,a03,samsung,3072,20
+a23nnxx,Galaxy A23,SM6225,a23,samsung,4096,50
+j5ltezm,Galaxy J5,MSM8916,j5ltechn,samsung,1536,7
+j8y18ltejv,Galaxy J8,SDM450,j8y18lte,samsung,3072,41
+gt510wifixx,Galaxy Tab A,APQ8016,gt510wifi,samsung,1536,28
+a5xeltelgt,Galaxy A5(2016),Exynos 7580,a5xeltelgt,samsung,2048,6
+gtactivexleea,Galaxy Tab Active Pro,SDM670,gtactivexl,samsung,4096,20
+beyond1lteser,Galaxy S10,Exynos 9820,beyond1,samsung,8192,31
+s5neolteub,Galaxy S5 Neo,Exynos 7580,s5neolte,samsung,2048,11
+SC-54C,Galaxy Z Flip4,SM8475,SC-54C,samsung,8192,4
+a23xqzh,Galaxy A23 5G,SM6375,a23xq,samsung,4096,18
+winnerltexx,Galaxy Fold,SM8150,winner,samsung,12288,24
+a10eea,Galaxy A10,Exynos 7884B,a10,samsung,2048,48
+zenltedv,Galaxy S6 Edge+,Exynos 7420,zenlte,samsung,4096,9
+xcover4ltedo,Galaxy Xcover4,Exynos 7570,xcover4lte,samsung,2048,13
+gts210wifizs,Galaxy Tab S2 9.7,Exynos 5433,gts210wifi,samsung,3072,7
+gts4llteser,Galaxy Tab S4,MSM8998,gts4llte,samsung,4096,16
+m33xeea,Galaxy M33 5G,s5e8825,m33x,samsung,6144,26
+bloomxqsqx,Galaxy Z Flip 5G,SM8250Pro,bloomxq,samsung,8192,13
+a23exrkt,Galaxy A23 5G,MT6833V/NZA,a23ex,samsung,4096,3
+gts8wifizc,Galaxy Tab S8,SM8450,gts8wifi,samsung,8192,4
+gta4xlvewifixx,Galaxy Tab S6 Lite,SM7125,gta4xlvewifi,samsung,4096,43
+a01qtfn,Galaxy A01,SDM439,a01q,samsung,2048,34
+gta4lvexx,Galaxy Tab A7,T618,gta4lve,samsung,3072,4
+a50sxx,Galaxy A50s,Exynos 9611,a50s,samsung,4096,53
+j7eltezt,Galaxy J7,Exynos 7580,j7elte,samsung,1536,12
+c5ltezh,Galaxy C5,MSM8952,c5ltechn,samsung,4096,23
+a01qser,Galaxy A01,SDM439,a01q,samsung,2048,33
+a7ltexx,Galaxy A7,MSM8939,a7lte,samsung,2048,18
+gts4llteub,Galaxy Tab S4,MSM8998,gts4llte,samsung,4096,14
+hero2qlteusc,Galaxy S7 Edge,MSM8996,hero2qlteusc,samsung,4096,7
+d2qcs,Galaxy Note10+,SM8150,d2q,samsung,12288,36
+gts210ltexx,Galaxy Tab S2,Exynos 5433,gts210lte,samsung,3072,35
+m31nsxx,Galaxy M31,Exynos 9611,m31,samsung,6144,44
+trltexx,Galaxy Note4,APQ8084,trlte,samsung,3072,22
+f2qxeea,Galaxy Z Fold2 5G,SM8250Pro,f2q,samsung,12288,34
+gtesltesktp,Galaxy TabE 8.0,Exynos 3475,gteslteskt,samsung,1536,1
+b2qxxx,Galaxy Z Flip3 5G,SM8350,b2q,samsung,8192,45
+afyonlteMetroPCS,Galaxy Core,MSM8926,afyonlteMetroPCS,samsung,1536,7
+konalteatt,Galaxy Note 8.0,Exynos 4412,konalteatt,samsung,2048,2
+dreamqlteue,Galaxy S8,MSM8998,dreamqlteue,samsung,4096,42
+gts8uxxx,Galaxy Tab S8 Ultra 5G,SM8450,gts8u,samsung,8192,31
+gtexsltexx,Galaxy Tab A 7.0,SC9830I,gtexslte,samsung,1536,20
+y2seea,Galaxy S20+,Exynos 990,y2s,samsung,12288,47
+tbelteskt,Galaxy Note Edge,Exynos 5433,tbelteskt,samsung,3072,6
+r9qsqw,Galaxy S21 FE 5G,SM8350,r9q,samsung,6144,44
+zodiaczc,三星W20,SM8150P,zodiac,samsung,12288,2
+d2xxx,Galaxy Note10+ 5G,Exynos 9825,d2x,samsung,12288,35
+j6primeltexx,Galaxy J6+,MSM8917,j6primelte,samsung,3072,34
+a13ks,Galaxy A13,Exynos 850,a13,samsung,3072,18
+winnerltezc,Galaxy Fold,SM8150,winner,samsung,12288,2
+beyond0ltexx,Galaxy S10e,Exynos 9820,beyond0,samsung,6144,52
+zenlteuc,Galaxy S6 Edge+,Exynos 7420,zenlteatt,samsung,4096,20
+j7duolteub,Galaxy J7 Duo,Exynos 7884,j7duolte,samsung,4096,19
+j2xltedd,Galaxy J2(2016),SC9830I,j2xlte,samsung,1536,11
+a40ser,Galaxy A40,Exynos 7904,a40,samsung,4096,31
+j3x3gxx,Galaxy J3,SC7730SW,j3x3g,samsung,1536,17
+a32xins,Galaxy M32 5G,MT6853V/NZA,a32x,samsung,6144,30
+konawifiue,Galaxy Note 8.0,Exynos 4412,konawifi,samsung,2048,7
+c2sxeea,Galaxy Note20 Ultra 5G,Exynos 990,c2s,samsung,12288,50
+xcover4ltexx,Galaxy XCover4,Exynos 7570,xcover4lte,samsung,2048,29
+lentisltelgt,Galaxy S5,APQ8084,lentisltelgt,samsung,3072,3
+a14xmxx,Galaxy A14 5G,MT6833V/NZA,a14xm,samsung,4096,1
+mondrianltexx,Galaxy Tab Pro 8.4,MSM8974,mondrianlte,samsung,2048,2
+o5proltedd,Galaxy On5 Pro,Exynos 3475,o5prolte,samsung,2048,13
+xcover4sser,Galaxy XCover 4s,Exynos 7884,xcover4s,samsung,3072,1
+r0sxxx,Galaxy S22,s5e9925,r0s,samsung,8192,25
+a54xnaeea,Galaxy A54 5G,s5e8835,a54x,samsung,6144,1
+dreamlteks,Galaxy S8,Exynos 8895,dreamlteks,samsung,4096,35
+a50dv,Galaxy A50,Exynos 9610,a50,samsung,6144,28
+gts210lteuc,Galaxy Tab S2 9.7,Exynos 5433,gts210lteatt,samsung,3072,9
+gtactive2lteue,Galaxy Tab Active2,Exynos 7870,gtactive2lteue,samsung,3072,6
+a23xqnsdxx,Galaxy A23 5G,SM6375,a23xq,samsung,4096,34
+gts7xlxxx,Galaxy Tab S7+ 5G,SM8250Pro,gts7xl,samsung,6144,23
+gts6lser,Galaxy Tab S6,SM8150,gts6l,samsung,6144,22
+x1qsqx,Galaxy S20 5G,SM8250,x1q,samsung,12288,46
+SC-53A,Galaxy Note20 Ultra 5G,SM8250Pro,SC-53A,samsung,12288,15
+j2corepltetfntmo,Galaxy J2,Exynos 7570,j2corepltetfntmo,samsung,2048,26
+zerofltexx,Galaxy S6,Exynos 7420,zeroflte,samsung,3072,46
+noblelteacg,Galaxy Note5,Exynos 7420,noblelteacg,samsung,4096,1
+a6eltetmo,Galaxy A6,Exynos 7884,a6eltetmo,samsung,3072,11
+a32xx,Galaxy A32,MT6769T,a32,samsung,4096,62
+z3qsqw,Galaxy S20 Ultra 5G,SM8250,z3q,samsung,12288,46
+a30seea,Galaxy A30s,Exynos 7904,a30s,samsung,3072,48
+gts8uxser,Galaxy Tab S8 Ultra 5G,SM8450,gts8u,samsung,8192,3
+m12nsser,Galaxy M12,Exynos 850,m12,samsung,3072,39
+SCG16_jp_kdi,Galaxy Z Fold4,SM8475,SCG16,samsung,12288,9
+xcoverproue,Galaxy XCover Pro,Exynos 9611,xcoverpro,samsung,4096,35
+x1qcsx,Galaxy S20 5G,SM8250,x1q,samsung,12288,40
+a60qzc,Galaxy A60,SM6150,a60q,samsung,6144,11
+gts4lltexx,Galaxy Tab S4,MSM8998,gts4llte,samsung,4096,42
+a6ltedx,Galaxy A6,Exynos 7870,a6lte,samsung,3072,38
+a42xuqsq,Galaxy A42 5G,SM7225,a42xuq,samsung,4096,40
+matisse10wifikx,Galaxy Tab4 10.1,Exynos 7870,matisse10wifikx,samsung,2048,18
+gt5note10ltexx,Galaxy Tab A 9.7,MSM8916,gt5note10lte,samsung,2048,23
+r0sxeea,Galaxy S22,s5e9925,r0s,samsung,8192,52
+ms01ltelgt,Galaxy Grand2,MSM8926,ms01ltelgt,samsung,1536,2
+a33xzh,Galaxy A33 5G,s5e8825,a33x,samsung,6144,21
+gts4llteuc,Galaxy Tab S4,MSM8998,gts4llteatt,samsung,4096,19
+a33xnndxx,Galaxy A33 5G,s5e8825,a33x,samsung,6144,34
+lt02ltedx,Galaxy Tab3 7.0,MSM8930AB,lt02lte,samsung,1536,1
+c7proltezh,Galaxy C7 Pro,MSM8953,c7proltechn,samsung,4096,27
+gts7xllitexxx,Galaxy Tab S7 FE 5G,SM7225,gts7xllite,samsung,4096,36
+q2qzcx,Galaxy Z Fold3 5G,SM8350,q2q,samsung,12288,8
+a8xeltezt,Galaxy A8(2016),Exynos 7420,a8xelte,samsung,3072,13
+a41eea,Galaxy A41,MT6768,a41,samsung,4096,51
+gteslteuc,Galaxy Tab E 8.0,Exynos 3475,gteslteatt,samsung,1536,19
+e7ltexx,Galaxy E7,MSM8916,e7lte,samsung,2048,14
+y2qsqw,Galaxy S20+ 5G,SM8250,y2q,samsung,12288,48
+starqlteue,Galaxy S9,SDM845,starqlteue,samsung,4096,50
+e73gxx,Galaxy E7,MSM8216,e73g,samsung,2048,18
+a40eea,Galaxy A40,Exynos 7904,a40,samsung,4096,51
+star2lteser,Galaxy S9+,Exynos 9810,star2lte,samsung,6144,35
+nobleltetmo,Galaxy Note5,Exynos 7420,nobleltetmo,samsung,4096,26
+gvwifizs,Galaxy View,Exynos 7580,gvwifiue,samsung,2048,1
+t0ltetmo,Galaxy Note2,Exynos 4412,t0ltetmo,samsung,2048,1
+a7y18ltejt,Galaxy A7 (2018),Exynos 7885,a7y18lte,samsung,4096,49
+gts3lwifixx,Galaxy Tab S3,APQ8096,gts3lwifi,samsung,4096,46
+gts7xllitezc,Galaxy Tab S7 FE,SM7225,gts7xllite,samsung,4096,2
+matisseltexx,Galaxy Tab4 10.0,MSM8926,matisselte,samsung,1536,15
+m13dd,Galaxy F13,Exynos 850,m13,samsung,4096,30
+j6lteub,Galaxy J6,Exynos 7870,j6lte,samsung,2048,36
+cepheus,MI 9,SDM855,cepheus,Xiaomi,6144,1
+m21nstur,Galaxy M21,Exynos 9611,m21,samsung,4096,32
+j3topeltetfnvzw,Galaxy J3 Orbit,Exynos 7884A,j3topeltetfnvzw,samsung,2048,32
+xcover5kx,Galaxy XCover 5,Exynos 850,xcover5,samsung,4096,29
+j7eltexx,Galaxy J7,Exynos 7580,j7elte,samsung,1536,32
+a8xelteskt,Galaxy A8(2016),Exynos 7420,a8xelteskt,samsung,3072,12
+milletltelgt,Galaxy Tab4 8.0,MSM8926,milletltelgt,samsung,1536,1
+a8ltezc,Galaxy A8,MSM8939,a8ltechn,samsung,2048,2
+j2y18ltexx,Galaxy J2,MSM8917,j2y18lte,samsung,1536,12
+j5ltezt,Galaxy J5,MSM8916,j5lte,samsung,1536,6
+j3ltezt,Galaxy J3(2016),MSM8916,j3ltetw,samsung,1536,2
+jfltevj,Galaxy S4,APQ8064,jflte,samsung,2048,2
+j3toplteue,Galaxy J3,Exynos 7570,j3toplteue,samsung,2048,10
+greatqlteue,Galaxy Note8,MSM8998,greatqlteue,samsung,6144,35
+r0sxser,Galaxy S22,s5e9925,r0s,samsung,8192,14
+f12ins,Galaxy F12,Exynos 850,f12,samsung,4096,37
+m20ltedx,Galaxy M20,Exynos 7904,m20lte,samsung,3072,37
+serranovolteuc,Galaxy S4 Mini,MSM8930,serranovolteatt,samsung,1536,2
+r1qser,Galaxy A80,SM7150,r1q,samsung,8192,20
+a71xnsxx,Galaxy A71 5G,Exynos 980,a71x,samsung,8192,29
+trltetmo,Galaxy Note4,APQ8084,trltetmo,samsung,3072,11
+y2qzcx,Galaxy S20+ 5G,SM8250,y2q,samsung,12288,12
+dreamlteeea,Galaxy S8,Exynos 8895,dreamlte,samsung,4096,25
+a71naser,Galaxy A71,SM7150,a71,samsung,6144,38
+on5ltemtr,Galaxy On5,Exynos 3475,on5ltemtr,samsung,1536,10
+t0ltexx,Galaxy Note2,Exynos 4412,t0lte,samsung,2048,3
+zenltexx,Galaxy S6 edge+,Exynos 7420,zenlte,samsung,4096,35
+gts8pwifitur,Galaxy Tab S8+,SM8450,gts8pwifi,samsung,8192,7
+SC-42A,Galaxy A21,Exynos 7884B,SC-42A,samsung,3072,32
+d2vl,Galaxy S3,MSM8960,d2can,samsung,2048,2
+a7lteskt,Galaxy A7,MSM8939,a7lteskt,samsung,2048,4
+gts28ltekx,Galaxy Tab S2 8.0,Exynos 5433,gts28ltekx,samsung,3072,6
+jfltespr,Galaxy S4,APQ8064,jfltespr,samsung,2048,1
+gts4lltekx,Galaxy Tab S4,MSM8998,gts4lltekx,samsung,4096,24
+tbltedt,Galaxy Note Edge,APQ8084,tblte,samsung,3072,5
+gracerltexx,Galaxy Note Fan Edition,Exynos 8890,gracerlte,samsung,4096,34
+a6pltezh,Galaxy A6+,SDM450,a6pltechn,samsung,4096,23
+grandppltedtvvj,Galaxy Grand Prime Plus,MT6737T,grandppltedtv,samsung,1536,31
+a5xelteub,Galaxy A5(2016),Exynos 7580,a5xelte,samsung,2048,23
+a7xelteskt,Galaxy A7(2016),Exynos 7580,a7xelteskt,samsung,3072,10
+trhpltexx,Galaxy Note4,Exynos 5433,trhplte,samsung,3072,15
+v1awifizs,Galaxy Note Pro 12.2,Exynos 5420,v1awifi,samsung,3072,1
+j5x3gjv,Galaxy J5(2016),MSM8216,j5x3g,samsung,2048,24
+gta4lwifieea,Galaxy Tab A7,SM6115,gta4lwifi,samsung,3072,56
+chagallwifizs,Galaxy Tab S 10.5,Exynos 5420,chagallwifi,samsung,3072,7
+a12snsser,Galaxy A12,Exynos 850,a12s,samsung,3072,43
+on7xeltezt,Galaxy J7 Prime,Exynos 7870,on7xelte,samsung,3072,31
+hero2qltezc,Galaxy S7 edge,MSM8996,hero2qltechn,samsung,4096,12
+a6pltektt,Galaxy Jean,SDM450,a6pltektt,samsung,3072,22
+heroltelgt,Galaxy S7,Exynos 8890,heroltelgt,samsung,4096,28
+gts4lvwifiser,Galaxy Tab S5e,SDM670,gts4lvwifi,samsung,4096,11
+afyonltevl,Galaxy Core,MSM8926,afyonltecan,samsung,1536,6
+j2y18lteser,Galaxy J2,MSM8917,j2y18lte,samsung,1536,29
+c2sxx,Galaxy Note20 Ultra,Exynos 990,c2s,samsung,12288,49
+f2qxser,Galaxy Z Fold2 5G,SM8250Pro,f2q,samsung,12288,10
+a51nnxx,Galaxy A51,Exynos 9611,a51,samsung,4096,51
+gta4lvewifixx,Galaxy Tab A7,T618,gta4lvewifi,samsung,3072,21
+gts7lsqw,Galaxy Tab S7 5G,SM8250Pro,gts7l,samsung,6144,31
+a3coreub,Galaxy A03 Core,SC9863A,a3core,samsung,2048,46
+gts6lxx,Galaxy Tab S6,SM8150,gts6l,samsung,6144,44
+begonia,Redmi Note 8 Pro,MT6785T,begonia,Redmi,8192,1
+m2altexx,Galaxy K Zoom,Exynos 5260,m2alte,samsung,2048,1
+a71zh,Galaxy A71,SM7150,a71,samsung,6144,34
+a20exx,Galaxy A20e,Exynos 7884B,a20e,samsung,3072,29
+lt03wifikx,Galaxy Note 10.1 2014 Edition,Exynos 5420,lt03wifikx,samsung,3072,2
+j3xproltezc,Galaxy J3 Pro,MSM8916,j3xproltechn,samsung,2048,19
+gts7xllitetur,Galaxy Tab S7 FE,SM7225,gts7xllite,samsung,4096,13
+gts28wifixx,Galaxy Tab S2,Exynos 5433,gts28wifi,samsung,3072,30
+zeroflteuc,Galaxy S6,Exynos 7420,zeroflteatt,samsung,3072,26
+b0sxeea,Galaxy S22 Ultra,s5e9925,b0s,samsung,8192,54
+m22jvtur,Galaxy M22,MT6769T,m22,samsung,4096,24
+gta7litecs,Galaxy Tab A7 Lite,MT8768T,gta7lite,samsung,3072,29
+t0ltedv,Galaxy Note2,Exynos 4412,t0lte,samsung,2048,1
+y2sser,Galaxy S20+,Exynos 990,y2s,samsung,12288,32
+gts210veltedx,Galaxy Tab S2,MSM8976,gts210velte,samsung,3072,23
+ms01ltektt,Galaxy Grand2,MSM8926,ms01ltektt,samsung,1536,2
+gvltektt,Galaxy view,Exynos 7580,gvltektt,samsung,2048,1
+r8qsqx,Galaxy S20 FE 5G,SM8250,r8q,samsung,6144,50
+gts6lvzw,Galaxy Tab S6,SM8150,gts6l,samsung,6144,31
+q4qzhx,Galaxy Z Fold4,SM8475,q4q,samsung,12288,16
+a50dd,Galaxy A50,Exynos 9610,a50,samsung,6144,61
+gtexslteub,Galaxy Tab A 7.0,SC9830I,gtexslte,samsung,1536,17
+a03sub,Galaxy A03s,MT6765,a03s,samsung,3072,52
+matissewifikx,Galaxy Tab4 10.1,APQ8026,matissewifikx,samsung,1536,3
+grandprimelteuc,Galaxy Go Prime,MSM8916,grandprimelteatt,samsung,1536,7
+a30czt,Galaxy A40s,Exynos 7904,a30c,samsung,6144,9
+gts7lwifiser,Galaxy Tab S7,SM8250Pro,gts7lwifi,samsung,6144,18
+gtexswifizs,Galaxy Tab A 7.0,SC7730SW,gtexswifi,samsung,1536,6
+jadeltezm,Galaxy C8,MT6757V,jadeltecmcc,samsung,3072,4
+b0qxtur,Galaxy S22 Ultra ,SM8450,b0q,samsung,8192,18
+degasvelteub,Galaxy Tab4 7.0,PXA1908,degasvelte,samsung,1536,1
+klteacg,Galaxy S5,MSM8974,klteacg,samsung,2048,1
+a9y18qltekx,Galaxy A9 (2018),SDM660,a9y18qltekx,samsung,6144,29
+SC-51C,Galaxy S22,SM8450,SC-51C,samsung,8192,22
+chagallltetdzc,Galaxy TabS 10.5,Exynos 5420,chagalllte,samsung,3072,2
+a9y18qltezc,Galaxy A9s,SDM660,a9y18qltechn,samsung,6144,4
+q4qxeea,Galaxy Z Fold4,SM8475,q4q,samsung,12288,36
+c7proltezc,Galaxy C7 Pro,MSM8953,c7proltechn,samsung,4096,3
+m32eea,Galaxy M32,MT6769T,m32,samsung,4096,32
+zenlteub,Galaxy S6 edge+,Exynos 7420,zenlte,samsung,4096,20
+hltespr,Galaxy Note3,MSM8974,hltespr,samsung,3072,4
+a32xcs,Galaxy A32 5G,MT6853V/NZA,a32x,samsung,6144,39
+o1sxtur,Galaxy S21 5G,Exynos 2100,o1s,samsung,8192,23
+xcover4sxx,Galaxy XCover 4s,Exynos 7884,xcover4s,samsung,3072,12
+x1quex,Galaxy S20 5G,SM8250,x1q,samsung,12288,42
+a8elteskt,Galaxy A8,Exynos 5430,a8elteskt,samsung,2048,6
+j7popqltetfnvzw,Galaxy J7 Pop,MSM8917,j7popqltetfnvzw,samsung,2048,18
+gts7xlkxx,Galaxy Tab S7+ 5G,SM8250Pro,gts7xl,samsung,6144,17
+r8qsqw,Galaxy S20 FE 5G,SM8250,r8q,samsung,6144,47
+gta7litewifixx,Galaxy Tab A7 Lite,MT8768N,gta7litewifi,samsung,3072,58
+milletltetmo,Galaxy Tab4 8.0,MSM8926,milletltetmo,samsung,1536,4
+c1qzhx,Galaxy Note20 5G,SM8250Pro,c1q,samsung,8192,26
+j3topltetfntmo,Galaxy J3 Orbit,Exynos 7570,j3topltetfntmo,samsung,2048,8
+a31ser,Galaxy A31,MT6768,a31,samsung,4096,44
+hl3gjv,Galaxy Note3 Neo,Exynos 5260,hl3g,samsung,1984,5
+a22xub,Galaxy A22 5G,MT6833V/NZA,a22x,samsung,4096,43
+gts8uwifiser,Galaxy Tab S8 Ultra,SM8450,gts8uwifi,samsung,8192,4
+b2quew,Galaxy Z Flip3 5G,SM8350,b2q,samsung,8192,33
+a33xnseea,Galaxy A33 5G,s5e8825,a33x,samsung,6144,46
+a10ecs,Galaxy A10e,Exynos 7884B,a10e,samsung,2048,28
+z3qzhx,Galaxy S20 Ultra 5G,SM8250,z3q,samsung,12288,21
+astarqltezt,Galaxy A8 Star,SDM660,astarqlte,samsung,4096,17
+gtactive2ltekx,Galaxy Tab Active2,Exynos 7870,gtactive2ltekx,samsung,3072,2
+beyond1qlterkt,Galaxy S10,SM8150,beyond1q,samsung,8192,17
+a50szh,Galaxy A50s,Exynos 9611,a50s,samsung,4096,38
+zeroltezc,Galaxy S6 Edge,Exynos 7420,zeroltechn,samsung,3072,2
+a9xltezh,Galaxy-A9(2016),MSM8976,a9xltechn,samsung,3072,7
+c2seea,Galaxy Note20 Ultra,Exynos 990,c2s,samsung,12288,8
+frescoltelgt,Galaxy Note3 Neo,MSM8974,frescoltelgt,samsung,2048,5
+b0sxser,Galaxy S22 Ultra,s5e9925,b0s,samsung,8192,16
+a10sins,Galaxy M01s,MT6762,a10s,samsung,2048,27
+a70qdx,Galaxy A70,SM6150,a70q,samsung,6144,44
+m11qnntur,Galaxy M11,SDM450,m11q,samsung,3072,24
+a02cisxx,Galaxy A02,MT6739WW,a02,samsung,3072,27
+j7popelteue,Galaxy J7,Exynos 7870,j7popelteue,samsung,2048,18
+b0qsqw,Galaxy S22 Ultra,SM8450,b0q,samsung,8192,50
+a70qdo,Galaxy A70,SM6150,a70q,samsung,6144,24
+a20ptfn,Galaxy A20,Exynos 7904,a20p,samsung,3072,33
+dreamqltevl,Galaxy S8,MSM8998,dreamqltecan,samsung,4096,47
+gts4lvuc,Galaxy Tab S5e,SDM670,gts4lv,samsung,4096,30
+gvwifiue,Galaxy View,Exynos 7580,gvwifiue,samsung,2048,15
+j5lteub,Galaxy J5,MSM8916,j5lte,samsung,1536,30
+gtaxlltekx,Galaxy Tab A (2016),Exynos 7870,gtaxlltekx,samsung,2048,16
+r8sser,Galaxy S20 FE,Exynos 990,r8s,samsung,6144,27
+zeroltespr,Galaxy S6 Edge,Exynos 7420,zeroltespr,samsung,3072,15
+c1qsqw,Galaxy Note20 5G,SM8250Pro,c1q,samsung,8192,45
+gts210velteuc,Galaxy Tab S2 9.7,MSM8976,gts210velteatt,samsung,3072,8
+dreamqltezc,Galaxy S8,MSM8998,dreamqltechn,samsung,4096,18
+j3ltedx,Galaxy J3(2016),MSM8916,j3ltetw,samsung,1536,1
+gts210wifixx,Galaxy Tab S2,Exynos 5433,gts210wifi,samsung,3072,36
+gt5note8wifizs,Galaxy Tab A 8.0,APQ8016,gt5note8wifi,samsung,2048,7
+gta2swifidx,Galaxy Tab A (2017),APQ8017,gta2swifi,samsung,2048,41
+a10dd,Galaxy A10,Exynos 7884B,a10,samsung,2048,47
+a10ekx,Galaxy A10e,Exynos 7884B,a10ekx,samsung,2048,22
+bloomxquex,Galaxy Z Flip 5G,SM8250Pro,bloomxq,samsung,8192,14
+a51xsq,Galaxy A51 5G,Exynos 980,a51x,samsung,6144,46
+lt033gxx,Galaxy Note 10.1 2014 Edition,Exynos 5420,lt033g,samsung,3072,14
+hltedx,Galaxy Note3,MSM8674,hlte,samsung,3072,6
+gts8uwifieea,Galaxy Tab S8 Ultra,SM8450,gts8uwifi,samsung,8192,34
+nobleltezh,Galaxy Note5,Exynos 7420,nobleltehk,samsung,4096,16
+r3qzc,Galaxy A90 5G,SM8150,r3q,samsung,6144,6
+gta4xlwifizc,Galaxy Tab S6 Lite,Exynos 9611,gta4xlwifi,samsung,4096,6
+on5xfltezc,Galaxy On5 2016 时尚版,MSM8917,on5xfltechn,samsung,2048,13
+kltetu,Galaxy S5,MSM8974,klteaio,samsung,2048,1
+c1skt,Galaxy S3,Exynos 4412,c1skt,samsung,2048,2
+r5que,Galaxy S10 Lite,SM8150,r5q,samsung,8192,25
+m21nseea,Galaxy M21,Exynos 9611,m21,samsung,4096,38
+starqltezc,Galaxy S9,SDM845,starqltechn,samsung,4096,12
+jactivelteskt,Galaxy S4 Active,MSM8974,jactivelteskt,samsung,2048,3
+hllteub,Galaxy Note3 Neo,Exynos 5260,hllte,samsung,1984,1
+on7xreflteskt,Galaxy On7 Prime,Exynos 7870,on7xreflteskt,samsung,3072,14
+zerolteskt,Galaxy S6 Edge,Exynos 7420,zerolteskt,samsung,3072,16
+o1sxser,Galaxy S21 5G,Exynos 2100,o1s,samsung,8192,32
+r8stur,Galaxy S20 FE,Exynos 990,r8s,samsung,6144,24
+serranoltebmc,Galaxy S4 Mini,MSM8930,serranoltebmc,samsung,1536,1
+gta8zc,Galaxy Tab A8,T618,gta8,samsung,3072,3
+xcoverprouc,Galaxy XCover Pro,Exynos 9611,xcoverpro,samsung,4096,10
+konaltexx,Galaxy Note 8.0,Exynos 4412,konalte,samsung,2048,2
+xcoverprocs,Galaxy XCover Pro,Exynos 9611,xcoverpro,samsung,4096,13
+p4notewifiany,Galaxy Note 10.1,Exynos 4412,p4notewifiany,samsung,2048,3
+novelltektt,Galaxy Folder,Exynos 3475,novelltektt,samsung,1536,3
+a51sq,Galaxy A51,Exynos 9611,a51,samsung,4096,45
+SC-04F,Galaxy S5,MSM8974,SC-04F,samsung,2048,6
+a03suue,Galaxy A03s,MT6765,a03su,samsung,3072,25
+a13xnsxx,Galaxy A13 5G,MT6833V/NZA,a13x,samsung,4096,18
+gta4xlwifikx,Galaxy Tab S6 Lite,Exynos 9611,gta4xlwifi,samsung,4096,24
+j7xelteub,Galaxy J7(2016),Exynos 7870,j7xelte,samsung,2048,44
+a70qxtc,Galaxy A70,SM6150,a70q,samsung,6144,50
+j3xltetuz,Galaxy J3(2016),Exynos 3475,j3xlteaio,samsung,1536,2
+gts8xeea,Galaxy Tab S8 5G,SM8450,gts8,samsung,8192,28
+c7ltezc,Galaxy C7,MSM8953,c7ltechn,samsung,4096,6
+cruiserlteuc,Galaxy S8 Active,MSM8998,cruiserlteatt,samsung,4096,36
+zenlteusc,Galaxy S6 Edge+,Exynos 7420,zenlteusc,samsung,4096,2
+SC-03J,Galaxy S8+,MSM8998,SC-03J,samsung,4096,18
+matisselteusc,Galaxy Tab4 10.0,MSM8926,matisselteusc,samsung,1536,1
+noblelteub,Galaxy Note5,Exynos 7420,noblelte,samsung,4096,21
+a22nsser,Galaxy A22,MT6769T,a22,samsung,4096,39
+p3qzhx,Galaxy S21 Ultra 5G,SM8350,p3q,samsung,12288,31
+a72qub,Galaxy A72,SM7125,a72q,samsung,6144,39
+a71nsxx,Galaxy A71,SM7150,a71,samsung,6144,64
+y2qksx,Galaxy S20+ 5G,SM8250,y2q,samsung,12288,36
+m20ltecis,Galaxy M20,Exynos 7904,m20lte,samsung,3072,23
+gts6ltur,Galaxy Tab S6,SM8150,gts6l,samsung,6144,6
+on5xlltezc,Galaxy On5 2016 青春版,MSM8917,on5xlltechn,samsung,2048,9
+gts8wifitur,Galaxy Tab S8,SM8450,gts8wifi,samsung,8192,14
+chagallltexx,Galaxy TabS 10.5,Exynos 5420,chagalllte,samsung,3072,23
+xcoverproeea,Galaxy XCover Pro,Exynos 9611,xcoverpro,samsung,4096,28
+a7xeltelgt,Galaxy A7(2016),Exynos 7580,a7xeltelgt,samsung,3072,10
+gtesltekttp,Galaxy TabE 8.0,Exynos 3475,gtesltektt,samsung,1536,3
+gtanotexlltejx,Galaxy Tab A (2016) with S Pen,Exynos 7870,gtanotexllte,samsung,3072,20
+a20eeea,Galaxy A20e,Exynos 7884B,a20e,samsung,3072,55
+on7xeltelgt,Galaxy On7(2016),Exynos 7870,on7xeltelgt,samsung,3072,14
+j3popeltemtr,Galaxy J3 Prime,Exynos 7570,j3popeltemtr,samsung,1536,19
+kltetfnmm,Galaxy S5,MSM8974AC,kltetfnvzw,samsung,2048,2
+b2qzhx,Galaxy Z Flip3 5G,SM8350,b2q,samsung,8192,26
+a32ks,Galaxy A32,MT6769T,a32,samsung,4096,39
+picassowifixx,Galaxy Tab Pro 10.1,Exynos 5420,picassowifi,samsung,2048,6
+e5lteub,Galaxy E5,MSM8916,e5lte,samsung,1536,8
+gta7litesqnc,Galaxy Tab A7 Lite,MT8768T,gta7lite,samsung,3072,35
+j2y18ltextc,Galaxy J2 Pro,MSM8917,j2y18lte,samsung,1536,15
+r8qser,Galaxy S20 FE,SM8250,r8q,samsung,6144,31
+gta3xlspr,Galaxy Tab A,Exynos 7904,gta3xl,samsung,2048,30
+milletwifikx,Galaxy Tab 4 8.0,APQ8026,milletwifikx,samsung,1536,2
+gts4lwifixx,Galaxy Tab S4,MSM8998,gts4lwifi,samsung,4096,47
+m01qser,Galaxy M01,SDM439,m01q,samsung,3072,18
+SC-55C,Galaxy Z Fold4,SM8475,SC-55C,samsung,12288,5
+r8qksx,Galaxy S20 FE 5G,SM8250,r8q,samsung,6144,33
+a22nstur,Galaxy A22,MT6769T,a22,samsung,4096,32
+gts8pxser,Galaxy Tab S8+ 5G,SM8450,gts8p,samsung,8192,3
+zenltebmc,Galaxy S6 Edge+,Exynos 7420,zenltebmc,samsung,4096,6
+m20kx,Galaxy M20,Exynos 7904,m20,samsung,3072,9
+a30sser,Galaxy A30s,Exynos 7904,a30s,samsung,3072,31
+grandppltedx,Galaxy J2 Prime,MT6737T,grandpplte,samsung,1536,33
+a3y17ltexx,Galaxy A3(2017),Exynos 7870,a3y17lte,samsung,2048,27
+a21snseea,Galaxy A21s,Exynos 850,a21s,samsung,3072,53
+m30lteub,Galaxy M30,Exynos 7904,m30lte,samsung,4096,36
+heroqltemtr,Galaxy S7,MSM8996,heroqltemtr,samsung,4096,9
+gtasliteltespr,Galaxy Tab A 8,MSM8917,gtasliteltespr,samsung,2048,14
+lt02lteuc,Galaxy Tab3 7.0,MSM8930AB,lt02lteatt,samsung,1536,4
+SCG13_jp_kdi,Galaxy S22,SM8450,SCG13,samsung,8192,15
+q2qxtur,Galaxy Z Fold3 5G,SM8350,q2q,samsung,12288,10
+gts7xlxeea,Galaxy Tab S7+ 5G,SM8250Pro,gts7xl,samsung,6144,36
+starqltezm,Galaxy S9,SDM845,starqltecmcc,samsung,4096,2
+gt510wifildu,Galaxy Tab A 9.7,APQ8016,gt510wifi,samsung,1536,1
+gts6lusc,Galaxy Tab S6,SM8150,gts6l,samsung,6144,11
+a51xnaeea,Galaxy A51 5G,Exynos 980,a51x,samsung,6144,37
+beyond2ltexx,Galaxy S10+,Exynos 9820,beyond2,samsung,8192,57
+winnerlteeea,Galaxy Fold,SM8150,winner,samsung,12288,13
+a7y17ltexx,Galaxy A7(2017),Exynos 7880,a7y17lte,samsung,3072,48
+beyond0qlteue,Galaxy S10e,SM8150,beyond0q,samsung,6144,44
+a30ks,Galaxy A30,Exynos 7904,a30,samsung,4096,30
+hltezh,Galaxy Note3,MSM8674,hlte,samsung,3072,5
+SC-02M,Galaxy A20,Exynos 7884B,SC-02M,samsung,3072,21
+degaswifiue,Galaxy Tab4 7.0,PXA1088,degaswifiue,samsung,1536,7
+bloomqeea,Galaxy Z Flip,SM8150P,bloomq,samsung,8192,24
+a32tur,Galaxy A32,MT6769T,a32,samsung,4096,40
+a03snsxx,Galaxy A03s,MT6765,a03s,samsung,3072,18
+hlteztu,Galaxy Note3,MSM8674,hlte,samsung,3072,2
+bloomque,Galaxy Z Flip,SM8150P,bloomq,samsung,8192,10
+gts8uzcx,Galaxy Tab S8 Ultra 5G,SM8450,gts8u,samsung,8192,1
+lentisltektt,Galaxy S5,APQ8084,lentisltektt,samsung,3072,5
+gta4xlwifildu,Galaxy Tab S6 Lite,Exynos 9611,gta4xlwifi,samsung,4096,6
+starlteks,Galaxy S9,Exynos 9810,starlteks,samsung,4096,37
+konaltevl,Galaxy Note 8.0,Exynos 4412,konaltecan,samsung,1832,2
+hltexx,Galaxy Note3,MSM8674,hlte,samsung,3072,12
+j3topltetmo,Galaxy J3 Star,Exynos 7570,j3topltetmo,samsung,2048,17
+gta3xlinu,Galaxy Tab A,Exynos 7904,gta3xl,samsung,2048,25
+gts7xllitekx,Galaxy Tab S7 FE,SM7225,gts7xllite,samsung,4096,20
+xcoverpro2eea,Galaxy XCover6 Pro,SM7325,xcoverpro2,samsung,6144,14
+a02dx,Galaxy M02,MT6739WW,a02,samsung,3072,28
+a22xnnzh,Galaxy A22 5G,MT6833V/NZA,a22x,samsung,4096,32
+klteMetroPCS,Galaxy S5,MSM8974,klteMetroPCS,samsung,2048,1
+a50cis,Galaxy A50,Exynos 9610,a50,samsung,6144,38
+j6primelteub,Galaxy J6+,MSM8917,j6primelte,samsung,3072,42
+m52xqtur,Galaxy M52 5G,SM7325,m52xq,samsung,6144,25
+m30seea,Galaxy M30s,Exynos 9611,m30s,samsung,4096,29
+nobleltelgt,Galaxy Note5,Exynos 7420,nobleltelgt,samsung,4096,30
+zenltelgt,Galaxy S6 Edge+,Exynos 7420,zenltelgt,samsung,4096,8
+j7poplteusc,Galaxy J7,MSM8953,j7poplteusc,samsung,2048,5
+d2spr,Galaxy S3,MSM8960,d2spr,samsung,2048,2
+s3ve3gdsxx,Galaxy S3 Neo,MSM8228,s3ve3gds,samsung,1536,7
+gt58ltebmc,Galaxy Tab A S 8.0,MSM8916,gt58ltebmc,samsung,2048,3
+j5y17lteub,Galaxy J5 Pro,Exynos 7870,j5y17lte,samsung,2048,36
+nobleltejv,Galaxy Note5,Exynos 7420,noblelte,samsung,4096,40
+trelteskt,Galaxy Note4,Exynos 5433,trelteskt,samsung,3072,15
+j3ltetfnvzw,Galaxy J3(2016),MSM8916,j3ltetfnvzw,samsung,1536,3
+gta2xlltespr,"Galaxy Tab A (10.5\"""")",SDM450,gta2xlltespr,samsung,3072,17
+gts28ltexx,Galaxy Tab S2,Exynos 5433,gts28lte,samsung,3072,23
+gts8uwifijpn,Galaxy Tab S8 Ultra,SM8450,gts8uwifi,samsung,8192,1
+gtactivexlcs,Galaxy Tab Active Pro,SDM670,gtactivexl,samsung,4096,4
+b2qcsx,Galaxy Z Flip3 5G,SM8350,b2q,samsung,8192,31
+hero2ltelgt,Galaxy S7 edge,Exynos 8890,hero2ltelgt,samsung,4096,26
+j2y18ltedx,Galaxy J2 Pro,MSM8917,j2y18lte,samsung,1536,33
+a73xqser,Galaxy A73 5G,SM7325,a73xq,samsung,6144,1
+a04snntur,Galaxy A04s,Exynos 850,a04s,samsung,3072,26
+a30dtvvj,Galaxy A30,Exynos 7904,a30,samsung,4096,44
+degasltezt,Galaxy Tab4 7.0,Exynos 3470,degaslte,samsung,1536,5
+heroltektt,Galaxy S7,Exynos 8890,heroltektt,samsung,4096,31
+a7y18verkt,Galaxy A7,Exynos 7885,a7y18ve,samsung,4096,18
+gtactive3tur,Galaxy Tab Active3,Exynos 9810,gtactive3,samsung,4096,5
+a01que,Galaxy A01,SDM439,a01q,samsung,2048,4
+gtexsltejv,Galaxy Tab A 7.0,SC9830I,gtexslte,samsung,1536,7
+gts8pwifijpn,Galaxy Tab S8+,SM8450,gts8pwifi,samsung,8192,3
+gt58ltetmo,Galaxy Tab A 8.0,MSM8916,gt58ltetmo,samsung,2048,13
+gteslteskt,Galaxy Tab E 8.0,Exynos 3475,gteslteskt,samsung,1536,5
+y2quew,Galaxy S20+ 5G,SM8250,y2q,samsung,12288,33
+j3poplteacg,Galaxy J3,MSM8917,j3poplteacg,samsung,1536,4
+r0qxxx,Galaxy S22,SM8450,r0q,samsung,8192,45
+a01qcha,Galaxy A01,SDM439,a01q,samsung,2048,15
+j3xltetu,Galaxy J3(2016),Exynos 3475,j3xlteaio,samsung,1536,8
+a50ser,Galaxy A50,Exynos 9610,a50,samsung,6144,38
+gts7xlser,Galaxy Tab S7+,SM8250Pro,gts7xl,samsung,6144,21
+j3topltetuz,SM-J336AZ,Exynos 7570,j3toplteaio,samsung,2048,2
+j6ltedtvvj,Galaxy J6,Exynos 7870,j6lte,samsung,2048,42
+o1qsqw,Galaxy S21 5G,SM8350,o1q,samsung,8192,57
+greatqltezc,Galaxy Note8,MSM8998,greatqltechn,samsung,6144,14
+f42xskt,Galaxy Wide5,MT6833V/NZA,f42x,samsung,6144,33
+a60qzh,Galaxy A60,SM6150,a60q,samsung,6144,31
+t2sksx,Galaxy S21+ 5G,Exynos 2100,t2s,samsung,8192,34
+klimtltedo,Galaxy Tab S 8.4,Exynos 5420,klimtlte,samsung,3072,1
+j7maxlteins,Galaxy J7 Max,MT6757V,j7maxlte,samsung,4096,33
+gts4lvwifieea,Galaxy Tab S5e,SDM670,gts4lvwifi,samsung,4096,46
+p4noteltexx,Galaxy Note 10.1,Exynos 4412,p4notelte,samsung,2048,5
+zeroltedv,Galaxy S6 Edge,Exynos 7420,zerolte,samsung,3072,27
+gprimeltetmo,Galaxy Grand Prime,MSM8916,gprimeltetmo,samsung,1536,7
+jfveltexx,Galaxy S4,APQ8064,jfvelte,samsung,2048,6
+a7xltezh,Galaxy A7(2016),MSM8939,a7xltechn,samsung,3072,14
+jactivelteuc,Galaxy S4 Active,APQ8064,jactivelteatt,samsung,2048,1
+q4qxtur,Galaxy Z Fold4,SM8475,q4q,samsung,12288,9
+kellyltezc,SM-W2018,MSM8998,kellyltechn,samsung,6144,3
+crownlteser,Galaxy Note9,Exynos 9810,crownlte,samsung,6144,26
+h3gzc,Galaxy Note3,MSM8674,hlte,samsung,3072,3
+zerofltezt,Galaxy S6,Exynos 7420,zerofltechn,samsung,3072,6
+m21ins,Galaxy M21 2021 Edition,Exynos 9611,m21,samsung,4096,33
+dreamlteldu,Galaxy S8,Exynos 8895,dreamlte,samsung,4096,4
+a52qnsser,Galaxy A52,SM7125,a52q,samsung,4096,41
+r9qxeea,Galaxy S21 FE 5G,SM8350,r9q,samsung,6144,54
+gtaxlltexx,Galaxy Tab A (2016),Exynos 7870,gtaxllte,samsung,2048,47
+r8qxxx,Galaxy S20 FE 5G,SM8250,r8q,samsung,6144,57
+j2corepltetu,Galaxy J2 Pure,Exynos 7570,j2coreplteaio,samsung,2048,24
+gta8wifitur,Galaxy Tab A8,T618,gta8wifi,samsung,3072,32
+a13nseea,Galaxy A13,Exynos 850,a13,samsung,3072,49
+j7toplteskt,Galaxy Wide3,Exynos 7870,j7toplteskt,samsung,2048,25
+serranove3gxx,Galaxy S4 Mini,MSM8216,serranove3g,samsung,1536,5
+gts6lkx,Galaxy Tab S6,SM8150,gts6l,samsung,6144,23
+m21nsser,Galaxy M21,Exynos 9611,m21,samsung,4096,34
+m13nntur,Galaxy M13,Exynos 850,m13,samsung,4096,20
+mondrianwifiue,Galaxy Tab Pro 8.4,APQ8074,mondrianwifiue,samsung,2048,1
+m20lteub,Galaxy M20,Exynos 7904,m20lte,samsung,3072,34
+p4noteltektt,Galaxy Note 10.1,Exynos 4412,p4noteltektt,samsung,2048,1
+hlteuc,Galaxy Note3,MSM8974,hlteatt,samsung,3072,6
+SC-04J,Galaxy Feel,Exynos 7870,SC-04J,samsung,3072,26
+a04sub,Galaxy A04s,Exynos 850,a04s,samsung,3072,16
+beyond1ltexx,Galaxy S10,Exynos 9820,beyond1,samsung,8192,60
+klteuc,Galaxy S5,MSM8974,klteatt,samsung,2048,11
+bloomxqxeea,Galaxy Z Flip 5G,SM8250Pro,bloomxq,samsung,8192,26
+r9q2xxx,Galaxy S21 FE 5G,SM8350,r9q,samsung,6144,27
+SC-51B,Galaxy S21 5G,SM8350,SC-51B,samsung,8192,27
+a10sub,Galaxy A10s,MT6762,a10s,samsung,2048,52
+q2qzhx,Galaxy Z Fold3 5G,SM8350,q2q,samsung,12288,16
+on5xltezh,Galaxy J5 Prime,MSM8952,on5xltechn,samsung,3072,19
+gtesltelgtp,Galaxy TabE 8.0,Exynos 3475,gtesltelgt,samsung,1536,9
+a50ub,Galaxy A50,Exynos 9610,a50,samsung,6144,48
+a52xque,Galaxy A52 5G,SM7225,a52xq,samsung,6144,29
+zenlteskt,Galaxy S6 Edge+,Exynos 7420,zenlteskt,samsung,4096,18
+gtaxladwifikx,Galaxy Tab Advanced2,Exynos 7870,gtaxladwifikx,samsung,3072,22
+degas3gjv,Galaxy Tab4 7.0,PXA1088,degas3g,samsung,1536,4
+m11qnnxx,Galaxy M11,SDM450,m11q,samsung,3072,46
+a02qins,Galaxy M02s,SDM450,a02q,samsung,2048,30
+a6pltedx,Galaxy A6+,SDM450,a6plte,samsung,3072,41
+starqltecs,Galaxy S9,SDM845,starqltecs,samsung,4096,44
+e5ltezt,Galaxy E5,MSM8916,e5ltetw,samsung,1536,2
+SC-52B,Galaxy S21 Ultra 5G,SM8350,SC-52B,samsung,12288,14
+a10esq,Galaxy A10e,Exynos 7884B,a10e,samsung,2048,45
+a13xins,Galaxy M13 5G,MT6833V/NZA,a13x,samsung,4096,22
+j3lteusc,Galaxy J3(2016),MSM8916,j3lteusc,samsung,1536,1
+treltelgt,Galaxy Note4,Exynos 5433,treltelgt,samsung,3072,13
+gprimeltespr,Galaxy Grand Prime,MSM8916,gprimeltespr,samsung,1536,1
+crownqltezh,Galaxy Note9,SDM845,crownqltechn,samsung,6144,44
+dream2qltezh,Galaxy S8+,MSM8998,dream2qltechn,samsung,4096,33
+j4primeltedx,Galaxy J4+,MSM8917,j4primelte,samsung,2048,39
+a8xeltejt,Galaxy A8(2016),Exynos 7420,a8xelte,samsung,3072,19
+mondrianltezs,Galaxy Tab Pro 8.4,MSM8974,mondrianlte,samsung,2048,1
+gtactive3ue,Galaxy Tab Active3,Exynos 9810,gtactive3,samsung,4096,9
+j6lteins,Galaxy On6,Exynos 7870,j6lte,samsung,2048,23
+lt01wifiub,Galaxy Tab3 8.0,Exynos 4212,lt01wifi,samsung,1536,4
+b4qcsx,Galaxy Z Flip4,SM8475,b4q,samsung,8192,25
+m31snstur,Galaxy M31s,Exynos 9611,m31s,samsung,6144,27
+on7nlteskt,Galaxy Wide,MSM8916,on7nlteskt,samsung,2048,10
+kltedd,Galaxy S5,MSM8974,klte,samsung,2048,1
+a21sub,Galaxy A21s,Exynos 850,a21s,samsung,3072,58
+j3poplteusc,Galaxy J3,MSM8917,j3poplteusc,samsung,1536,3
+t2quew,Galaxy S21+ 5G,SM8350,t2q,samsung,8192,34
+gts28ltezs,Galaxy Tab S2 8.0,Exynos 5433,gts28ltechn,samsung,3072,4
+a02qsq,Galaxy A02s,SDM450,a02q,samsung,2048,33
+a30sdx,Galaxy A30s,Exynos 7904,a30s,samsung,3072,47
+zerofltebmc,Galaxy S6,Exynos 7420,zerofltebmc,samsung,3072,28
+gtactivexlwifieea,Galaxy Tab Active Pro,SDM670,gtactivexlwifi,samsung,4096,11
+grandmaxlteub,Galaxy Grand Max,MSM8916,grandmaxltechn,samsung,1536,3
+gts8uwifitur,Galaxy Tab S8 Ultra,SM8450,gts8uwifi,samsung,8192,15
+a10ub,Galaxy A10,Exynos 7884B,a10,samsung,2048,48
+v2qzc,三星W22 5G,SM8350,v2q,samsung,16384,3
+grandmax3gdd,Galaxy Grand Max,MSM8216,grandmax3g,samsung,1536,4
+winnerltecs,Galaxy Fold,SM8150,winner,samsung,12288,1
+a41xx,Galaxy A41,MT6768,a41,samsung,4096,37
+bloomqsq,Galaxy Z Flip,SM8150P,bloomq,samsung,8192,10
+gta7litetur,Galaxy Tab A7 Lite,MT8768T,gta7lite,samsung,3072,3
+j3topeltespr,Galaxy J3 Achieve,Exynos 7884A,j3topeltespr,samsung,2048,21
+g0qzhx,Galaxy S22+,SM8450,g0q,samsung,8192,25
+gtel3gdx,Galaxy Tab E 9.6,SC7730SE,gtel3g,samsung,1536,9
+winnerxxx,Galaxy Fold 5G,SM8150,winner,samsung,12288,3
+heroqltelra,Galaxy S7,MSM8996,heroqltelra,samsung,4096,4
+m30szc,Galaxy M30s,Exynos 9611,m30s,samsung,4096,7
+c2stur,Galaxy Note20 Ultra,Exynos 990,c2s,samsung,12288,25
+hlteskt,Galaxy Note3,MSM8974,hlteskt,samsung,3072,7
+on5xeltejv,Galaxy J5 Prime,Exynos 7570,on5xelte,samsung,2048,36
+degaswifidtvvj,Galaxy Tab4 7.0,APQ8026,degaswifidtv,samsung,1536,6
+gts4lvusc,Galaxy Tab S5e,SDM670,gts4lv,samsung,4096,11
+d1xx,Galaxy Note10,Exynos 9825,d1,samsung,8192,51
+a22xnseea,Galaxy A22 5G,MT6833V/NZA,a22x,samsung,4096,53
+a6pltejx,Galaxy A6+,SDM450,a6plte,samsung,3072,35
+gtasliteltecs,Galaxy Tab A 8.0,MSM8917,gtasliteltecs,samsung,2048,28
+b4qrktw,Galaxy Z Flip4,SM8475,b4q,samsung,8192,5
+ks01ltexx,Galaxy S4,MSM8974,ks01lte,samsung,2048,6
+m21nnxx,Galaxy M21,Exynos 9611,m21,samsung,4096,40
+klteusc,Galaxy S5,MSM8974,klteusc,samsung,2048,4
+gts4lltedd,Galaxy Tab S4,MSM8998,gts4llte,samsung,4096,10
+gracerltektt,Galaxy Note Fan Edition,Exynos 8890,gracerltektt,samsung,4096,18
+a04snnxx,Galaxy A04s,Exynos 850,a04s,samsung,3072,42
+beyond1lteks,Galaxy S10,Exynos 9820,beyond1,samsung,8192,39
+m10ltedd,Galaxy M10,Exynos 7870,m10lte,samsung,3072,31
+a04exx,Galaxy A04e,MT6765,a04e,samsung,3072,30
+SC-53B,Galaxy A52 5G,SM7225,SC-53B,samsung,6144,29
+gts4lvue,Galaxy Tab S5e,SDM670,gts4lv,samsung,4096,21
+a01quc,Galaxy A01,SDM439,a01q,samsung,2048,24
+a7ltezc,Galaxy A7,MSM8939,a7ltechn,samsung,2048,4
+gts4lltezh,Galaxy Tab S4,MSM8998,gts4lltechn,samsung,4096,12
+a30czc,Galaxy A40s,Exynos 7904,a30c,samsung,6144,4
+a6lteks,Galaxy A6,Exynos 7870,a6lteks,samsung,3072,19
+a51xzc,Galaxy A51 5G,Exynos 980,a51x,samsung,6144,6
+wisdomub,Galaxy Tab A with S Pen,Exynos 7904,wisdom,samsung,3072,24
+gtactive3wifieea,Galaxy Tab Active3,Exynos 9810,gtactive3wifi,samsung,4096,7
+a7y17lteskt,Galaxy A7(2017),Exynos 7880,a7y17lteskt,samsung,3072,21
+ms013gssxx,Galaxy Grand2,MSM8226,ms013gss,samsung,1536,1
+kltespr,Galaxy S5,MSM8974,kltespr,samsung,2048,12
+m53xnnxx,Galaxy M53 5G,MT6877,m53x,samsung,6144,28
+d2xar,Galaxy S3,MSM8960,d2xar,samsung,2048,1
+lt03ltetmo,Galaxy Note 10.1 2014 Edition,MSM8974,lt03ltetmo,samsung,3072,3
+a12snnxx,Galaxy A12,Exynos 850,a12s,samsung,3072,61
+j7topltemtr,Galaxy J7 Star,Exynos 7870,j7topltemtr,samsung,2048,32
+gta4leea,Galaxy Tab A7,SM6115,gta4l,samsung,3072,46
+b4qxeea,Galaxy Z Flip4,SM8475,b4q,samsung,8192,39
+d2xq2sq,Galaxy Note10+ 5G,SM8150P,d2xq2,samsung,12288,38
+o1quew,Galaxy S21 5G,SM8350,o1q,samsung,8192,45
+a70qzh,Galaxy A70,SM6150,a70q,samsung,6144,36
+heroqltezc,Galaxy S7,MSM8974,heroqltechn,samsung,2048,3
+j2xlteins,Galaxy J2 Pro,SC9830I,j2xlteins,samsung,2048,14
+starqltesq,Galaxy S9,SDM845,starqltesq,samsung,4096,59
+j5xnltezt,Galaxy J5(2016),MSM8916,j5xnlte,samsung,2048,11
+a22xnnxx,Galaxy A22 5G,MT6833V/NZA,a22x,samsung,4096,49
+gta4lser,Galaxy Tab A7,SM6115,gta4l,samsung,3072,36
+SCG06_jp_kdi,Galaxy Note20 Ultra 5G,SM8250Pro,SCG06,samsung,12288,21
+SCG18_jcm_jp,Galaxy A23 5G,MT6833V/NZA,SCG18,samsung,4096,5
+d1xks,Galaxy Note10 5G,Exynos 9825,d1x,samsung,8192,39
+a51nseea,Galaxy A51,Exynos 9611,a51,samsung,4096,60
+a6eltespr,Galaxy A6,Exynos 7884,a6eltespr,samsung,3072,18
+j7y17ltexxm,Galaxy J7,Exynos 7870,j7y17lte,samsung,3072,26
+beyond2qltezc,Galaxy S10+,SM8150,beyond2q,samsung,8192,13
+o1sxeea,Galaxy S21 5G,Exynos 2100,o1s,samsung,8192,59
+a5y17ltezt,Galaxy A5(2017),Exynos 7880,a5y17lte,samsung,3072,8
+j6primeltedd,Galaxy J6+,MSM8917,j6primelte,samsung,3072,42
+beyondxxx,Galaxy S10 5G,Exynos 9820,beyondx,samsung,8192,31
+j4lteser,Galaxy J4,Exynos 7570,j4lte,samsung,2048,30
+star2qltezc,Galaxy S9+,SDM845,star2qltechn,samsung,6144,16
+b0sxxx,Galaxy S22 Ultra,s5e9925,b0s,samsung,8192,29
+zeroflteusc,Galaxy S6,Exynos 7420,zeroflteusc,samsung,3072,9
+gtexsltedd,Galaxy Tab A 7.0,SC9830I,gtexslteswa,samsung,1536,11
+p3sxeea,Galaxy S21 Ultra 5G,Exynos 2100,p3s,samsung,8192,50
+z3qksx,Galaxy S20 Ultra 5G,SM8250,z3q,samsung,12288,50
+beyond0qltecs,Galaxy S10e,SM8150,beyond0q,samsung,6144,39
+milletlteuc,Galaxy Tab4 8.0,MSM8926,milletlteatt,samsung,1536,13
+greatqltecs,Galaxy Note8,MSM8998,greatqltecs,samsung,6144,26
+a11qub,Galaxy A11,SDM450,a11q,samsung,3072,55
+a20sub,Galaxy A20s,SDM450,a20s,samsung,3072,49
+lt01wifixx,Galaxy Tab3 8.0,Exynos 4212,lt01wifi,samsung,1536,12
+SC-53C,Galaxy A53 5G,s5e8825,SC-53C,samsung,6144,23
+jadeltezc,Galaxy C8,MT6757V,jadeltechn,samsung,4096,5
+crownqltezc,Galaxy Note9,SDM845,crownqltechn,samsung,6144,11
+a31xx,Galaxy A31,MT6768,a31,samsung,4096,49
+beyond0lteser,Galaxy S10e,Exynos 9820,beyond0,samsung,6144,30
+r8sxx,Galaxy S20 FE,Exynos 990,r8s,samsung,6144,50
+gts210ltejv,Galaxy Tab S2 9.7,Exynos 5433,gts210lte,samsung,3072,7
+j3y17lteser,Galaxy J3(2017),Exynos 7570,j3y17lte,samsung,2048,38
+j3popltespr,Galaxy J3 Emerge,MSM8917,j3popltespr,samsung,1536,16
+a5xltezh,Galaxy A5(2016),MSM8939,a5xltechn,samsung,2048,8
+gt5note10wifixx,Galaxy Tab A,APQ8016,gt5note10wifi,samsung,2048,28
+a51xqsqw,Galaxy A51 5G,SM7250,a51xq,samsung,6144,32
+SCG10_jp_kdi,Galaxy S21+ 5G,SM8350,SCG10,samsung,8192,18
+j7ltezm,Galaxy J7,MSM8929,j7ltechn,samsung,1536,5
+klteduosxx,Galaxy S5 Dual SIM,MSM8974,klte,samsung,2048,12
+a20dv,Galaxy A20,Exynos 7884B,a20,samsung,3072,25
+beyond2qltezh,Galaxy S10+,SM8150,beyond2q,samsung,8192,31
+gts7fewifixx,Galaxy Tab S7 FE,SM7325,gts7fewifi,samsung,4096,47
+j5yltedo,Galaxy J5,MSM8916,j5ylte,samsung,1536,3
+j5xnltelgt,Galaxy J5(2016),MSM8916,j5xnltelgt,samsung,2048,7
+hltevl,Galaxy Note3,MSM8974,hltecan,samsung,3072,3
+c1lgt,Galaxy S3,Exynos 4412,c1lgt,samsung,2048,1
+heroqlteacg,Galaxy S7,MSM8996,heroqlteacg,samsung,4096,5
+matisselteuc,Galaxy Tab4 10.0,MSM8926,matisselteatt,samsung,1536,2
+grandprimeltetu,Galaxy Grand Prime,MSM8916,grandprimelteaio,samsung,1536,12
+a8sqltezc,Galaxy A8s,SDM710,a8sqltechn,samsung,6144,11
+r0qcsx,Galaxy S22,SM8450,r0q,samsung,8192,46
+starlteser,Galaxy S9,Exynos 9810,starlte,samsung,4096,33
+herolteldu,Galaxy S7,Exynos 8890,herolte,samsung,4096,2
+lt03wifiue,Galaxy Note 10.1 2014 Edition,Exynos 5420,lt03wifiue,samsung,3072,9
+gta3xleea,Galaxy Tab A,Exynos 7904,gta3xl,samsung,2048,47
+slteub,Galaxy Alpha,Exynos 5430,slte,samsung,2048,3
+gta4xlveeea,Galaxy Tab S6 Lite,SM7125,gta4xlve,samsung,4096,30
+jackpotlteks,Galaxy A8(2018),Exynos 7885,jackpotlteks,samsung,4096,36
+on5ltetfntmo,Galaxy On5,Exynos 3475,on5ltetfntmo,samsung,1536,2
+nobleltespr,Galaxy Note5,Exynos 7420,nobleltespr,samsung,4096,25
+q2qxser,Galaxy Z Fold3 5G,SM8350,q2q,samsung,12288,16
+kltevl,Galaxy S5,MSM8974,kltecan,samsung,2048,15
+serrano3gub,Galaxy S4 Mini,MSM8230AB,serrano3g,samsung,1536,3
+a50tfn,Galaxy A50,Exynos 9610,a50,samsung,6144,33
+a70qeea,Galaxy A70,SM6150,a70q,samsung,6144,50
+a50xser,Galaxy A50,Exynos 9610,a50,samsung,6144,44
+SC-52C,Galaxy S22 Ultra ,SM8450,SC-52C,samsung,8192,18
+j3topltecs,Galaxy J3(2018),Exynos 7570,j3topltecs,samsung,2048,16
+a7y18ltedx,Galaxy A7 (2018),Exynos 7885,a7y18lte,samsung,4096,52
+gview2lteuc,Galaxy View2,Exynos 7884,gview2lteatt,samsung,3072,4
+degas3gxx,Galaxy Tab4 7.0,PXA1088,degas3g,samsung,1536,7
+gts8zcx,Galaxy Tab S8 5G,SM8450,gts8,samsung,8192,1
+r3qeea,Galaxy A90 5G,SM8150,r3q,samsung,6144,31
+kltexx,Galaxy S5,MSM8974,klte,samsung,2048,30
+j3y17ltelgt,Galaxy J3(2017),Exynos 7570,j3y17ltelgt,samsung,2048,16
+d1qcs,Galaxy Note10,SM8150,d1q,samsung,8192,17
+dreamliteqltezc,Galaxy S 轻奢版,SDM660,dreamliteqltechn,samsung,4096,2
+SC-02F,Galaxy Note3,MSM8974,SC-02F,samsung,3072,2
+j4ltextc,Galaxy J4,Exynos 7570,j4lte,samsung,2048,17
+a3y17ltexc,Galaxy A3(2017),Exynos 7870,a3y17lte,samsung,2048,35
+gta8xx,Galaxy Tab A8,T618,gta8,samsung,3072,51
+a71xqsqw,Galaxy A71 5G,SM7250,a71xq,samsung,6144,37
+a31nsxx,Galaxy A31,MT6768,a31,samsung,4096,28
+a9y18qltexx,Galaxy A9 (2018),SDM660,a9y18qlte,samsung,6144,52
+gracerltelgt,Galaxy Note Fan Edition,Exynos 8890,gracerltelgt,samsung,4096,12
+grandpplteins,Galaxy J2 Prime,MT6737T,grandpplte,samsung,1536,14
+astarqltezm,Galaxy A9 Star,SDM660,astarqltecmcc,samsung,4096,1
+a5ltezh,Galaxy A5,MSM8916,a5ltezh,samsung,2048,7
+j3popelteue,Galaxy J3,Exynos 7570,j3popelteue,samsung,1536,13
+gts7lxx,Galaxy Tab S7,SM8250Pro,gts7l,samsung,6144,46
+p4notewifiue,Galaxy Note 10.1,Exynos 4412,p4notewifi,samsung,2048,4
+c9ltezc,Galaxy C9 Pro,MSM8976SG,c9ltechn,samsung,6144,13
+j5xnltexx,Galaxy J5(2016),MSM8916,j5xnlte,samsung,2048,37
+a20cis,Galaxy A20,Exynos 7884B,a20,samsung,3072,31
+d2xeea,Galaxy Note10+ 5G,Exynos 9825,d2x,samsung,12288,39
+a5ltedd,Galaxy A5,MSM8916,a5lte,samsung,2048,4
+gts4llteusc,Galaxy Tab S4,MSM8998,gts4llteusc,samsung,4096,17
+q2qsqw,Galaxy Z Fold3 5G,SM8350,q2q,samsung,12288,46
+astarqltedx,Galaxy A8 Star,SDM660,astarqlte,samsung,4096,33
+gts8pwifixx,Galaxy Tab S8+,SM8450,gts8pwifi,samsung,8192,35
+treltexx,Galaxy Note4,Exynos 5433,trelte,samsung,3072,34
+a11qnsser,Galaxy A11,SDM450,a11q,samsung,3072,32
+m10lteub,Galaxy M10,Exynos 7870,m10lte,samsung,3072,31
+a33xnsxx,Galaxy A33 5G,s5e8825,a33x,samsung,6144,36
+gtactive2lteeea,Galaxy Tab Active2,Exynos 7870,gtactive2lte,samsung,3072,15
+gtactive2ltedx,Galaxy Tab Active2,Exynos 7870,gtactive2lte,samsung,3072,1
+star2qlteue,Galaxy S9+,SDM845,star2qlteue,samsung,6144,49
+xcover3veltexx,Galaxy Xcover3,Exynos 3475,xcover3velte,samsung,1536,6
+j5nltexx,Galaxy J5,MSM8916,j5nlte,samsung,1536,16
+a20cs,Galaxy A20,Exynos 7884B,a20,samsung,3072,31
+gts6leea,Galaxy Tab S6,SM8150,gts6l,samsung,6144,37
+a7ltectc,Galaxy A7,MSM8939,a7ltectc,samsung,2048,1
+a72qnseea,Galaxy A72,SM7125,a72q,samsung,6144,45
+h3gduosctc,Galaxy Note3,MSM8674,hlte,samsung,3072,1
+x1qzhx,Galaxy S20 5G,SM8250,x1q,samsung,12288,17
+zeroltebmc,Galaxy S6 Edge,Exynos 7420,zeroltebmc,samsung,3072,14
+f52xqzc,Galaxy F52 5G,SM7225,f52x,samsung,8192,12
+on7xeltedd,Galaxy J7 Prime,Exynos 7870,on7xelte,samsung,3072,49
+zenltespr,Galaxy S6 Edge+,Exynos 7420,zenltespr,samsung,4096,16
+winnerltezh,Galaxy Fold,SM8150,winner,samsung,12288,5
+SC-52A,Galaxy S20+ 5G,SM8250,SC-52A,samsung,12288,18
+a21snnxx,Galaxy A21s,Exynos 850,a21s,samsung,3072,59
+gtactivexlxx,Galaxy Tab Active Pro,SDM670,gtactivexl,samsung,4096,15
+gts210ltezs,Galaxy Tab S2,Exynos 5433,gts210lte,samsung,3072,5
+a30ser,Galaxy A30,Exynos 7904,a30,samsung,4096,40
+poseidonlteuc,Galaxy S7 Active,MSM8996,poseidonlteatt,samsung,4096,28
+gvlteuc,Galaxy View,Exynos 7580,gvlteatt,samsung,2048,11
+a5xeltedo,Galaxy A5(2016),Exynos 7580,a5xelte,samsung,2048,3
+gta7liteeea,Galaxy Tab A7 Lite,MT8768T,gta7lite,samsung,3072,33
+gts210veltezh,Galaxy Tab S2,MSM8976,gts210veltechn,samsung,3072,2
+gta8wifizc,Galaxy Tab A8,T618,gta8wifi,samsung,3072,2
+q4qcsx,Galaxy Z Fold4,SM8475,q4q,samsung,12288,25
+SC-56B,Galaxy A22 5G,MT6833V/NZA,SC-56B,samsung,4096,32
+a12uue,Galaxy A12,MT6765,a12u,samsung,3072,35
+hero2qltetmo,Galaxy S7 Edge,MSM8996,hero2qltetmo,samsung,4096,34
+jfltexx,Galaxy S4,APQ8064,jflte,samsung,2048,16
+klteskt,Galaxy S5,MSM8974,klteskt,samsung,2048,4
+a03nntur,Galaxy A03,T606,a03,samsung,3072,29
+SC-02G,Galaxy S5 Active,MSM8974,SC-02G,samsung,2048,5
+t0ltespr,Galaxy Note2,Exynos 4412,t0ltespr,samsung,2048,1
+a21sq,Galaxy A21,MT6765,a21,samsung,3072,42
+ha3gub,Galaxy Note3,Exynos 5420,ha3g,samsung,3072,6
+a10ser,Galaxy A10,Exynos 7884B,a10,samsung,2048,36
+OnePlus5,OnePlus5,MSM8998,OnePlus5,OnePlus,6144,2
+tbeltektt,Galaxy Note Edge,Exynos 5433,tbeltektt,samsung,3072,5
+jackpotltexx,Galaxy A8(2018),Exynos 7885,jackpotlte,samsung,4096,57
+gtesltebmc,Galaxy Tab E 8.0,Exynos 3475,gtesltebmc,samsung,1536,18
+j53gxx,Galaxy J5,MSM8216,j53g,samsung,1536,21
+m11qnsxx,Galaxy M11,SDM450,m11q,samsung,3072,17
+a23ub,Galaxy A23,SM6225,a23,samsung,4096,44
+heroqltetmo,Galaxy S7,MSM8996,heroqltetmo,samsung,4096,33
+star2lteks,Galaxy S9+,Exynos 9810,star2lteks,samsung,6144,41
+melius3gxx,Galaxy Mega 6.3,MSM8930,melius3g,samsung,1536,3
+a13vensxx,Galaxy A13,MT6769T,a13ve,samsung,4096,33
+m51nsxx,Galaxy M51,SM7150,m51,samsung,6144,52
+q4quew,Galaxy Z Fold4,SM8475,q4q,samsung,12288,35
+konawifizt,Galaxy Note 8.0,Exynos 4412,konawifi,samsung,2048,2
+a01qxx,Galaxy A01,SDM439,a01q,samsung,2048,42
+d2sxx,Galaxy Note10+,Exynos 9825,d2s,samsung,12288,55
+q7lteskt,Galaxy W,MSM8926,q7lteskt,samsung,1536,1
+gts6lwifiser,Galaxy Tab S6,SM8150,gts6lwifi,samsung,6144,16
+gta4xleea,Galaxy Tab S6 Lite,Exynos 9611,gta4xl,samsung,4096,47
+a21tfn,Galaxy A21,MT6765,a21,samsung,3072,34
+q4qzcx,Galaxy Z Fold4,SM8475,q4q,samsung,12288,9
+p3sxxx,Galaxy S21 Ultra 5G,Exynos 2100,p3s,samsung,8192,59
+gta2slteub,Galaxy Tab A (2017),MSM8917,gta2slte,samsung,2048,18
+j7velteub,Galaxy J7 Neo,Exynos 7870,j7velte,samsung,2048,38
+ms01lteskt,Galaxy Grand2,MSM8926,ms01lteskt,samsung,1536,1
+a30dv,Galaxy A30,Exynos 7904,a30,samsung,4096,20
+r5qnaser,Galaxy S10 Lite,SM8150,r5q,samsung,8192,25
+m23xqdd,Galaxy F23 5G,SM7225,m23xq,samsung,4096,31
+dm1qsqw,Galaxy S23,SM8550,dm1q,samsung,8192,13
+x1sxeea,Galaxy S20 5G,Exynos 990,x1s,samsung,8192,49
+sltektt,Galaxy Alpha,Exynos 5430,sltektt,samsung,2048,5
+gtactive3xx,Galaxy Tab Active3,Exynos 9810,gtactive3,samsung,4096,30
+j7y17ltexx,Galaxy J7,Exynos 7870,j7y17lte,samsung,3072,41
+j3y17ltedx,Galaxy J3 Pro,Exynos 7570,j3y17lte,samsung,2048,33
+m62xx,Galaxy M62,Exynos 9825,m62,samsung,6144,40
+jfltetmo,Galaxy S4,APQ8064,jfltetmo,samsung,2048,1
+h3gzm,Galaxy Note3 Duos,MSM8674,hlte,samsung,3072,2
+m33xtur,Galaxy M33 5G,s5e8825,m33x,samsung,6144,19
+e7ltezs,Galaxy E7,MSM8916,e7ltehktw,samsung,2048,2
+a52sxqzt,Galaxy A52s 5G,SM7325,a52sxq,samsung,6144,28
+p3sksx,Galaxy S21 Ultra 5G,Exynos 2100,p3s,samsung,8192,39
+a52sxqeea,Galaxy A52s 5G,SM7325,a52sxq,samsung,6144,56
+hltexxx,Galaxy Note3,MSM8674,hlte,samsung,3072,1
+z3quew,Galaxy S20 Ultra 5G,SM8250,z3q,samsung,12288,34
+j7xeltektt,Galaxy J7(2016),Exynos 7870,j7xeltektt,samsung,2048,20
+chagallltezh,Galaxy TabS 10.5,Exynos 5420,chagalllte,samsung,3072,1
+a30sub,Galaxy A30s,Exynos 7904,a30s,samsung,3072,48
+hero2qlteuc,Galaxy S7 Edge,MSM8996,hero2qlteatt,samsung,4096,32
+a50szc,Galaxy A50s,Exynos 9611,a50s,samsung,4096,5
+a5y17ltevl,Galaxy A5(2017),Exynos 7880,a5y17ltecan,samsung,3072,39
+j6ltedx,Galaxy J6,Exynos 7870,j6lte,samsung,2048,46
+j4primeltecis,Galaxy J4+,MSM8917,j4primelte,samsung,2048,39
+a21ue,Galaxy A21,MT6765,a21,samsung,3072,21
+c5pltezc,Galaxy C5,MSM8952,c5pltechn,samsung,4096,1
+o1qzhx,Galaxy S21 5G,SM8350,o1q,samsung,8192,30
+beyond2lteks,Galaxy S10+,Exynos 9820,beyond2,samsung,8192,38
+p3qcsx,Galaxy S21 Ultra 5G,SM8350,p3q,samsung,12288,41
+m13nnxx,Galaxy M13,Exynos 850,m13,samsung,4096,26
+serranoltevj,Galaxy S4 Mini,MSM8930AB,serranolte,samsung,1536,3
+klteduosub,Galaxy S5,MSM8974,klte,samsung,2048,5
+g0qxtur,Galaxy S22+,SM8450,g0q,samsung,8192,9
+j7popltespr,Galaxy J7 Perx,MSM8953,j7popltespr,samsung,2048,17
+trltecan,Galaxy Note4,APQ8084,trltecan,samsung,3072,11
+m52xqser,Galaxy M52 5G,SM7325,m52xq,samsung,6144,27
+klteduosdx,Galaxy S5,MSM8974,klte,samsung,2048,1
+gts7xlwifizc,Galaxy Tab S7+,SM8250Pro,gts7xlwifi,samsung,6144,3
+a42xqxx,Galaxy A42 5G,SM7225,a42xq,samsung,4096,42
+zeroflteacg,Galaxy S6,Exynos 7420,zeroflteacg,samsung,3072,5
+j6ltecis,Galaxy J6,Exynos 7870,j6lte,samsung,2048,37
+serranoltektt,Galaxy S4 Mini,MSM8930AB,serranoltektt,samsung,1536,2
+greatqltesq,Galaxy Note8,MSM8998,greatqlte,samsung,6144,52
+mega2ltexx,Galaxy Mega2,Exynos 4415,mega2lte,samsung,1536,4
+c1sxeea,Galaxy Note20 5G,Exynos 990,c1s,samsung,8192,38
+a53xzc,Galaxy A53 5G,s5e8825,a53x,samsung,6144,2
+j8y18lteser,Galaxy J8,SDM450,j8y18lte,samsung,3072,22
+chagalllteub,Galaxy TabS 10.5,Exynos 5420,chagalllte,samsung,3072,6
+a5xelteskt,Galaxy A5(2016),Exynos 7580,a5xelteskt,samsung,2048,7
+ms01ltexx,Galaxy Grand2,MSM8926,ms01lte,samsung,1536,3
+gtasliteltetmo,Galaxy Tab A 8,MSM8917,gtasliteltetmo,samsung,2048,23
+gts4lvkx,Galaxy Tab S5e,SDM670,gts4lv,samsung,4096,21
+on7xreflteub,Galaxy J7 Prime2,Exynos 7870,on7xreflte,samsung,4096,28
+a23nstur,Galaxy A23,SM6225,a23,samsung,4096,32
+a13xtfn,Galaxy A13 5G,MT6833V/NZA,a13x,samsung,4096,39
+a31nseea,Galaxy A31,MT6768,a31,samsung,4096,38
+a30cis,Galaxy A30,Exynos 7904,a30,samsung,4096,35
+chagallhltelgt,Galaxy TabS 10.5,Exynos 5433,chagallhltelgt,samsung,3072,2
+jfltezh,Galaxy S4,APQ8064,jflte,samsung,2048,2
+j3popeltetmo,Galaxy J3 Prime,Exynos 7570,j3popeltetmo,samsung,1536,15
+a9xproltedx,Galaxy A9 Pro,MSM8976,a9xproltesea,samsung,4096,32
+zerofltespr,Galaxy S6,Exynos 7420,zerofltespr,samsung,3072,26
+c7proltedd,Galaxy C7 Pro,MSM8953,c7prolte,samsung,4096,14
+a23xqnseea,Galaxy A23 5G,SM6375,a23xq,samsung,4096,39
+r8qxeea,Galaxy S20 FE 5G,SM8250,r8q,samsung,6144,55
+SCG17_jp_kdi,Galaxy Z Flip4,SM8475,SCG17,samsung,8192,6
+j7elteub,Galaxy J7,Exynos 7580,j7elte,samsung,1536,31
+j3popltelra,Galaxy J3,MSM8917,j3popltelra,samsung,1536,1
+a7y18ltexx,Galaxy A7 (2018),Exynos 7885,a7y18lte,samsung,4096,51
+gts7lwifitur,Galaxy Tab S7,SM8250Pro,gts7lwifi,samsung,6144,18
+klimtltevl,Galaxy TabS 8.4,Exynos 5420,klimtltecan,samsung,3072,1
+dream2ltexx,Galaxy S8+,Exynos 8895,dream2lte,samsung,4096,60
+z3sxxx,Galaxy S20 Ultra 5G,Exynos 990,z3s,samsung,12288,50
+p3quew,Galaxy S21 Ultra 5G,SM8350,p3q,samsung,12288,41
+g0qxxx,Galaxy S22+,SM8450,g0q,samsung,8192,46
+zenltezc,Galaxy S6 Edge+,Exynos 7420,zenltechn,samsung,4096,11
+m12dd,Galaxy M12,Exynos 850,m12,samsung,3072,40
+lt01ltexx,Galaxy Tab3 8.0,Exynos 4212,lt01lte,samsung,1536,4
+t2sxser,Galaxy S21+ 5G,Exynos 2100,t2s,samsung,8192,28
+gt5note10wifizs,Galaxy Tab A 9.7,APQ8016,gt5note10wifi,samsung,2048,2
+a50xtc,Galaxy A50,Exynos 9610,a50,samsung,6144,41
+a03snnser,Galaxy A03s,MT6765,a03s,samsung,3072,30
+a5ultexx,Galaxy A5,MSM8916,a5ulte,samsung,2048,21
+gts28vewifixx,Galaxy Tab S2,APQ8076,gts28vewifi,samsung,3072,33
+ha3gzs,Galaxy Note3,Exynos 5420,ha3g,samsung,3072,4
+zerofltetmo,Galaxy S6,Exynos 7420,zerofltetmo,samsung,3072,18
+m33xzh,Galaxy M33 5G,s5e8825,m33x,samsung,6144,17
+gta8eea,Galaxy Tab A8,T618,gta8,samsung,3072,46
+c5proltezh,Galaxy C5 Pro,MSM8953,c5proltechn,samsung,4096,21
+a13xnnxx,Galaxy A13 5G,MT6833V/NZA,a13x,samsung,4096,32
+j3ltedo,Galaxy J3(2016),MSM8916,j3ltexsa,samsung,1536,3
+hero2lteldu,Galaxy S7 Edge,Exynos 8890,hero2lte,samsung,4096,3
+j5ltekx,Galaxy J5,MSM8916,j5ltekx,samsung,1536,7
+a02qnnser,Galaxy A02s,SDM450,a02q,samsung,2048,25
+gtexsltezt,Galaxy Tab A 7.0,SC9830I,gtexslteswa,samsung,1536,11
+a73xqxx,Galaxy A73 5G,SM7325,a73xq,samsung,6144,49
+a02qtu,Galaxy A02s,SDM450,a02q,samsung,2048,28
+a04ub,Galaxy A04,MT6765,a04,samsung,3072,35
+x1qzcx,Galaxy S20 5G,SM8250,x1q,samsung,12288,12
+gtel3gjv,Galaxy Tab E 9.6,SC7730SE,gtel3g,samsung,1536,7
+ha3gjv,Galaxy Note3,Exynos 5420,ha3g,samsung,3072,12
+SCG18_jp_kdi,Galaxy A23 5G,MT6833V/NZA,SCG18,samsung,4096,3
+a02qnnxx,Galaxy A02s,SDM450,a02q,samsung,2048,53
+a20ser,Galaxy A20,Exynos 7884B,a20,samsung,3072,32
+star2qltezh,Galaxy S9+,SDM845,star2qltechn,samsung,6144,46
+gtactive3ser,Galaxy Tab Active3,Exynos 9810,gtactive3,samsung,4096,4
+gt5note8ltexx,Galaxy Tab A 8.0,MSM8916,gt5note8lte,samsung,2048,27
+m30sser,Galaxy M30s,Exynos 9611,m30s,samsung,4096,16
+d1eea,Galaxy Note10,Exynos 9825,d1,samsung,8192,43
+gts8wifixx,Galaxy Tab S8,SM8450,gts8wifi,samsung,8192,43
+a53xsqw,Galaxy A53 5G UW,s5e8825,a53x,samsung,6144,33
+a52xqzc,Galaxy A52 5G,SM7225,a52xq,samsung,6144,8
+g0qsqw,Galaxy S22+,SM8450,g0q,samsung,8192,49
+gtesltezt,Galaxy Tab E 8.0,Exynos 3475,gtesltetw,samsung,1536,10
+j5xnlteskt,Galaxy J5(2016),MSM8916,j5xnlteskt,samsung,2048,8
+herolteskt,Galaxy S7,Exynos 8890,herolteskt,samsung,4096,31
+a22xnsxx,Galaxy A22 5G,MT6833V/NZA,a22x,samsung,4096,46
+a01qins,Galaxy A01,SDM439,a01q,samsung,2048,15
+a04snseea,Galaxy A04s,Exynos 850,a04s,samsung,3072,39
+SC-05L,Galaxy S10+ Olympic Games Edition,SM8150,SC-05L,samsung,8192,7
+on5xelteub,Galaxy J5 Prime,Exynos 7570,on5xelte,samsung,2048,43
+beyond0qltezh,Galaxy S10e,SM8150,beyond0q,samsung,6144,16
+a03sutfn,Galaxy A03s,MT6765,a03su,samsung,3072,40
+gtaxlwifildu,Galaxy Tab A 10.1,Exynos 7870,gtaxlwifi,samsung,2048,1
+a5xelteldu,Galaxy A5(2016),Exynos 7580,a5xelte,samsung,2048,2
+gta4lwifitur,Galaxy Tab A7,SM6115,gta4lwifi,samsung,3072,35
+a31ks,Galaxy A31,MT6768,a31,samsung,4096,41
+heroqltespr,Galaxy S7,MSM8996,heroqltespr,samsung,4096,27
+gt5note8lteub,Galaxy Tab A,MSM8916,gt5note8lte,samsung,2048,17
+taimen,Pixel 2 XL,MSM8998,taimen,google,4096,1
+d2qrkt,Galaxy Note10+,SM8150,d2q,samsung,12288,10
+sf2wifixx,Galaxy Camera 2,Exynos 4412,sf2wifi,samsung,2048,1
+a53xcsx,Galaxy A53 5G,s5e8825,a53x,samsung,6144,42
+lt03ltelgt,Galaxy Note 10.1,MSM8974,lt03ltelgt,samsung,3072,1
+gts4lvtur,Galaxy Tab S5e,SDM670,gts4lv,samsung,4096,5
+xcover4ltevl,Galaxy Xcover4,Exynos 7570,xcover4ltecan,samsung,4096,9
+d2sser,Galaxy Note10+,Exynos 9825,d2s,samsung,12288,23
+a30sdtvvj,Galaxy A30s,Exynos 7904,a30s,samsung,3072,50
+j3ltectc,Galaxy J3,MSM8916,j3ltectc,samsung,1536,3
+a03sucs,Galaxy A03s,MT6765,a03su,samsung,3072,34
+hero2qltecctvzw,Galaxy S7 Edge,MSM8996,hero2qltecctvzw,samsung,4096,1
+gt58ltedo,Galaxy Tab A 8.0,MSM8916,gt58lte,samsung,2048,25
+a13sq,Galaxy A13,Exynos 850,a13,samsung,3072,38
+gts7xllitesqwnc,Galaxy Tab S7 FE 5G,SM7225,gts7xllite,samsung,4096,33
+kltelgt,Galaxy S5,MSM8974,kltelgt,samsung,2048,4
+zeroflteskt,Galaxy S6,Exynos 7420,zeroflteskt,samsung,3072,19
+a12utfn,Galaxy A12,MT6765,a12u,samsung,3072,38
+a9xproltezc,Galaxy A9 Pro,MSM8976,a9xproltechn,samsung,4096,9
+cancro,MI 3W,MSM8974AB,cancro,Xiaomi,2048,16
+picassowifiue,Galaxy Tab Pro 10.1,Exynos 5420,picassowifi,samsung,2048,5
+a6lteub,Galaxy A6,Exynos 7870,a6lte,samsung,3072,18
+a33xub,Galaxy A33 5G,s5e8825,a33x,samsung,6144,39
+crownqlteue,Galaxy Note9,SDM845,crownqlteue,samsung,6144,42
+hltevj,Galaxy Note3,MSM8674,hlte,samsung,3072,4
+a32ub,Galaxy A32,MT6769T,a32,samsung,4096,55
+grandmaxltezc,Galaxy Grand Max,MSM8916,grandmaxltechn,samsung,1536,2
+hl3gxx,Galaxy Note3 Neo,Exynos 5260,hl3g,samsung,1984,9
+beyond1qltesq,Galaxy S10,SM8150,beyond1q,samsung,8192,52
+b4qsqw,Galaxy Z Flip4,SM8475,b4q,samsung,8192,35
+d2qzh,Galaxy Note10+,SM8150,d2q,samsung,12288,36
+s3ve3gdsub,Galaxy S3 Neo,MSM8228,s3ve3gds,samsung,1536,4
+matissewifiopenbnn,Galaxy Tab4 Nook 10.1,APQ8026,matissewifiopenbnn,samsung,1536,3
+a13nnxx,Galaxy A13,Exynos 850,a13,samsung,3072,54
+sltexx,Galaxy Alpha,Exynos 5430,slte,samsung,2048,12
+j8y18lteub,Galaxy J8,SDM450,j8y18lte,samsung,3072,49
+gts7fewifieea,Galaxy Tab S7 FE,SM7325,gts7fewifi,samsung,4096,46
+j7xeltedx,Galaxy J7(2016),Exynos 7870,j7xelte,samsung,2048,29
+treltektt,Galaxy Note4,Exynos 5433,treltektt,samsung,3072,15
+hltelgt,Galaxy Note3,MSM8974,hltelgt,samsung,3072,3
+d1qzh,Galaxy Note10,SM8150,d1q,samsung,8192,23
+a5y17lteskt,Galaxy A5(2017),Exynos 7880,a5y17lteskt,samsung,3072,18
+a22ub,Galaxy A22,MT6769T,a22,samsung,4096,50
+a5ultektt,Galaxy A5,MSM8916,a5ultektt,samsung,2048,2
+novelltekx,Galaxy Folder,Exynos 3475,novelltekx,samsung,1536,1
+gt510ltexx,Galaxy Tab A,MSM8916,gt510lte,samsung,2048,31
+t2sxeea,Galaxy S21+ 5G,Exynos 2100,t2s,samsung,8192,47
+gts28ltedx,Galaxy Tab S2 8.0,Exynos 5433,gts28lte,samsung,3072,30
+jaltektt,Galaxy S4,Exynos 5410,jaltektt,samsung,2048,1
+beyond0lteeea,Galaxy S10e,Exynos 9820,beyond0,samsung,6144,56
+r9q2xeea,Galaxy S21 FE 5G,SM8350,r9q,samsung,6144,38
+a8sqltezh,Galaxy A8s,SDM710,a8sqltechn,samsung,6144,20
+kminilteub,Galaxy S5 mini,Exynos 3470,kminilte,samsung,1536,5
+SCG11_jp_kdi,Galaxy Z Fold3 5G,SM8350,SCG11,samsung,12288,15
+matissewifizs,Galaxy Tab4 10.0,APQ8026,matissewifi,samsung,1536,1
+kwifixx,Galaxy S5,MSM8974,kwifi,samsung,2048,1
+jadeltedx,Galaxy J7+,MT6757V,jadelte,samsung,4096,38
+vastaltezh,Galaxy Mega2,MSM8916,vastaltezh,samsung,2048,4
+a3xelteldu,Galaxy A3(2016),Exynos 7578,a3xelte,samsung,1536,1
+a7ltezt,Galaxy A7,MSM8939,a7ltechn,samsung,2048,4
+gta4ljt,Galaxy Tab A7,SM6115,gta4l,samsung,3072,38
+j7xltectc,Galaxy J7(2016),MSM8952,j7xltectc,samsung,3072,2
+d1ser,Galaxy Note10,Exynos 9825,d1,samsung,8192,21
+mondrianwifikx,Galaxy Tab Pro 8.4,APQ8074,mondrianwifikx,samsung,2048,1
+gta3xlwifizc,Galaxy Tab A,Exynos 7904,gta3xlwifi,samsung,3072,6
+gts4lvvzw,Galaxy Tab S5e,SDM670,gts4lv,samsung,4096,35
+o1qjpnx,Galaxy S21 5G,SM8350,o1q,samsung,8192,14
+a40xx,Galaxy A40,Exynos 7904,a40,samsung,4096,36
+chagallwifixx,Galaxy TabS 10.5,Exynos 5420,chagallwifi,samsung,3072,27
+klteum,Galaxy S5,MSM8974,kltecan,samsung,2048,2
+hero2qltespr,Galaxy S7 Edge,MSM8996,hero2qltespr,samsung,4096,30
+a3coreser,Galaxy A03 Core,SC9863A,a3core,samsung,2048,30
+a14xxx,Galaxy A14 5G,s5e8535,a14x,samsung,4096,2
+r8seea,Galaxy S20 FE,Exynos 990,r8s,samsung,6144,53
+konawifixx,Galaxy Note 8.0,Exynos 4412,konawifi,samsung,2048,6
+m51nsser,Galaxy M51,SM7150,m51,samsung,6144,17
+gts28veltedx,Galaxy Tab S2,MSM8976,gts28velte,samsung,3072,25
+c9ltezh,Galaxy C9 Pro,MSM8976SG,c9ltechn,samsung,6144,33
+a01qub,Galaxy A01,SDM439,a01q,samsung,2048,47
+r8qzcx,Galaxy S20 FE 5G,SM8250,r8q,samsung,6144,8
+j5y17ltexx,Galaxy J5,Exynos 7870,j5y17lte,samsung,2048,36
+g0sxeea,Galaxy S22+,s5e9925,g0s,samsung,8192,47
+a51tfn,Galaxy A51,Exynos 9611,a51,samsung,4096,43
+a02qnntur,Galaxy A02s,SDM450,a02q,samsung,2048,32
+m12nntur,Galaxy M12,Exynos 850,m12,samsung,3072,35
+a02que,Galaxy A02s,SDM450,a02q,samsung,2048,32
+gprimeltemtr,Galaxy Grand Prime,MSM8916,gprimeltemtr,samsung,1536,6
+lt03wifiub,Galaxy Note 10.1 2014 Edition,Exynos 5420,lt03wifi,samsung,3072,8
+s5neoltevl,Galaxy S5 Neo,Exynos 7580,s5neoltecan,samsung,2048,21
+xcover5eea,Galaxy XCover 5,Exynos 850,xcover5,samsung,4096,33
+y2qzhx,Galaxy S20+ 5G,SM8250,y2q,samsung,12288,23
+a52xqzh,Galaxy A52 5G,SM7225,a52xq,samsung,6144,37
+x1seea,Galaxy S20,Exynos 990,x1s,samsung,8192,48
+a22xnsser,Galaxy A22s 5G,MT6833V/NZA,a22x,samsung,4096,35
+greatqltezh,Galaxy Note8,MSM8998,greatqltechn,samsung,6144,39
+gts210ltedx,Galaxy Tab S2,Exynos 5433,gts210lte,samsung,3072,26
+gts6xkx,Galaxy Tab S6 5G,SM8150,gts6x,samsung,6144,13
+dreamqltezh,Galaxy S8,MSM8998,dreamqltechn,samsung,4096,27
+j7y17ltextc,Galaxy J7 Pro,Exynos 7870,j7y17lte,samsung,3072,35
+winnerlteue,Galaxy Fold,SM8150,winner,samsung,12288,12
+a52qnseea,Galaxy A52,SM7125,a52q,samsung,4096,55
+gta8ser,Galaxy Tab A8,T618,gta8,samsung,3072,28
+p3sxtur,Galaxy S21 Ultra 5G,Exynos 2100,p3s,samsung,8192,17
+a42xqks,Galaxy A42 5G,SM7225,a42xq,samsung,4096,28
+a10sxx,Galaxy A10s,MT6762,a10s,samsung,2048,47
+r8qcsx,Galaxy S20 FE 5G,SM8250,r8q,samsung,6144,54
+c1stur,Galaxy Note20,Exynos 990,c1s,samsung,8192,23
+j3y17qltezc,Galaxy J3,MSM8917,j3y17qltecmcc,samsung,3072,7
+beyond2qlteue,Galaxy S10+,SM8150,beyond2q,samsung,8192,47
+a31tur,Galaxy A31,MT6768,a31,samsung,4096,41
+j7y17lteubm,Galaxy J7 Pro,Exynos 7870,j7y17lte,samsung,3072,23
+a30sxx,Galaxy A30s,Exynos 7904,a30s,samsung,3072,49
+picassowifizs,Galaxy Tab Pro 10.1,Exynos 5420,picassowifi,samsung,2048,1
+gt58wifizc,Galaxy Tab A 8.0,APQ8016,gt58wifichn,samsung,1536,1
+kona3gzt,Galaxy Note 8.0,Exynos 4412,kona3g,samsung,2048,2
+a13ub,Galaxy A13,Exynos 850,a13,samsung,3072,48
+gtel3gub,Galaxy Tab E,SC7730SE,gtel3g,samsung,1536,11
+trlteuc,Galaxy Note4,APQ8084,trlteatt,samsung,3072,13
+frescolteskt,Galaxy Note3 Neo,MSM8974,frescolteskt,samsung,2048,3
+gprimeltevl,Galaxy Grand Prime,MSM8916,gprimeltecan,samsung,1536,7
+gts6lsq,Galaxy Tab S6,SM8150,gts6l,samsung,6144,32
+mondrianwifixx,Galaxy Tab Pro 8.4,APQ8074,mondrianwifi,samsung,2048,4
+o1sksx,Galaxy S21 5G,Exynos 2100,o1s,samsung,8192,43
+a11qucpp,Galaxy A11,SDM450,a11q,samsung,3072,23
+r9sxxx,Galaxy S21 FE 5G,Exynos 2100,r9s,samsung,6144,50
+a70qzc,Galaxy A70,SM6150,a70q,samsung,6144,8
+r0qzcx,Galaxy S22,SM8450,r0q,samsung,8192,8
+gts8psqwnc,Galaxy Tab S8+ 5G,SM8450,gts8p,samsung,8192,24
+gta2sltektt,Galaxy Tab A (2017),MSM8917,gta2sltektt,samsung,2048,13
+j5y17ltektt,Galaxy J5,Exynos 7870,j5y17ltektt,samsung,2048,9
+r9sxtur,Galaxy S21 FE 5G,Exynos 2100,r9s,samsung,6144,28
+vastaltetdzc,Galaxy Mega2,MSM8916,vastalte,samsung,2048,2
+a23xqsqw,Galaxy A23 5G UW,SM6375,a23xq,samsung,4096,2
+r0qksx,Galaxy S22,SM8450,r0q,samsung,8192,33
+matisse3gxx,Galaxy Tab4 10.0,MSM8226,matisse3g,samsung,1536,16
+beyondxks,Galaxy S10 5G,Exynos 9820,beyondx,samsung,8192,49
+j7xeltezm,Galaxy J7(2016),Exynos 7580,j7xeltecmcc,samsung,3072,3
+a31nsdx,Galaxy A31,MT6768,a31,samsung,4096,51
+j5y17ltexxm,Galaxy J5,Exynos 7870,j5y17lte,samsung,2048,29
+b4quew,Galaxy Z Flip4,SM8475,b4q,samsung,8192,28
+f2qxtur,Galaxy Z Fold2 5G,SM8250Pro,f2q,samsung,12288,10
+a02ubm,Galaxy M02,MT6739WW,a02,samsung,3072,16
+zerofltezc,Galaxy S6,Exynos 7420,zerofltechn,samsung,3072,5
+a50ks,Galaxy A50,Exynos 9610,a50,samsung,6144,32
+gt5note10ltezs,Galaxy Tab A 9.7,MSM8916,gt5note10ltehktw,samsung,2048,1
+klteattactive,Galaxy S5 Active,MSM8974,klteattactive,samsung,2048,4
+gta3xlwifiser,Galaxy Tab A,Exynos 7904,gta3xlwifi,samsung,3072,20
+r9q2csx,Galaxy S21 FE 5G,SM8350,r9q,samsung,6144,35
+m20lteeea,Galaxy M20,Exynos 7904,m20lte,samsung,3072,31
+m52xqeea,Galaxy M52 5G,SM7325,m52xq,samsung,6144,33
+kminiltedv,Galaxy S5 mini,Exynos 3470,kminilte,samsung,1536,1
+a9y18qltezh,Galaxy A9 2018,SDM660,a9y18qltechn,samsung,6144,25
+j2y18ltejx,Galaxy Grand Prime Pro,MSM8917,j2y18lte,samsung,1536,29
+m11qnsser,Galaxy M11,SDM450,m11q,samsung,3072,27
+gts7xllitesqw,Galaxy Tab S7 FE 5G,SM7225,gts7xllite,samsung,4096,34
+o1qzcx,Galaxy S21 5G,SM8350,o1q,samsung,8192,14
+b0qksx,Galaxy S22 Ultra ,SM8450,b0q,samsung,8192,37
+a5lteldu,Galaxy A5,MSM8916,a5lte,samsung,2048,1
+r8qtur,Galaxy S20 FE,SM8250,r8q,samsung,6144,29
+zenltezh,Galaxy S6 edge+,Exynos 7420,zenlte,samsung,4096,9
+j5xnlteub,Galaxy J5(2016),MSM8916,j5xnlte,samsung,2048,28
+gta7litewifitur,Galaxy Tab A7 Lite,MT8768N,gta7litewifi,samsung,3072,33
+a11quc,Galaxy A11,SDM450,a11q,samsung,3072,33
+matisse,Redmi K50 Pro,MT6893,matisse,Redmi,8192,1
+a13venntur,Galaxy A13,MT6769T,a13ve,samsung,4096,30
+a53gxx,Galaxy A5,MSM8216,a53g,samsung,2048,21
+zeroltezt,Galaxy S6 Edge,Exynos 7420,zeroltechn,samsung,3072,12
+meliuslteskt,Galaxy Mega 6.3,MSM8930,meliuslteskt,samsung,1536,2
+o1sxxx,Galaxy S21 5G,Exynos 2100,o1s,samsung,8192,52
+a20seea,Galaxy A20s,SDM450,a20s,samsung,3072,36
+dream2lteldu,Galaxy S8+,Exynos 8895,dream2lte,samsung,4096,3
+jflteaio,Galaxy S4,APQ8064,jflteaio,samsung,2048,2
+j7popeltetu,Galaxy J7 Pop,Exynos 7870,j7popelteaio,samsung,2048,22
+degaswifiopenbnn,Galaxy Tab4 7.0,PXA1088,degaswifiopenbnn,samsung,1536,2
+heroqltecctvzw,Galaxy S7,MSM8996,heroqltecctvzw,samsung,4096,2
+j3y17ltexx,Galaxy J3(2017),Exynos 7570,j3y17lte,samsung,2048,34
+gts4lvzh,Galaxy Tab S5e,SDM670,gts4lv,samsung,4096,6
+SC-02K,Galaxy S9,SDM845,SC-02K,samsung,4096,34
+hero2ltexx,Galaxy S7 edge,Exynos 8890,hero2lte,samsung,4096,53
+z3sxeea,Galaxy S20 Ultra 5G,Exynos 990,z3s,samsung,12288,46
+a50ue,Galaxy A50,Exynos 9610,a50,samsung,6144,34
+gts4lvser,Galaxy Tab S5e,SDM670,gts4lv,samsung,4096,21
+bloomqcs,Galaxy Z Flip,SM8150P,bloomq,samsung,8192,7
+j3topelteusc,Galaxy J3 Aura,Exynos 7884A,j3topelteusc,samsung,2048,11
+gtelwifiue,Galaxy Tab E 9.6,APQ8016,gtelwifiue,samsung,1536,27
+zenltedx,Galaxy S6 Edge+,Exynos 7420,zenlte,samsung,4096,10
+winnerxeea,Galaxy Fold 5G,SM8150,winner,samsung,12288,14
+gts210vewifizh,Galaxy Tab S2 9.7,APQ8076,gts210vewifi,samsung,3072,1
+a30dd,Galaxy A30,Exynos 7904,a30,samsung,4096,55
+x1qksx,Galaxy S20 5G,SM8250,x1q,samsung,12288,38
+gta3xlwifixx,Galaxy Tab A,Exynos 7904,gta3xlwifi,samsung,3072,58
+serranodsdd,Galaxy S4 Mini,MSM8230AB,serranods,samsung,1536,1
+elite3gkx,Galaxy Elite,MSM8917,elite3gkx,samsung,2048,1
+a12snntur,Galaxy A12,Exynos 850,a12s,samsung,3072,32
+gts8psqw,Galaxy Tab S8+ 5G,SM8450,gts8p,samsung,8192,23
+a7ltektt,Galaxy A7,MSM8939,a7ltektt,samsung,2048,2
+j5xltezm,Galaxy J5(2016),MSM8916,j5xltecmcc,samsung,2048,2
+heroltexx,Galaxy S7,Exynos 8890,herolte,samsung,4096,58
+m40dd,Galaxy M40,SM6150,m40,samsung,6144,31
+tbltebtu,Galaxy Note Edge,APQ8084,tblte,samsung,3072,9
+greatlteldu,Galaxy Note8,Exynos 8895,greatlte,samsung,6144,4
+a54xnaxx,Galaxy A54 5G,s5e8835,a54x,samsung,6144,1
+gt5note10lteub,Galaxy Tab A,MSM8916,gt5note10lte,samsung,2048,13
+r5qnsxx,Galaxy S10 Lite,SM8150,r5q,samsung,8192,43
+a52xqcs,Galaxy A52 5G,SM7225,a52xq,samsung,6144,44
+tre3calteskt,Galaxy Note4 S-LTE,Exynos 5433,tre3calteskt,samsung,3072,13
+gt58ltexx,Galaxy Tab A 8.0,MSM8916,gt58lte,samsung,2048,24
+kltedv,Galaxy S5,MSM8974,klte,samsung,2048,12
+dream2qltezc,Galaxy S8+,MSM8998,dream2qltechn,samsung,4096,17
+a6elteue,Galaxy A6,Exynos 7884,a6elteue,samsung,3072,6
+gt58ltezc,Galaxy Tab A,MSM8916,gt58ltechn,samsung,2048,4
+dreamltexx,Galaxy S8,Exynos 8895,dreamlte,samsung,4096,68
+hl3gub,Galaxy Note3 Neo,Exynos 5260,hl3g,samsung,1984,3
+a03nseea,Galaxy A03,T606,a03,samsung,3072,43
+frescoltektt,Galaxy Note3 Neo,MSM8974,frescoltektt,samsung,2048,3
+gts7xlkx,Galaxy Tab S7+,SM8250Pro,gts7xl,samsung,6144,25
+a20sser,Galaxy A20s,SDM450,a20s,samsung,3072,31
+noblelteuc,Galaxy Note5,Exynos 7420,noblelteatt,samsung,4096,27
+wisdomdx,Galaxy Tab A with S Pen,Exynos 7904,wisdom,samsung,3072,39
+j7topltetfntmo,Galaxy J7 Crown,Exynos 7870,j7topltetfntmo,samsung,2048,23
+j4primeltextc,Galaxy J4+,MSM8917,j4primelte,samsung,2048,24
+a51xks,Galaxy A51 5G,Exynos 980,a51x,samsung,6144,38
+a71naxx,Galaxy A71,SM7150,a71,samsung,6144,47
+a51nsxx,Galaxy A51,Exynos 9611,a51,samsung,4096,63
+p3qsqw,Galaxy S21 Ultra 5G,SM8350,p3q,samsung,12288,56
+p3qzcx,Galaxy S21 Ultra 5G,SM8350,p3q,samsung,12288,9
+on7xrefltektt,Galaxy On7 Prime,Exynos 7870,on7xrefltektt,samsung,3072,18
+j3topelteacg,Galaxy J3,Exynos 7884A,j3topelteacg,samsung,2048,8
+xcoverpro2xx,Galaxy XCover6 Pro,SM7325,xcoverpro2,samsung,6144,6
+a3ultedv,Galaxy A3,MSM8916,a3ulte,samsung,1536,1
+d2uc,Galaxy S3,MSM8960,d2att,samsung,2048,1
+gts8peea,Galaxy Tab S8+ 5G,SM8450,gts8p,samsung,8192,2
+a5ultedv,Galaxy A5,MSM8916,a5ulte,samsung,2048,4
+gta7litewifieea,Galaxy Tab A7 Lite,MT8768N,gta7litewifi,samsung,3072,47
+m31snnxx,Galaxy M31s,Exynos 9611,m31s,samsung,6144,34
+m30ltedd,Galaxy M30,Exynos 7904,m30lte,samsung,4096,32
+j5y17ltextc,Galaxy J5 Pro,Exynos 7870,j5y17ltextc,samsung,3072,6
+gtexswifixx,Galaxy Tab A6,SC7730SW,gtexswifi,samsung,1536,21
+gta4lxx,Galaxy Tab A7,SM6115,gta4l,samsung,3072,53
+d2xqzc,Galaxy Note10+ 5G,SM8150,d2xq,samsung,12288,14
+q2qcsx,Galaxy Z Fold3 5G,SM8350,q2q,samsung,12288,28
+j7topeltespr,Galaxy J7 Refine,Exynos 7884,j7topeltespr,samsung,2048,29
+serranoveltexx,Galaxy S4 Mini,MSM8916,serranovelte,samsung,1536,5
+nobleltezc,Galaxy Note5,Exynos 7420,nobleltechn,samsung,4096,3
+heroqlteue,Galaxy S7,MSM8996,heroqlteue,samsung,4096,39
+a5ltezc,Galaxy A5,MSM8916,a5ltechn,samsung,2048,3
+on7xltezc,Galaxy On7(2016),MSM8953,on7xltechn,samsung,3072,2
+gts8xser,Galaxy Tab S8 5G,SM8450,gts8,samsung,8192,3
+a12nsxx,Galaxy A12,MT6765,a12,samsung,3072,46
+gts28veltezh,Galaxy Tab S2,MSM8976,gts28veltechn,samsung,3072,7
+t2sxxx,Galaxy S21+ 5G,Exynos 2100,t2s,samsung,8192,50
+SC-02J,Galaxy S8,MSM8998,SC-02J,samsung,4096,30
+x1sxx,Galaxy S20,Exynos 990,x1s,samsung,8192,47
+a5ltezt,Galaxy A5,MSM8916,a5ltezt,samsung,2048,1
+beyond0qltesq,Galaxy S10e,SM8150,beyond0q,samsung,6144,56
+m21nsxx,Galaxy M21,Exynos 9611,m21,samsung,4096,34
+a7xelteub,Galaxy A7(2016),Exynos 7580,a7xelte,samsung,3072,16
+a6eltemtr,Galaxy A6,Exynos 7884,a6eltemtr,samsung,3072,16
+a03nnser,Galaxy A03,T606,a03,samsung,3072,32
+SC-01H,Galaxy Active neo,MSM8916,SC-01H,samsung,2048,6
+j7xeltezh,Galaxy J7(2016),Exynos 7580,j7xeltecmcc,samsung,3072,7
+a51zh,Galaxy  A51,Exynos 9611,a51,samsung,4096,38
+kltezh,Galaxy S5,MSM8974,klte,samsung,2048,7
+gts7xlwifieea,Galaxy Tab S7+,SM8250Pro,gts7xlwifi,samsung,6144,45
+jactiveltexx,Galaxy S4 Active,APQ8064,jactivelte,samsung,2048,4
+a02tur,Galaxy A02,MT6739WW,a02,samsung,3072,22
+gts7leea,Galaxy Tab S7,SM8250Pro,gts7l,samsung,6144,38
+c2qsqw,Galaxy Note20 Ultra 5G,SM8250Pro,c2q,samsung,12288,51
+zerolteuc,Galaxy S6 Edge,Exynos 7420,zerolteatt,samsung,3072,15
+a71cs,Galaxy A71,SM7150,a71,samsung,6144,45
+a10eue,Galaxy A10e,Exynos 7884B,a10e,samsung,2048,28
+a33xnsdtur,Galaxy A33 5G,s5e8825,a33x,samsung,6144,25
+a8sqltezt,Galaxy A8s,SDM710,a8sqlte,samsung,6144,12
+star2qltecs,Galaxy S9+,SDM845,star2qltecs,samsung,6144,43
+c2qzhx,Galaxy Note20 Ultra 5G,SM8250Pro,c2q,samsung,12288,36
+a32xktt,Galaxy Jump,MT6853V/NZA,a32x,samsung,6144,31
+gts210veltexx,Galaxy Tab S2,MSM8976,gts210velte,samsung,3072,37
+hero2qlteue,Galaxy S7 edge,MSM8996,hero2qlteue,samsung,4096,32
+jftddzn,Galaxy S4,APQ8064,jftdd,samsung,2048,1
+gtanotexlltejv,Galaxy Tab A (2016) with S Pen,Exynos 7870,gtanotexllte,samsung,3072,7
+r1qxx,Galaxy A80,SM7150,r1q,samsung,8192,46
+hero2qltezh,Galaxy S7 edge,MSM8996,hero2qltechn,samsung,4096,23
+klteub,Galaxy S5,MSM8974,klte,samsung,2048,17
+a50cs,Galaxy A50,Exynos 9610,a50,samsung,6144,43
+beyond0lteks,Galaxy S10e,Exynos 9820,beyond0,samsung,6144,34
+m12nnxx,Galaxy M12,Exynos 850,m12,samsung,3072,50
+j6ltexx,Galaxy J6,Exynos 7870,j6lte,samsung,2048,41
+a53xue,Galaxy A53 5G,s5e8825,a53x,samsung,6144,31
+gta3xlxx,Galaxy Tab A,Exynos 7904,gta3xl,samsung,2048,49
+a11qnnxx,Galaxy A11,SDM450,a11q,samsung,3072,57
+gts210ltetmo,Galaxy Tab S2 9.7,Exynos 5433,gts210ltetmo,samsung,3072,15
+t2sxtur,Galaxy S21+ 5G,Exynos 2100,t2s,samsung,8192,12
+a7y17ltezt,Galaxy A7(2017),Exynos 7880,a7y17lte,samsung,3072,15
+a13xcs,Galaxy A13 5G,MT6833V/NZA,a13x,samsung,4096,34
+gts8pwifiser,Galaxy Tab S8+,SM8450,gts8pwifi,samsung,8192,2
+ms013gxx,Galaxy Grand2,MSM8226,ms013g,samsung,1536,9
+a6eltetu,Galaxy A6,Exynos 7884,a6elteaio,samsung,3072,13
+gts210ltevl,Galaxy Tab S2 9.7,Exynos 5433,gts210ltecan,samsung,3072,10
+q4qxxx,Galaxy Z Fold4,SM8475,q4q,samsung,12288,45
+jackpotltevl,Galaxy A8(2018),Exynos 7885,jackpotltecan,samsung,4096,41
+jflteuc,Galaxy S4,APQ8064,jflteatt,samsung,2048,3
+bloomqser,Galaxy Z Flip,SM8150P,bloomq,samsung,8192,9
+a70qsq,Galaxy A70,SM6150,a70q,samsung,6144,11
+gtelwifixx,Galaxy Tab E,SC7730SE,gtelwifi,samsung,1536,12
+kltezm,Galaxy S5,MSM8974,klte,samsung,2048,1
+gta7litejtxx,Galaxy Tab A7 Lite,MT8768T,gta7lite,samsung,3072,36
+gtesltelgt,Galaxy Tab E 8.0,Exynos 3475,gtesltelgt,samsung,1536,9
+gta3xlks,Galaxy Tab A,Exynos 7904,gta3xl,samsung,2048,27
+zerofltezm,Galaxy S6,Exynos 7420,zerofltechn,samsung,3072,1
+a03susq,Galaxy A03s,MT6765,a03su,samsung,3072,45
+t2qzcx,Galaxy S21+ 5G,SM8350,t2q,samsung,8192,6
+lt01wifiue,Galaxy Tab3 8.0,Exynos 4212,lt01wifi,samsung,1536,5
+chagallltedo,Galaxy TabS 10.5,Exynos 5420,chagalllte,samsung,3072,7
+r1qzh,Galaxy A80,SM7150,r1q,samsung,8192,20
+a12usq,Galaxy A12,MT6765,a12u,samsung,3072,49
+SC-03G,Galaxy Tab S 8.4,MSM8974,SC-03G,samsung,3072,6
+gprimelteusc,Galaxy Grand Prime,MSM8916,gprimelteusc,samsung,1536,2
+gta4xltur,Galaxy Tab S6 Lite,Exynos 9611,gta4xl,samsung,4096,21
+a53xzh,Galaxy A53 5G,s5e8825,a53x,samsung,6144,36
+gt5note10ltelgt,Galaxy Tab A 9.7,MSM8916,gt5note10ltelgt,samsung,2048,4
+m32dd,Galaxy M32,MT6769T,m32,samsung,4096,35
+viennaltekx,Galaxy Note Pro 12.2,MSM8974,viennaltekx,samsung,3072,1
+hltezm,Galaxy Note3,MSM8674,hlte,samsung,3072,2
+gta4xlwifitur,Galaxy Tab S6 Lite,Exynos 9611,gta4xlwifi,samsung,4096,36
+gts8xxx,Galaxy Tab S8 5G,SM8450,gts8,samsung,8192,37
+j3xproltectc,Galaxy J3 Pro,MSM8916,j3xproltectc,samsung,2048,4
+c2sxxx,Galaxy Note20 Ultra 5G,Exynos 990,c2s,samsung,12288,51
+q2qxxx,Galaxy Z Fold3 5G,SM8350,q2q,samsung,12288,44
+bloomqzc,Galaxy Z Flip,SM8150P,bloomq,samsung,8192,2
+winnerxks,Galaxy Fold 5G,SM8150,winner,samsung,12288,26
+y2sxx,Galaxy S20+,Exynos 990,y2s,samsung,12288,52
+gta4xlwifieea,Galaxy Tab S6 Lite,Exynos 9611,gta4xlwifi,samsung,4096,52
+kltetmofrp,Galaxy S5,MSM8974,kltetmo,samsung,2048,1
+a12nntur,Galaxy A12,MT6765,a12,samsung,3072,33
+c5proltezm,Galaxy C5 Pro,MSM8953,c5proltechn,samsung,4096,2
+r0qzhx,Galaxy S22,SM8450,r0q,samsung,8192,22
+on7xelteins,Galaxy On Nxt,Exynos 7870,on7xelte,samsung,3072,28
+gts7xlwifitur,Galaxy Tab S7+,SM8250Pro,gts7xlwifi,samsung,6144,17
+gts8uxeea,Galaxy Tab S8 Ultra 5G,SM8450,gts8u,samsung,8192,31
+j5y17lteubm,Galaxy J5 Pro,Exynos 7870,j5y17lte,samsung,2048,6
+m12kx,Galaxy M12,Exynos 850,m12,samsung,3072,12
+beyondxqspr,Galaxy S10 5G,SM8150,beyondxq,samsung,6144,12
+kltevlactive,Galaxy S5 Active,MSM8974,kltecanactive,samsung,2048,2
+hero2lteskt,Galaxy S7 Edge,Exynos 8890,hero2lteskt,samsung,4096,29
+a8sqlteks,Galaxy A9 Pro,SDM710,a8sqlteks,samsung,6144,33
+tbltezh,Galaxy Note Edge,APQ8084,tblte,samsung,3072,1
+gts4lwifieea,Galaxy Tab S4,MSM8998,gts4lwifi,samsung,4096,19
+a5ulteskt,Galaxy A5,MSM8916,a5ulteskt,samsung,2048,4
+j4primeltekx,Galaxy J4+,MSM8917,j4primeltekx,samsung,3072,21
+c2sxser,Galaxy Note20 Ultra 5G,Exynos 990,c2s,samsung,12288,9
+serranoltedv,Galaxy S4 Mini,MSM8930AB,serranolte,samsung,1536,1
+nobleltedv,Galaxy Note5,Exynos 7420,noblelte,samsung,4096,21
+gts7xlwifixx,Galaxy Tab S7+,SM8250Pro,gts7xlwifi,samsung,6144,46
+gtactive2lteub,Galaxy Tab Active2,Exynos 7870,gtactive2lte,samsung,3072,16
+j2y18lteub,Galaxy J2 Pro,MSM8917,j2y18lte,samsung,1536,27
+a72qnsser,Galaxy A72,SM7125,a72q,samsung,6144,33
+a7xeltezm,Galaxy A7(2016),Exynos 7580,a7xeltecmcc,samsung,3072,7
+viennalteatt,Galaxy Note Pro 12.2,MSM8974,viennalteatt,samsung,3072,3
+bloomxqksx,Galaxy Z Flip 5G,SM8250Pro,bloomxq,samsung,8192,28
+j3topltetu,SM-J337AZ,Exynos 7570,j3toplteaio,samsung,2048,16
+kminiltexx,Galaxy S5 mini,Exynos 3470,kminilte,samsung,1536,14
+a71xzc,Galaxy A71 5G,Exynos 980,a71x,samsung,8192,6
+v1awifixx,Galaxy Note Pro 12.2,Exynos 5420,v1awifi,samsung,3072,7
+r8qxx,test,SM8250,r8q,samsung,6144,52
+ja3gxx,Galaxy S4,Exynos 5410,ja3g,samsung,2048,6
+c1qcsx,Galaxy Note20 5G,SM8250Pro,c1q,samsung,8192,25
+a50eea,Galaxy A50,Exynos 9610,a50,samsung,6144,57
+c1ktt,Galaxy S3,Exynos 4412,c1ktt,samsung,2048,1
+a5ultebmc,Galaxy A5,MSM8916,a5ultebmc,samsung,2048,7
+star2qltesq,Galaxy S9+,SDM845,star2qltesq,samsung,6144,55
+SC-55B,Galaxy Z Fold3 5G,SM8350,SC-55B,samsung,12288,13
+sltelgt,Galaxy Alpha,Exynos 5430,sltelgt,samsung,2048,1
+z3sxser,Galaxy S20 Ultra 5G,Exynos 990,z3s,samsung,12288,23
+SC-01L,Galaxy Note9,SDM845,SC-01L,samsung,6144,25
+gta2sltelgt,Galaxy Tab A (2017),MSM8917,gta2sltelgt,samsung,2048,17
+r3qks,Galaxy A90 5G,SM8150,r3q,samsung,6144,38
+on5xfltezm,Galaxy On5 2016 时尚版,MSM8917,on5xfltechn,samsung,2048,8
+a51xue,Galaxy A51 5G,Exynos 980,a51x,samsung,6144,17
+c2sser,Galaxy Note20 Ultra,Exynos 990,c2s,samsung,12288,23
+gts3lltetur,Galaxy Tab S3,MSM8996,gts3llte,samsung,4096,6
+a23xque,Galaxy A23 5G,SM6375,a23xq,samsung,4096,15
+j3popeltetu,Galaxy J3 Pop,Exynos 7570,j3popelteaio,samsung,1536,10
+beyond1qlteue,Galaxy S10,SM8150,beyond1q,samsung,8192,50
+a42xqzh,Galaxy A42 5G,SM7225,a42xq,samsung,4096,24
+r9qcsx,Galaxy S21 FE 5G,SM8350,r9q,samsung,6144,40
+gts7lwifizc,Galaxy Tab S7,SM8250Pro,gts7lwifi,samsung,6144,4
+chagallltezt,Galaxy TabS 10.5,Exynos 5420,chagalllte,samsung,3072,1
+on5ltetmo,Galaxy On5,Exynos 3475,on5ltetmo,samsung,1536,4
+a5y17ltektt,Galaxy A5(2017),Exynos 7880,a5y17ltektt,samsung,3072,16
+kltektt,Galaxy S5,MSM8974,kltektt,samsung,2048,2
+j3toplteuc,SM-J337A,Exynos 7570,j3toplteatt,samsung,2048,24
+m11qub,Galaxy M11,SDM450,m11q,samsung,3072,24
+SCV48_jp_kdi,Galaxy A41,MT6768,SCV48,samsung,4096,26
+chagalllteuc,Galaxy TabS 10.5,Exynos 5420,chagalllteatt,samsung,3072,4
+gt510ltezc,Galaxy Tab A 9.7,MSM8916,gt510ltechn,samsung,2048,1
+c1seea,Galaxy Note20,Exynos 990,c1s,samsung,8192,35
+greatqltezm,Galaxy Note8,MSM8998,greatqltecmcc,samsung,6144,1
+m53xnsxx,Galaxy M53 5G,MT6877,m53x,samsung,6144,38
+a04xx,Galaxy A04,MT6765,a04,samsung,3072,39
+a52qnsxx,Galaxy A52,SM7125,a52q,samsung,4096,59
+gts7fewifitur,Galaxy Tab S7 FE,SM7325,gts7fewifi,samsung,4096,25
+y2sxeea,Galaxy S20+ 5G,Exynos 990,y2s,samsung,12288,52
+r9q2sqw,Galaxy S21 FE 5G,SM8350,r9q,samsung,6144,35
+a32ser,Galaxy A32,MT6769T,a32,samsung,4096,45
+a13xub,Galaxy A13 5G,MT6833V/NZA,a13x,samsung,4096,7
+a70sdd,Galaxy A70s,SM6150,a70s,samsung,6144,26
+q2qksx,Galaxy Z Fold3 5G,SM8350,q2q,samsung,12288,37
+j6ltekx,Galaxy J6,Exynos 7870,j6ltekx,samsung,2048,2
+grandmaxltekx,Galaxy Grand-Max,MSM8916,grandmaxltekx,samsung,1536,6
+SCG09_jp_kdi,Galaxy S21 5G,SM8350,SCG09,samsung,8192,27
+novellteskt,Galaxy Folder,Exynos 3475,novellteskt,samsung,1536,1
+r7naser,Galaxy Note10 Lite,Exynos 9810,r7,samsung,6144,28
+j8y18ltedd,Galaxy J8,SDM450,j8y18lte,samsung,3072,33
+lentislteskt,Galaxy S5,APQ8084,lentislteskt,samsung,3072,9
+gts8wifieea,Galaxy Tab S8,SM8450,gts8wifi,samsung,8192,32
+kltezt,Galaxy S5,MSM8974,klte,samsung,2048,1
+t03gub,Galaxy Note2,Exynos 4412,t03g,samsung,2048,3
+a30ub,Galaxy A30,Exynos 7904,a30,samsung,4096,46
+j4primelteser,Galaxy J4+,MSM8917,j4primelte,samsung,2048,25
+serranodsxx,Galaxy S4 Mini,MSM8230AB,serranods,samsung,1536,5
+gta4xlvewifieea,Galaxy Tab S6 Lite,SM7125,gta4xlvewifi,samsung,4096,39
+a12zh,Galaxy A12,MT6765,a12,samsung,3072,26
+m31snsser,Galaxy M31s,Exynos 9611,m31s,samsung,6144,34
+gta4lvewifieea,Galaxy Tab A7,T618,gta4lvewifi,samsung,3072,24
+gta3xlwifijco,Galaxy Tab A,Exynos 7904,gta3xlwifi,samsung,3072,20
+j5xnltetur,Galaxy J5(2016),MSM8916,j5xnlte,samsung,2048,21
+gtaslitelteuc,Galaxy Tab A 8,MSM8917,gtaslitelteatt,samsung,2048,23
+a5ltexx,Galaxy A5,MSM8916,a5lte,samsung,2048,24
+a9xltezc,Galaxy A9(2016),MSM8976,a9xltechn,samsung,3072,1
+a53xsqx,Galaxy A53 5G,s5e8825,a53x,samsung,6144,44
+a30xtc,Galaxy A30,Exynos 7904,a30,samsung,4096,34
+j3xnltexx,Galaxy J3(2016),SC9830I,j3xnlte,samsung,1536,19
+gtactive2wifieea,Galaxy Tab Active2,Exynos 7870,gtactive2wifi,samsung,3072,3
+j7eltetmo,Galaxy J7(2016),Exynos 7580,j7eltetmo,samsung,2048,28
+a60qzt,Galaxy A60,SM6150,a60q,samsung,6144,27
+a3corexx,Galaxy A03 Core,SC9863A,a3core,samsung,2048,44
+a5xeltextc,Galaxy A5(2016),Exynos 7580,a5xeltextc,samsung,2048,2
+gtactive2wifixx,Galaxy Tab Active2,Exynos 7870,gtactive2wifi,samsung,3072,16
+kccat6xx,Galaxy S5 LTE-A,APQ8084,kccat6,samsung,2048,12
+on7xrefltedd,Galaxy On7 Prime,Exynos 7870,on7xreflte,samsung,4096,39
+gtanotexlwifikx,Galaxy Tab A (2016) with S Pen,Exynos 7870,gtanotexlwifikx,samsung,3072,34
+SCG03_jp_kdi,Galaxy S20 Ultra 5G,SM8250,SCG03,samsung,12288,4
+gta2sltedx,Galaxy Tab A (2017),MSM8917,gta2slte,samsung,2048,29
+gtaxlwifizc,Galaxy Tab A (2016),Exynos 7870,gtaxlwifichn,samsung,2048,2
+a12ucs,Galaxy A12,MT6765,a12u,samsung,3072,29
+a12nseea,Galaxy A12,MT6765,a12,samsung,3072,55
+gta4xlser,Galaxy Tab S6 Lite,Exynos 9611,gta4xl,samsung,4096,35
+j7y17ltektt,Galaxy J7(2017),Exynos 7870,j7y17ltektt,samsung,3072,14
+h3gduoszn,Galaxy Note3 Duos,MSM8674,hlte,samsung,3072,4
+o5ltedd,Galaxy On5,Exynos 3475,o5lte,samsung,1536,4
+a10kx,Galaxy A10,Exynos 7884B,a10,samsung,2048,6
+tblteuc,Galaxy Note Edge,APQ8084,tblteatt,samsung,3072,2
+nobleltedd,Galaxy Note5,Exynos 7420,noblelte,samsung,4096,6
+SCV47_jp_kdi,Galaxy Z Flip,SM8150,SCV47,samsung,8192,4
+a13nntur,Galaxy A13,Exynos 850,a13,samsung,3072,31
+gtactivexlue,Galaxy Tab Active Pro,SDM670,gtactivexl,samsung,4096,12
+a22xnszh,Galaxy A22 5G,MT6833V/NZA,a22x,samsung,4096,29
+gprimelteacg,Galaxy Grand Prime,MSM8916,gprimelteacg,samsung,1536,1
+gtel3gxx,Galaxy Tab E 9.6,SC7730SE,gtel3g,samsung,1536,12
+a6plteser,Galaxy A6+,SDM450,a6plte,samsung,3072,26
+a7xeltezt,Galaxy A7(2016),Exynos 7580,a7xeltextc,samsung,3072,4
+m52xqxx,Galaxy M52 5G,SM7325,m52xq,samsung,6144,37
+zerofltetu,Galaxy S6,Exynos 7420,zeroflteaio,samsung,3072,5
+tbltespr,Galaxy Note Edge,APQ8084,tbltespr,samsung,3072,3
+a23nsxx,Galaxy A23,SM6225,a23,samsung,4096,50
+jflteud,Galaxy S4,APQ8064,jfltetfnatt,samsung,2048,1
+SCG14_jp_kdi,Galaxy S22 Ultra ,SM8450,SCG14,samsung,8192,19
+milletwifiue,Galaxy Tab4 8.0,APQ8026,milletwifiue,samsung,1536,7
+r9qxser,Galaxy S21 FE 5G,SM8350,r9q,samsung,6144,25
+heroqltetfnvzw,Galaxy S7,MSM8996,heroqltetfnvzw,samsung,4096,22
+gta2sltezh,Galaxy Tab A (2017),MSM8917,gta2sltechn,samsung,3072,4
+a02qnaxx,Galaxy A02s,SDM450,a02q,samsung,2048,23
+a51cs,Galaxy A51,Exynos 9611,a51,samsung,4096,42
+a33xnsdxx,Galaxy A33 5G,s5e8825,a33x,samsung,6144,49
+meliusltelgt,Galaxy Mega 6.3,MSM8930,meliusltelgt,samsung,1536,1
+c2qksw,Galaxy Note20 Ultra 5G,SM8250Pro,c2q,samsung,12288,43
+g0sxxx,Galaxy S22+,s5e9925,g0s,samsung,8192,24
+a5y17ltexx,Galaxy A5(2017),Exynos 7880,a5y17lte,samsung,3072,54
+chagallhltektt,Galaxy TabS 10.5,Exynos 5433,chagallhltektt,samsung,3072,3
+grandpplteub,Galaxy J2 Prime,MT6737T,grandpplte,samsung,1536,36
+gts4lvwifixx,Galaxy Tab S5e,SDM670,gts4lvwifi,samsung,4096,53
+j2coreplteuc,SM-J260A,Exynos 7570,j2coreplteatt,samsung,2048,25
+c9ltezt,Galaxy C9 Pro,MSM8976SG,c9lte,samsung,6144,18
+j5ltezh,Galaxy J5,MSM8916,j5lte,samsung,1536,3
+viennaltexx,Galaxy Note Pro 12.2,MSM8974,viennalte,samsung,3072,2
+ks01ltektt,Galaxy S4,MSM8974,ks01ltektt,samsung,2048,1
+a10etfn,Galaxy A10e,Exynos 7884B,a10e,samsung,2048,35
+a6ltejx,Galaxy A6,Exynos 7870,a6lte,samsung,3072,27
+a3xeltekx,Galaxy A3(2016),Exynos 7578,a3xeltekx,samsung,1536,10
+gtowifiue,Galaxy Tab A Kids Edition,SDM429,gtowifi,samsung,2048,27
+a04tur,Galaxy A04,MT6765,a04,samsung,3072,26
+a20psq,Galaxy A20,Exynos 7904,a20p,samsung,3072,45
+a52sxqxx,Galaxy A52s 5G,SM7325,a52sxq,samsung,6144,58
+a70szc,Galaxy A70s,SM6150,a70s,samsung,6144,8
+j7eltemtr,Galaxy J7(2016),Exynos 7580,j7eltemtr,samsung,2048,20
+starqltezh,Galaxy S9,SDM845,starqltechn,samsung,4096,40
+a8ltezh,Galaxy A8,MSM8939,a8ltechn,samsung,2048,2
+f2qksx,Galaxy Z Fold2 5G,SM8250Pro,f2q,samsung,12288,34
+ja3gub,Galaxy S4,Exynos 5410,ja3g,samsung,2048,4
+c2qcsx,Galaxy Note20 Ultra 5G,SM8250Pro,c2q,samsung,12288,42
+j7maxltedd,Galaxy On Max,MT6757V,j7maxlte,samsung,4096,16
+SC-04G,Galaxy S6 Edge,Exynos 7420,SC-04G,samsung,3072,10
+e7ltectc,Galaxy E7,MSM8916,e7ltectc,samsung,2048,1
+crownltexx,Galaxy Note9,Exynos 9810,crownlte,samsung,6144,60
+r9qxxx,Galaxy S21 FE 5G,SM8350,r9q,samsung,6144,32
+jadeltezh,Galaxy C8,MT6757V,jadeltechn,samsung,4096,25
+c1qzcx,Galaxy Note20 5G,SM8250Pro,c1q,samsung,8192,4
+sltejv,Galaxy Alpha,Exynos 5430,slte,samsung,2048,4
+c1quew,Galaxy Note20 5G,SM8250Pro,c1q,samsung,8192,31
+m23xqxx,Galaxy M23 5G,SM7225,m23xq,samsung,4096,47
+SCG01_jp_kdi,Galaxy S20 5G,SM8250,SCG01,samsung,12288,24
+jackpotlteldu,Galaxy A8(2018),Exynos 7885,jackpotlte,samsung,4096,4
+j3popeltetfntmo,Galaxy J3 Pop,Exynos 7570,j3popeltetfntmo,samsung,1536,9
+beyond1qltezc,Galaxy S10,SM8150,beyond1q,samsung,8192,19
+a53xnsxx,Galaxy A53 5G,s5e8825,a53x,samsung,6144,56
+a23ks,Galaxy A23,SM6225,a23,samsung,4096,35
+zerofltelra,Galaxy S6,Exynos 7420,zerofltelra,samsung,3072,5
+gts7fewifiser,Galaxy Tab S7 FE,SM7325,gts7fewifi,samsung,4096,19
+d2xqjx,Galaxy Note10+ 5G,SM8150,d2xq,samsung,12288,25
+m10lteser,Galaxy M10,Exynos 7870,m10lte,samsung,3072,1
+gt5note8wifixx,Galaxy Tab A 8.0,APQ8016,gt5note8wifi,samsung,2048,16
+a3xeltedo,Galaxy A3(2016),Exynos 7578,a3xelte,samsung,1536,1
+j8y18lteins,Galaxy On8,SDM450,j8y18lte,samsung,3072,20
+gts8kxx,Galaxy Tab S8 5G,SM8450,gts8,samsung,8192,13
+r7naxx,Galaxy Note10 Lite,Exynos 9810,r7,samsung,6144,48
+gta7litexx,Galaxy Tab A7 Lite,MT8768T,gta7lite,samsung,3072,48
+s3ve3gjv,Galaxy S3 Neo,MSM8228,s3ve3g,samsung,1536,5
+a6pltezc,Galaxy A9 Star Lite,SDM450,a6pltechn,samsung,4096,6
+r8quex,Galaxy S20 FE 5G,SM8250,r8q,samsung,6144,42
+rubensltexx,Galaxy Tab Active,MSM8926,rubenslte,samsung,1536,17
+serranolteub,Galaxy S4 Mini,MSM8930AB,serranolte,samsung,1536,2
+a11qsq,Galaxy A11,SDM450,a11q,samsung,3072,41
+a52xqsq,Galaxy A52 5G,SM7225,a52xq,samsung,6144,47
+gta4lzc,Galaxy Tab A7,SM6115,gta4l,samsung,3072,8
+c5proltezc,Galaxy C5 Pro,MSM8953,c5proltechn,samsung,4096,2
+t2qsqw,Galaxy S21+ 5G,SM8350,t2q,samsung,8192,49
+j7xeltetur,Galaxy J7(2016),Exynos 7870,j7xelte,samsung,2048,28
+b4qxxx,Galaxy Z Flip4,SM8475,b4q,samsung,8192,42
+m10ltedx,Galaxy M10,Exynos 7870,m10lte,samsung,3072,33
+f22ins,Galaxy F22,MT6769T,f22,samsung,4096,32
+d2lterefreshspr,Galaxy S3,MSM8960,d2lterefreshspr,samsung,2048,1
+m32ser,Galaxy M32,MT6769T,m32,samsung,4096,29
+gts8pwifizc,Galaxy Tab S8+,SM8450,gts8pwifi,samsung,8192,4
+a82xqskt,Galaxy Quantum2,SM8150P,a82xq,samsung,6144,34
+c9ltezm,Galaxy C9 Pro,MSM8976SG,c9ltechn,samsung,6144,1
+gtactivexlser,Galaxy Tab Active Pro,SDM670,gtactivexl,samsung,4096,5
+beyond1qltezh,Galaxy S10,SM8150,beyond1q,samsung,8192,33
+SC-54A,Galaxy A51 5G,SM7250,SC-54A,samsung,6144,24
+m23xqlgt,Galaxy Buddy2,SM7225,m23xq,samsung,4096,30
+klimtlteuc,Galaxy TabS 8.4,Exynos 5420,klimtlteatt,samsung,3072,6
+on7xelteskt,Galaxy On7(2016),Exynos 7870,on7xelteskt,samsung,3072,20
+bloomxqxxx,Galaxy Z Flip 5G,SM8250Pro,bloomxq,samsung,8192,10
+dream2qltevl,Galaxy S8+,MSM8998,dream2qltecan,samsung,4096,34
+a02qdd,Galaxy F02s,SDM450,a02q,samsung,2048,18
+a32xxx,Galaxy A32 5G,MT6853V/NZA,a32x,samsung,6144,46
+klimtltezt,Galaxy Tab S 8.4,Exynos 5420,klimtlte,samsung,3072,3
+b4qzcx,Galaxy Z Flip4,SM8475,b4q,samsung,8192,6
+d2ub,Galaxy S3,MSM8960,d2can,samsung,2048,1
+k3gxx,Galaxy S5,Exynos 5422,k3g,samsung,2048,20
+a02ins,Galaxy M02,MT6739WW,a02,samsung,3072,24
+a11qnsxx,Galaxy A11,SDM450,a11q,samsung,3072,35
+t03gxx,Galaxy Note2,Exynos 4412,t03g,samsung,2048,11
+m53xskt,Galaxy Quantum3,MT6877,m53x,samsung,6144,25
+matissevewifixx,Galaxy Tab4 10.1,APQ8016,matissevewifi,samsung,1536,15
+m20lteser,Galaxy M20,Exynos 7904,m20lte,samsung,3072,8
+r1qzc,Galaxy A80,SM7150,r1q,samsung,8192,4
+jfvelteub,Galaxy S4,APQ8064,jfvelte,samsung,2048,5
+gts4lltetmo,Galaxy Tab S4,MSM8998,gts4lltetmo,samsung,4096,29
+a50xx,Galaxy A50,Exynos 9610,a50,samsung,6144,46
+m32tur,Galaxy M32,MT6769T,m32,samsung,4096,19
+b4qxtur,Galaxy Z Flip4,SM8475,b4q,samsung,8192,9
+kminilteuc,Galaxy S5 mini,MSM8928,kminilteatt,samsung,1536,1
+gta3xltur,Galaxy Tab A,Exynos 7904,gta3xl,samsung,2048,9
+tre3caltelgt,Galaxy Note4 S-LTE,Exynos 5433,tre3caltelgt,samsung,3072,10
+victoryzc,三星 W21 5G,SM8250Pro,victory,samsung,12288,4
+a13xzh,Galaxy A13 5G,MT6833V/NZA,a13x,samsung,4096,25
+j3xpro6mltezc,Galaxy J3 Pro 增强版,MSM8216,j3xpro6mltechn,samsung,2048,9
+a53xksx,Galaxy A53 5G,s5e8825,a53x,samsung,6144,27
+a12snseea,Galaxy A12,Exynos 850,a12s,samsung,3072,53
+c7proltezm,Galaxy C7 Pro,MSM8953,c7proltechn,samsung,4096,2
+a20szh,Galaxy A20s,SDM450,a20s,samsung,3072,30
+gtactivexltur,Galaxy Tab Active Pro,SDM670,gtactivexl,samsung,4096,7
+gts4lltespr,Galaxy Tab S4,MSM8998,gts4lltespr,samsung,4096,8
+gts3lltezh,Galaxy Tab S3,MSM8996,gts3llte,samsung,4096,6
+zerolteusc,Galaxy S6 Edge,Exynos 7420,zerolteusc,samsung,3072,1
+gtaxlqltespr,Galaxy Tab A,MSM8953,gtaxlqltespr,samsung,2048,8
+zerofltetfnmm,Galaxy S6,Exynos 7420,zerofltetfnvzw,samsung,3072,5
+beyond1qltecs,Galaxy S10,SM8150,beyond1q,samsung,8192,49
+d1qsq,Galaxy Note10,SM8150,d1q,samsung,8192,52
+a13xskt,Galaxy A13 5G,MT6833V/NZA,a13x,samsung,4096,22
+gts7xlxx,Galaxy Tab S7+,SM8250Pro,gts7xl,samsung,6144,36
+a50dtvvj,Galaxy A50,Exynos 9610,a50,samsung,6144,50
+a40skt,Galaxy A40,Exynos 7904,a40,samsung,4096,16
+gts8ukxx,Galaxy Tab S8 Ultra 5G,SM8450,gts8u,samsung,8192,12
+b0qzhx,Galaxy S22 Ultra ,SM8450,b0q,samsung,8192,33
+a53xnaxx,Galaxy A53 5G,s5e8825,a53x,samsung,6144,34
+j3xltejt,Galaxy J3(2016),SC9830I,j3xlte,samsung,1536,17
+a3y17ltedx,Galaxy A3 (2017),Exynos 7870,a3y17lte,samsung,2048,17
+a04eub,Galaxy A04e,MT6765,a04e,samsung,3072,23
+v2wifixx,Galaxy Tab Pro 12.2,Exynos 5420,v2wifi,samsung,3072,9
+a7y18lteser,Galaxy A7 (2018),Exynos 7885,a7y18lte,samsung,4096,34
+SC-01F,Galaxy Note3,MSM8974,SC-01F,samsung,3072,3
+o7ltezc,Galaxy On7,MSM8916,o7ltechn,samsung,1536,9
+a7xeltexx,Galaxy A7(2016),Exynos 7580,a7xelte,samsung,3072,32
+a02qtfn,Galaxy A02s,SDM450,a02q,samsung,2048,39
+gts4lvxx,Galaxy Tab S5e,SDM670,gts4lv,samsung,4096,40
+m22jvxx,Galaxy M22,MT6769T,m22,samsung,4096,43
+gts7lser,Galaxy Tab S7,SM8250Pro,gts7l,samsung,6144,21
+jflteusc,Galaxy S4,APQ8064,jflteusc,samsung,2048,1
+on5xeltedx,Galaxy J5 Prime,Exynos 7570,on5xelte,samsung,2048,29
+g0qcsx,Galaxy S22+,SM8450,g0q,samsung,8192,35
+nobleltelra,Galaxy Note5,Exynos 7420,nobleltelra,samsung,4096,3
+j5xltezh,Galaxy J5(2016),MSM8916,j5xltecmcc,samsung,2048,10
+beyondxquc,Galaxy S10 5G,SM8150,beyondxq,samsung,6144,14
+j7xeltezt,Galaxy J7(2016),Exynos 7870,j7xelte,samsung,2048,21
+e53gxx,Galaxy E5,MSM8216,e53g,samsung,1536,14
+afyonltetmo,Galaxy Avant,MSM8926,afyonltetmo,samsung,1536,3
+j3xltedd,Galaxy J3(2016),SC9830I,j3xlte,samsung,1536,11
+j7veltedtvvj,Galaxy J7 Neo,Exynos 7870,j7velte,samsung,2048,38
+tblteub,Galaxy Note Edge,APQ8084,tbltetmo,samsung,3072,3
+heroqlteuc,Galaxy S7,MSM8996,heroqlteatt,samsung,4096,32
+noblelteskt,Galaxy Note5,Exynos 7420,noblelteskt,samsung,4096,29
+zenltektt,Galaxy S6 Edge+,Exynos 7420,zenltektt,samsung,4096,10
+a11qtu,Galaxy A11,SDM450,a11q,samsung,3072,31
+gtesqlteusc,Galaxy Tab E 8.0,MSM8916,gtesqlteusc,samsung,1536,6
+m10sins,Galaxy M10s,Exynos 7884B,m10s,samsung,3072,23
+x1sxxx,Galaxy S20 5G,Exynos 990,x1s,samsung,8192,34
+a52qnstur,Galaxy A52,SM7125,a52q,samsung,4096,33
+a03snnxx,Galaxy A03s,MT6765,a03s,samsung,3072,55
+a20sxx,Galaxy A20s,SDM450,a20s,samsung,3072,53
+degaswifixx,Galaxy Tab4 7.0,PXA1088,degaswifi,samsung,1536,7
+j7toplteuc,Galaxy J7,Exynos 7870,j7toplteatt,samsung,2048,23
+b2qxeea,Galaxy Z Flip3 5G,SM8350,b2q,samsung,8192,49
+astarqlteskt,Galaxy A8 Star,SDM660,astarqlteskt,samsung,4096,29
+a5y17ltelgt,Galaxy A5(2017),Exynos 7880,a5y17ltelgt,samsung,3072,15
+gts210veltevl,Galaxy Tab S2 9.7,MSM8976,gts210veltecan,samsung,3072,9
+p3sxser,Galaxy S21 Ultra 5G,Exynos 2100,p3s,samsung,8192,33
+j7duoltedd,Galaxy J7 Duo,Exynos 7884,j7duolte,samsung,4096,33
+a31zh,Galaxy A31,MT6768,a31,samsung,4096,34
+gracerlteskt,Galaxy Note Fan Edition,Exynos 8890,gracerlteskt,samsung,4096,21
+a21snsxx,Galaxy A21s,Exynos 850,a21s,samsung,3072,46
+zerofltedv,Galaxy S6,Exynos 7420,zeroflte,samsung,3072,30
+xcover4lteser,Galaxy XCover4,Exynos 7570,xcover4lte,samsung,2048,1
+a7xltezc,Galaxy A7(2016),MSM8939,a7xltechn,samsung,3072,2
+a53xtfn,Galaxy A53 5G,s5e8825,a53x,samsung,6144,31
+a03snntur,Galaxy A03s,MT6765,a03s,samsung,3072,19
+a12ub,Galaxy A12,MT6765,a12,samsung,3072,55
+r8qzhx,Galaxy S20 FE 5G,SM8250,r8q,samsung,6144,28
+j7y17ltedx,Galaxy J7 Pro,Exynos 7870,j7y17lte,samsung,3072,44
+gts7xlsqwnc,Galaxy Tab S7+ 5G,SM8250Pro,gts7xl,samsung,6144,17
+xcover5ser,Galaxy XCover 5,Exynos 850,xcover5,samsung,4096,3
+r9q2uew,Galaxy S21 FE 5G,SM8350,r9q,samsung,6144,9
+gts210vewifixx,Galaxy Tab S2,APQ8076,gts210vewifi,samsung,3072,45
+SC-05G,Galaxy S6,Exynos 7420,SC-05G,samsung,3072,8
+gtanotexllteub,Galaxy Tab A (2016) with S Pen,Exynos 7870,gtanotexllte,samsung,3072,23
+gta4lkx,Galaxy Tab A7,SM6115,gta4l,samsung,3072,28
+b2qsqw,Galaxy Z Flip3 5G,SM8350,b2q,samsung,8192,44
+b2qxtur,Galaxy Z Flip3 5G,SM8350,b2q,samsung,8192,17
+a42xqdd,Galaxy M42 5G,SM7225,a42xq,samsung,4096,24
+t0ltektt,Galaxy Note2,Exynos 4412,t0ltektt,samsung,2048,2
+kltetmo,Galaxy S5,MSM8974,kltetmo,samsung,2048,11
+m32xx,Galaxy M32,MT6769T,m32,samsung,4096,44
+gta4xlwifiser,Galaxy Tab S6 Lite,Exynos 9611,gta4xlwifi,samsung,4096,33
+m23xqtur,Galaxy M23 5G,SM7225,m23xq,samsung,4096,19
+a42xqeea,Galaxy A42 5G,SM7225,a42xq,samsung,4096,43
+tre3gxx,Galaxy Note4,Exynos 5433,tre3g,samsung,3072,30
+zerofltektt,Galaxy S6,Exynos 7420,zerofltektt,samsung,3072,12
+q4qsqw,Galaxy Z Fold4,SM8475,q4q,samsung,12288,38
+a20dd,Galaxy A20,Exynos 7884B,a20,samsung,3072,49
+a20szc,Galaxy A20s,SDM450,a20s,samsung,3072,2
+g0qzcx,Galaxy S22+,SM8450,g0q,samsung,8192,4
+b0qzcx,Galaxy S22 Ultra,SM8450,b0q,samsung,8192,11
+a71naeea,Galaxy A71,SM7150,a71,samsung,6144,53
+j7y17lteub,Galaxy J7 Pro,Exynos 7870,j7y17lte,samsung,3072,42
+lt013gub,Galaxy Tab3 8.0,Exynos 4212,lt013g,samsung,1536,2
+a5xeltezt,Galaxy A5 (2016),Exynos 7580,a5xeltextc,samsung,2048,1
+a21szh,Galaxy A21s,Exynos 850,a21s,samsung,3072,34
+SC-03L,Galaxy S10,SM8150,SC-03L,samsung,8192,37
+gts7lwifieea,Galaxy Tab S7,SM8250Pro,gts7lwifi,samsung,6144,44
+mega2lteuc,Galaxy Mega2,Exynos 4415,mega2lteatt,samsung,1536,2
+lt03wifixx,Galaxy Note 10.1 2014 Edition,Exynos 5420,lt03wifi,samsung,3072,17
+zeroltektt,Galaxy S6 Edge,Exynos 7420,zeroltektt,samsung,3072,11
+a52sxqtur,Galaxy A52s 5G,SM7325,a52sxq,samsung,6144,21
+gta3xlwifieea,Galaxy Tab A,Exynos 7904,gta3xlwifi,samsung,3072,54
+grandpplteser,Galaxy Grand Prime Plus,MT6737T,grandpplte,samsung,1536,30
+j6ltelgt,Galaxy J6,Exynos 7870,j6ltelgt,samsung,2048,15
+serranoltexx,Galaxy S4 Mini,MSM8930AB,serranolte,samsung,1536,6
+a72qnstur,Galaxy A72,SM7125,a72q,samsung,6144,28
+matissewifixx,Galaxy Tab4 10.1,APQ8026,matissewifi,samsung,1536,17
+m51nseea,Galaxy M51,SM7150,m51,samsung,6144,34
+klimtlteub,Galaxy TabS 8.4,Exynos 5420,klimtlte,samsung,3072,6
+a32xue,Galaxy A32 5G,MT6853V/NZA,a32x,samsung,6144,30
+m51nstur,Galaxy M51,SM7150,m51,samsung,6144,26
+f2quew,Galaxy Z Fold2 5G,SM8250Pro,f2q,samsung,12288,22
+tre3caltektt,Galaxy Note4,Exynos 5433,tre3caltektt,samsung,3072,11
+o7proltedd,Galaxy On7 Pro,MSM8916,o7prolte,samsung,2048,16
+a3xeltexx,Galaxy A3(2016),Exynos 7578,a3xelte,samsung,1536,32
+starltexx,Galaxy S9,Exynos 9810,starlte,samsung,4096,61
+j7topltetmo,Galaxy J7 Star,Exynos 7870,j7topltetmo,samsung,2048,29
+trlteduoszh,Galaxy Note4,APQ8084,trltechnzh,samsung,3072,2
+a11qnntur,Galaxy A11,SDM450,a11q,samsung,3072,30
+a13vennxx,Galaxy A13,MT6769T,a13ve,samsung,4096,42
+slteuc,Galaxy Alpha,MSM8974,slteatt,samsung,2048,3
+SC-02H,Galaxy S7 Edge,MSM8996,SC-02H,samsung,4096,29
+a52xqnaxx,Galaxy A52 5G,SM7225,a52xq,samsung,6144,45
+r0qsqw,Galaxy S22,SM8450,r0q,samsung,8192,51
+f2qzcx,Galaxy Z Fold2 5G,SM8250Pro,f2q,samsung,12288,6
+t0lteusc,Galaxy Note2,Exynos 4412,t0lteusc,samsung,2048,1
+meliusltespr,Galaxy Mega 6.3,MSM8930AB,meliusltespr,samsung,1536,1
+c2qzcx,Galaxy Note20 Ultra 5G,SM8250Pro,c2q,samsung,12288,11
+gts3llteub,Galaxy TabS3,MSM8996,gts3llte,samsung,4096,16
+star2ltexx,Galaxy S9+,Exynos 9810,star2lte,samsung,6144,64
+g0sxser,Galaxy S22+,s5e9925,g0s,samsung,8192,11
+zerofltezh,Galaxy S6,Exynos 7420,zerofltechn,samsung,3072,10
+v1awifiue,Galaxy Note Pro 12.2,Exynos 5420,v1awifi,samsung,3072,2
+a6ltexx,Galaxy A6,Exynos 7870,a6lte,samsung,3072,42
+a7y18lteub,Galaxy A7 (2018),Exynos 7885,a7y18lte,samsung,4096,43
+klimtwifixx,Galaxy TabS 8.4,Exynos 5420,klimtwifi,samsung,3072,18
+o7ltedd,Galaxy On7,MSM8916,o7lte,samsung,1536,21
+matissewifiue,Galaxy Tab4 10.1,APQ8026,matissewifiue,samsung,1536,14
+gts28vewifizs,Galaxy Tab S2 8.0,APQ8076,gts28vewifi,samsung,3072,1
+gts7xllitekxx,Galaxy Tab S7 FE 5G,SM7225,gts7xllite,samsung,4096,7
+beyond2lteeea,Galaxy S10+,Exynos 9820,beyond2,samsung,8192,56
+a10xx,Galaxy A10,Exynos 7884B,a10,samsung,2048,28
+j7e3gxx,Galaxy J7,Exynos 7580,j7e3g,samsung,1536,32
+beyondxqtmo,Galaxy S10 5G,SM8150,beyondxq,samsung,6144,4
+a70qxx,Galaxy A70,SM6150,a70q,samsung,6144,51
+hlteub,Galaxy Note3,MSM8974,hltecan,samsung,3072,3
+zeroltetmo,Galaxy S6 Edge,Exynos 7420,zeroltetmo,samsung,3072,20
+a03snseea,Galaxy A03s,MT6765,a03s,samsung,3072,37
+a22xlgt,Galaxy Buddy,MT6833V/NZA,a22x,samsung,4096,28
+hero2ltebmc,Galaxy S7 Edge,Exynos 8890,hero2ltebmc,samsung,4096,27
+s5neoltexx,Galaxy S5 Neo,Exynos 7580,s5neolte,samsung,2048,29
+a42xuqtfn,Galaxy A42 5G,SM7225,a42xuq,samsung,4096,21
+j3xltebmc,Galaxy J3(2016),Exynos 3475,j3xltebmc,samsung,1536,7
+degasltexx,Galaxy Tab4 7.0,Exynos 3470,degaslte,samsung,1536,11
+kona3gub,Galaxy Note 8.0,Exynos 4412,kona3g,samsung,2048,2
+a53xnstur,Galaxy A53 5G,s5e8825,a53x,samsung,6144,29
+a23xqub,Galaxy A23 5G,SM6375,a23xq,samsung,4096,13
+j7ltespr,Galaxy J7(2015),MSM8929,j7ltespr,samsung,2048,9
+gts7lkx,Galaxy Tab S7,SM8250Pro,gts7l,samsung,6144,24
+a02qub,Galaxy A02s,SDM450,a02q,samsung,2048,51
+q2quew,Galaxy Z Fold3 5G,SM8350,q2q,samsung,12288,32
+SCG08_jp_kdi,Galaxy A32 5G,MT6853V/NZA,SCG08,samsung,4096,35
+gtactive2ltexx,Galaxy Tab Active2,Exynos 7870,gtactive2lte,samsung,3072,23
+SC-01M,Galaxy Note10+,SM8150,SC-01M,samsung,12288,20
+gta8wifiser,Galaxy Tab A8,T618,gta8wifi,samsung,3072,25
+xcoverprosq,Galaxy XCover Pro,Exynos 9611,xcoverpro,samsung,4096,14
+gts8pxeea,Galaxy Tab S8+ 5G,SM8450,gts8p,samsung,8192,30
+serranodsub,Galaxy S4 Mini,MSM8230AB,serranods,samsung,1536,7
+lt013gxx,Galaxy Tab3 8.0,Exynos 4212,lt013g,samsung,1536,9
+a01qmtr,Galaxy A01,SDM439,a01q,samsung,2048,28
+bloomxqzhx,Galaxy Z Flip 5G,SM8250Pro,bloomxq,samsung,8192,1
+a5xeltexx,Galaxy A5(2016),Exynos 7580,a5xelte,samsung,2048,35
+gts7xlliteser,Galaxy Tab S7 FE 5G,SM7225,gts7xllite,samsung,4096,21
+gts3lltedx,Galaxy TabS3,MSM8996,gts3llte,samsung,4096,32
+goyairis3ginu,Galaxy TAB3 Lite,MSM8216,goyairis3g,samsung,1536,3
+heroqlteusc,Galaxy S7,MSM8996,heroqlteusc,samsung,4096,16
+a51ue,Galaxy A51,Exynos 9611,a51,samsung,4096,35
+dm1qksx,Galaxy S23,SM8550,dm1q,samsung,8192,13
+gprimeltetfnvzw,Galaxy Grand Prime,MSM8916,gprimeltetfnvzw,samsung,1536,1
+d2xqvzw,Galaxy Note10+ 5G,SM8150,d2xq,samsung,12288,38
+gtaxlwifixx,Galaxy Tab A (2016),Exynos 7870,gtaxlwifi,samsung,2048,53
+astarqltezc,Galaxy A9 Star,SDM660,astarqltechn,samsung,4096,4
+gta4lwifiser,Galaxy Tab A7,SM6115,gta4lwifi,samsung,3072,32
+q2qxeea,Galaxy Z Fold3 5G,SM8350,q2q,samsung,12288,48
+a5y17lteldu,Galaxy A5(2017),Exynos 7880,a5y17lte,samsung,3072,2
+zenltejv,Galaxy S6 Edge+,Exynos 7420,zenlte,samsung,4096,32
+r7nsxx,Galaxy Note10 Lite,Exynos 9810,r7,samsung,6144,46
+o1qcsx,Galaxy S21 5G,SM8350,o1q,samsung,8192,49
+y2sxxx,Galaxy S20+ 5G,Exynos 990,y2s,samsung,12288,42
+c1sser,Galaxy Note20,Exynos 990,c1s,samsung,8192,19
+gta8kx,Galaxy Tab A8,T618,gta8,samsung,3072,23
+a02cisser,Galaxy A02,MT6739WW,a02,samsung,3072,25
+a51xnaxx,Galaxy A51 5G,Exynos 980,a51x,samsung,6144,16
+crownlteeea,Galaxy Note9,Exynos 9810,crownlte,samsung,6144,5
+a11qcs,Galaxy A11,SDM450,a11q,samsung,3072,34
+lt03ltexx,Galaxy Note 10.1 2014 Edition,MSM8974,lt03lte,samsung,3072,9
+g0quew,Galaxy S22+,SM8450,g0q,samsung,8192,32
+j6lteser,Galaxy J6,Exynos 7870,j6lte,samsung,2048,27
+j3xlteuc,Galaxy J3(2016),Exynos 3475,j3xlteatt,samsung,1536,10
+a6plteub,Galaxy A6+,SDM450,a6plte,samsung,3072,31
+gtesqltespr,Galaxy Tab E 8.0,MSM8916,gtesqltespr,samsung,1536,9
+nobleltektt,Galaxy Note5,Exynos 7420,nobleltektt,samsung,4096,23
+m11qnseea,Galaxy M11,SDM450,m11q,samsung,3072,33
+t0lteuc,Galaxy Note II,Exynos 4412,t0lteatt,samsung,2048,2
+SCG04_jp_kdi,Galaxy Z Flip 5G,SM8250Pro,SCG04,samsung,8192,1
+r5qnaeea,Galaxy S10 Lite,SM8150,r5q,samsung,8192,48
+a6pltexx,Galaxy A6+,SDM450,a6plte,samsung,3072,41
+t2qzhx,Galaxy S21+ 5G,SM8350,t2q,samsung,8192,30
+m13ins,Galaxy M13,Exynos 850,m13,samsung,4096,35
+a13ue,Galaxy A13,Exynos 850,a13,samsung,3072,26
+ms01ltezh,Galaxy Grand2,MSM8926,ms01lte,samsung,1536,1
+jackpot2ltexx,Galaxy A8+(2018),Exynos 7885,jackpot2lte,samsung,4096,48
+SC-54B,Galaxy Z Flip3 5G,SM8350,SC-54B,samsung,8192,12
+a03ub,Galaxy A03,T606,a03,samsung,3072,50
+tbltecan,Galaxy Note Edge,APQ8084,tbltecan,samsung,3072,1
+gts3llteusc,Galaxy Tab S3,MSM8996,gts3llteusc,samsung,4096,8
+gvltelgt,Galaxy view,Exynos 7580,gvltelgt,samsung,2048,1
+a71xnaxx,Galaxy A71 5G,Exynos 980,a71x,samsung,8192,30
+b2qksx,Galaxy Z Flip3 5G,SM8350,b2q,samsung,8192,42
+beyond2lteser,Galaxy S10+,Exynos 9820,beyond2,samsung,8192,31
+m04xx,Galaxy M04,MT6765,m04,samsung,3072,3
+r7zh,Galaxy Note10 Lite,Exynos 9810,r7,samsung,6144,21
+gt5note8ltezt,Galaxy Tab A 8.0,MSM8916,gt5note8ltechn,samsung,2048,6
+m01qins,Galaxy M01,SDM439,m01q,samsung,3072,33
+jackpotlteeea,Galaxy A8(2018),Exynos 7885,jackpotlte,samsung,4096,20
+j3ltekx,Galaxy J3(2016),MSM8916,j3ltekx,samsung,1036,3
+beyondxqvzw,Galaxy S10 5G,SM8150,beyondxq,samsung,6144,24
+gts7xlwifiser,Galaxy Tab S7+,SM8250Pro,gts7xlwifi,samsung,6144,19
+a12sub,Galaxy A12,Exynos 850,a12s,samsung,3072,52
+gt58wifixx,Galaxy Tab A 8.0,APQ8016,gt58wifi,samsung,1536,29
+z3qcsw,Galaxy S20 Ultra 5G,SM8250,z3q,samsung,12288,34
+lt03ltezs,Galaxy Note 10.1 2014 Edition,MSM8974,lt03lte,samsung,3072,2
+gts7lsqwnc,Galaxy Tab S7 5G,SM8250Pro,gts7l,samsung,6144,30
+gtaslitelteusc,Galaxy Tab A,MSM8917,gtaslitelteusc,samsung,2048,11
+gts210lteusc,Galaxy Tab S2 9.7,Exynos 5433,gts210lteusc,samsung,3072,5
+on7eltetur,Galaxy On7,Exynos 7870,on7elte,samsung,1536,10
+a3xelteub,Galaxy A3(2016),Exynos 7578,a3xelte,samsung,1536,12
+gta8wifixx,Galaxy Tab A8,T618,gta8wifi,samsung,3072,53
+b2qzcx,Galaxy Z Flip3 5G,SM8350,b2q,samsung,8192,8
+f62ins,Galaxy F62,Exynos 9825,f62,samsung,6144,32
+SC-04L,Galaxy S10+,SM8150,SC-04L,samsung,8192,20
+noblelteusc,Galaxy Note5,Exynos 7420,noblelteusc,samsung,4096,3
+elitexltezh,Galaxy Folder2,MSM8917,elitexlte,samsung,2048,1
+a12szh,Galaxy A12,Exynos 850,a12s,samsung,3072,21
+milletltektt,Galaxy Tab4 8.0,MSM8926,milletltektt,samsung,1536,1
+b4qzhx,Galaxy Z Flip4,SM8475,b4q,samsung,8192,20
+degasy18wifibnzzc,SM-T230NZ,Exynos 7870,degasy18wifichn,samsung,3072,6
+milletwifixx,Galaxy Tab4 8.0,APQ8026,milletwifi,samsung,1536,11
+gta2xlltecs,Galaxy Tab A (10.5),SDM450,gta2xlltecs,samsung,3072,16
+trltespr,Galaxy Note4,APQ8084,trltespr,samsung,3072,10
+hl3gdsxx,Galaxy Note3 Neo,MSM8228,hl3gds,samsung,2048,1
+a03nnxx,Galaxy A03,T606,a03,samsung,3072,53
+f2qcsx,Galaxy Z Fold2 5G,SM8250Pro,f2q,samsung,12288,15
+sltecan,Galaxy Alpha,MSM8974,sltecan,samsung,2048,2
+a3ultexx,Galaxy A3,MSM8916,a3ulte,samsung,1536,23
+gts6lwifieea,Galaxy Tab S6,SM8150,gts6lwifi,samsung,6144,42
+r1qeea,Galaxy A80,SM7150,r1q,samsung,8192,38
+gvltexx,Galaxy View,Exynos 7580,gvlte,samsung,2048,3
+a33xks,Galaxy A33 5G,s5e8825,a33x,samsung,6144,23
+a41ser,Galaxy A41,MT6768,a41,samsung,4096,28
+zerofltemtr,Galaxy S6,Exynos 7420,zerofltemtr,samsung,3072,7
+lt03lteskt,Galaxy Note 10.1,MSM8974,lt03lteskt,samsung,3072,1
+e5ltexx,Galaxy E5,MSM8916,e5lte,samsung,1536,5
+on7xltezh,Galaxy J7 Prime,MSM8953,on7xltechn,samsung,3072,29
+j4primelteub,Galaxy J4+,MSM8917,j4primelte,samsung,2048,36
+a02ub,Galaxy A02,MT6739WW,a02,samsung,3072,40
+xcoverpro2sq,Galaxy XCover6 Pro,SM7325,xcoverpro2,samsung,6144,5
+a32xeea,Galaxy A32 5G,MT6853V/NZA,a32x,samsung,6144,53
+gtesltetmo,Galaxy Tab E 8.0,Exynos 3475,gtesltetmo,samsung,1536,18
+a20xtc,Galaxy A20,Exynos 7884B,a20,samsung,3072,34
+lt03ltektt,Galaxy Note 10.1,MSM8974,lt03ltektt,samsung,3072,1
+m22jvser,Galaxy M22,MT6769T,m22,samsung,4096,24
+a70qser,Galaxy A70,SM6150,a70q,samsung,6144,33
+picassoltexx,Galaxy Tab Pro 10.1,MSM8974,picassolte,samsung,2048,2
+gts3llteldu,Galaxy Tab S3,MSM8996,gts3llte,samsung,4096,2
+j7popeltetfntmo,Galaxy J7 Sky Pro,Exynos 7870,j7popeltetfntmo,samsung,2048,18
+rubensltedo,Galaxy Tab Active,MSM8926,rubenslte,samsung,1536,4
+m31nseea,Galaxy M31,Exynos 9611,m31,samsung,6144,35
+xcover4seea,Galaxy XCover 4s,Exynos 7884,xcover4s,samsung,3072,29
+r9qzh,Galaxy S21 FE 5G,SM8350,r9q,samsung,6144,26
+gta2slteskt,Galaxy Tab A (2017),MSM8917,gta2slteskt,samsung,2048,7
+a20ektt,Galaxy Jean2,Exynos 7884B,a20e,samsung,3072,21
+a32xsq,Galaxy A32 5G,MT6853V/NZA,a32x,samsung,6144,51
+gtaxlltejv,Galaxy Tab A 10.1,Exynos 7870,gtaxllte,samsung,2048,9
+gta4xlvexx,Galaxy Tab S6 Lite,SM7125,gta4xlve,samsung,4096,35
+gts7xllitexeea,Galaxy Tab S7 FE 5G,SM7225,gts7xllite,samsung,4096,35
+jalteskt,Galaxy S4,Exynos 5410,jalteskt,samsung,2048,1
+hltetmo,Galaxy Note3,MSM8974,hltetmo,samsung,3072,8
+kmini3gxx,Galaxy S5 Mini,MSM8228,kmini3g,samsung,1536,17
+j7popeltetmo,Galaxy J7 Prime,Exynos 7870,j7popeltetmo,samsung,2048,29
+on7xrefltedtvvj,Galaxy J7 Prime2,Exynos 7870,on7xreflte,samsung,4096,36
+tbltexx,Galaxy Note Edge,APQ8084,tblte,samsung,3072,12
+a8hpltezt,Galaxy A8,Exynos 5433,a8hplte,samsung,2048,2
+winnerltesq,Galaxy Fold,SM8150,winner,samsung,12288,13
+a8eltejv,Galaxy A8,Exynos 5430,a8elte,samsung,2048,14
+f2qsqw,Galaxy Z Fold2 5G,SM8250Pro,f2q,samsung,12288,30
+SC-56C,Galaxy A23 5G,MT6833V/NZA,SC-56C,samsung,4096,7
+j7topeltetfnvzw,Galaxy J7 Crown,Exynos 7884,j7topeltetfnvzw,samsung,2048,37
+c1sxx,Galaxy Note20,Exynos 990,c1s,samsung,8192,45
+a23xqsq,Galaxy A23 5G,SM6375,a23xq,samsung,4096,32
+a5ultelgt,Galaxy A5,MSM8916,a5ultelgt,samsung,2048,4
+gtactive3eea,Galaxy Tab Active3,Exynos 9810,gtactive3,samsung,4096,33
+beyond0qltezc,Galaxy S10e,SM8150,beyond0q,samsung,6144,2
+gts7xllitexx,Galaxy Tab S7 FE 5G,SM7225,gts7xllite,samsung,4096,47
+a23xqnsxx,Galaxy A23 5G,SM6375,a23xq,samsung,4096,15
+j3popeltevl,Galaxy J3 Prime,Exynos 7570,j3popeltecan,samsung,1536,10
+a73xqtur,Galaxy A73 5G,SM7325,a73xq,samsung,6144,27
+gta2sltedv,Galaxy Tab A (2017),MSM8917,gta2slte,samsung,2048,12
+trltedt,Galaxy Note4,APQ8084,trlte,samsung,3072,9
+a7altexx,Galaxy A7,Exynos 5430,a7alte,samsung,2048,17
+gts3lltekx,Galaxy Tab S3,MSM8996,gts3lltekx,samsung,4096,17
+gtanotexlltedx,Galaxy Tab A (2016) with S Pen,Exynos 7870,gtanotexllte,samsung,3072,31
+greatlteks,Galaxy Note8,Exynos 8895,greatlteks,samsung,6144,40
+b0qxxx,Galaxy S22 Ultra ,SM8450,b0q,samsung,8192,57
+a11que,Galaxy A11,SDM450,a11q,samsung,3072,23
+j7popelteskt,Galaxy Wide2,Exynos 7870,j7popelteskt,samsung,2048,18
+tbltetmo,Galaxy Note Edge,APQ8084,tbltetmo,samsung,3072,4
+lt033gub,Galaxy Note 10.1,Exynos 5420,lt033g,samsung,3072,7
+xcoverpro2cs,Galaxy XCover6 Pro,SM7325,xcoverpro2,samsung,6144,4
+gts8pwifieea,Galaxy Tab S8+,SM8450,gts8pwifi,samsung,8192,36
+a32eea,Galaxy A32,MT6769T,a32,samsung,4096,45
+gtactive3kx,Galaxy Tab Active3,Exynos 9810,gtactive3,samsung,4096,3
+zenltedd,Galaxy S6 Edge+,Exynos 7420,zenlte,samsung,4096,2
+a21cs,Galaxy A21,MT6765,a21,samsung,3072,25
+a12nsser,Galaxy A12,MT6765,a12,samsung,3072,47
+m30sxx,Galaxy M30s,Exynos 9611,m30s,samsung,4096,35
+c9ltedd,Galaxy C9 Pro,MSM8976SG,c9lte,samsung,6144,37
+xcoverproxx,Galaxy XCover Pro,Exynos 9611,xcoverpro,samsung,4096,24
+gts4lveea,Galaxy Tab S5e,SDM670,gts4lv,samsung,4096,40
+nobleltezt,Galaxy Note5,Exynos 7420,noblelte,samsung,4096,22
+j7toplteue,Galaxy J7,Exynos 7870,j7toplteue,samsung,2048,20
+xcoverpro2ue,Galaxy XCover6 Pro,SM7325,xcoverpro2,samsung,6144,5
+j3y17qltezm,Galaxy J3,MSM8917,j3y17qltecmcc,samsung,3072,14
+kltesprsports,Galaxy S5 K Sport,MSM8974,kltesprsports,samsung,2048,1
+d2xks,Galaxy Note10+ 5G,Exynos 9825,d2x,samsung,12288,46
+j5xnltektt,Galaxy J5(2016),MSM8916,j5xnltektt,samsung,2048,8
+SC-41A,Galaxy A41,MT6768,SC-41A,samsung,4096,24
+d2que,Galaxy Note10+,SM8150,d2q,samsung,12288,51
+SC-03K,Galaxy S9+,SDM845,SC-03K,samsung,6144,25
+f41dd,Galaxy F41,Exynos 9611,f41,samsung,6144,35
+zerofltelgt,Galaxy S6,Exynos 7420,zerofltelgt,samsung,3072,14
+a71xqsq,Galaxy A71 5G,SM7250,a71xq,samsung,6144,48
+SCG07_jp_kdi,Galaxy A51 5G,SM7250,SCG07,samsung,6144,24
+c1qksw,Galaxy Note20 5G,SM8250Pro,c1q,samsung,8192,42
+r1qks,Galaxy A80,SM7150,r1q,samsung,8192,23
+gts7xlsqw,Galaxy Tab S7+ 5G,SM8250Pro,gts7xl,samsung,6144,25
+zerofltetfnvzw,Galaxy S6,Exynos 7420,zerofltetfnvzw,samsung,3072,1
+beyond1lteeea,Galaxy S10,Exynos 9820,beyond1,samsung,8192,61
+zenlteldu,Galaxy S6 Edge+,Exynos 7420,zenlte,samsung,4096,3
+r5qnaxx,Galaxy S10 Lite,SM8150,r5q,samsung,8192,36
+j3xltedx,Galaxy J3(2016),SC9830I,j3xlte,samsung,1536,12
+wisdomwifizh,Galaxy Tab A with S Pen,Exynos 7904,wisdomwifi,samsung,3072,30
+gta8tur,Galaxy Tab A8,T618,gta8,samsung,3072,8
+j3y17ltekx,Galaxy J3(2017),Exynos 7570,j3y17ltekx,samsung,2048,8
+a12ks,Galaxy A12,MT6765,a12,samsung,3072,27
+winnerlteser,Galaxy Fold,SM8150,winner,samsung,12288,8
+m33xxx,Galaxy M33 5G,s5e8825,m33x,samsung,6144,38
+m22jveea,Galaxy M22,MT6769T,m22,samsung,4096,25
+j5y17ltedx,Galaxy J5 Pro,Exynos 7870,j5y17ltedx,samsung,3072,28
+a52sxqks,Galaxy A52s 5G,SM7325,a52sxq,samsung,6144,31
+j3popeltetuz,Galaxy J3 Pop,Exynos 7570,j3popelteaio,samsung,1536,2
+a7y18lteks,Galaxy A7 (2018),Exynos 7885,a7y18lteks,samsung,4096,29
+gtactivexlwifixx,Galaxy Tab Active Pro,SDM670,gtactivexlwifi,samsung,4096,15
+gta7litesq,Galaxy Tab A7 Lite,MT8768T,gta7lite,samsung,3072,33
+bloomqks,Galaxy Z Flip,SM8150P,bloomq,samsung,8192,28
+degaswifizh,Galaxy Tab4 7.0,PXA1088,degaswifi,samsung,1536,1
+SCG12_jp_kdi,Galaxy Z Flip3 5G,SM8350,SCG12,samsung,8192,9
+r3qxx,Galaxy A90 5G,SM8150,r3q,samsung,6144,18
+a70qdd,Galaxy A70,SM6150,a70q,samsung,6144,28
+a14xmsq,Galaxy A14 5G,MT6833V/NZA,a14xm,samsung,4096,1
+m23xqjpn,Galaxy M23 5G,SM7225,m23xq,samsung,4096,6
+r7naeea,Galaxy Note10 Lite,Exynos 9810,r7,samsung,6144,42
+q4qksx,Galaxy Z Fold4,SM8475,q4q,samsung,12288,33
+d2seea,Galaxy Note10+,Exynos 9825,d2s,samsung,12288,51
+a32xzh,Galaxy A32 5G,MT6853V/NZA,a32x,samsung,6144,31
+a5xeltektt,Galaxy A5(2016),Exynos 7580,a5xeltektt,samsung,2048,5
+SC-02L,Galaxy Feel2,Exynos 7885,SC-02L,samsung,4096,19
+a02qsqc,Galaxy A02s,SDM450,a02q,samsung,2048,37
+r0qxtur,Galaxy S22,SM8450,r0q,samsung,8192,20
+t0lteskt,Galaxy Note2,Exynos 4412,t0lteskt,samsung,2048,4
+lt033gjv,Galaxy Note 10.1,Exynos 5420,lt033g,samsung,3072,2
+kltelra,Galaxy S5,MSM8974,kltelra,samsung,2048,1
+a50sq,Galaxy A50,Exynos 9610,a50,samsung,6144,40
+d1qzc,Galaxy Note10,SM8150,d1q,samsung,8192,7
+degasltespr,Galaxy Tab4 7.0,MSM8926,degasltespr,samsung,1536,11
+j7topelteusc,Galaxy J7 Aura,Exynos 7884,j7topelteusc,samsung,2048,15
+m31snsxx,Galaxy M31s,Exynos 9611,m31s,samsung,6144,36
+rubenslteub,Galaxy Tab4 Active,MSM8926,rubenslte,samsung,1536,5
+hero2ltektt,Galaxy S7 Edge,Exynos 8890,hero2ltektt,samsung,4096,22
+a13xnseea,Galaxy A13 5G,MT6833V/NZA,a13x,samsung,4096,42
+SCV49_jp_kdi,Galaxy A21,Exynos 7884B,SCV49,samsung,3072,23
+gta4xlkx,Galaxy Tab S6 Lite,Exynos 9611,gta4xl,samsung,4096,30
+t2qcsx,Galaxy S21+ 5G,SM8350,t2q,samsung,8192,38
+nobleltebmc,Galaxy Note5,Exynos 7420,nobleltebmc,samsung,4096,15
+j7popelteuc,Galaxy J7 Pop,Exynos 7870,j7popelteatt,samsung,2048,16
+a30czh,Galaxy A40s,Exynos 7904,a30c,samsung,6144,24
+zenltetmo,Galaxy S6 Edge+,Exynos 7420,zenltetmo,samsung,4096,22
+gta4lwifizc,Galaxy Tab A7,SM6115,gta4lwifi,samsung,3072,8
+a70qcs,Galaxy A70,SM6150,a70q,samsung,6144,37
+j3xlteue,Galaxy J3(2016),Exynos 3475,j3xlteatt,samsung,1536,5
+d2qsq,Galaxy Note10+,SM8150,d2q,samsung,12288,56
+v1a3gxx,Galaxy Note Pro 12.2,Exynos 5420,v1a3g,samsung,3072,2
+a7ltelgt,Galaxy A7,MSM8939,a7ltelgt,samsung,2048,7
+a20ub,Galaxy A20,Exynos 7884B,a20,samsung,3072,50
+m30sdd,Galaxy M30s,Exynos 9611,m30s,samsung,4096,43
+klteactivexx,Galaxy S5 Active,MSM8974,klteactive,samsung,2048,3
+a12snsxx,Galaxy A12,Exynos 850,a12s,samsung,3072,46
+gta4xlxx,Galaxy Tab S6 Lite,Exynos 9611,gta4xl,samsung,4096,52
+hltektt,Galaxy Note3,MSM8974,hltektt,samsung,3072,3
+a6lteser,Galaxy A6,Exynos 7870,a6lte,samsung,3072,28
+a10dx,Galaxy A10,Exynos 7884B,a10,samsung,2048,45
+m13ub,Galaxy M13,Exynos 850,m13,samsung,4096,35
+f42xdd,Galaxy F42 5G,MT6833V/NZA,f42x,samsung,6144,24
+a71xque,Galaxy A71 5G,SM7250,a71xq,samsung,6144,34
+r9quew,Galaxy S21 FE 5G,SM8350,r9q,samsung,6144,33
+SC-51A,Galaxy S20 5G,SM8250,SC-51A,samsung,12288,30
+graceltexx,Galaxy Note7,Exynos 8890,gracelte,samsung,4096,3
+a21snsser,Galaxy A21s,Exynos 850,a21s,samsung,3072,37
+x1sser,Galaxy S20,Exynos 990,x1s,samsung,8192,24
+SC51Aa,Galaxy S20 5G,SM8250,SC51Aa,samsung,12288,11
+bloomxqcsx,Galaxy Z Flip 5G,SM8250Pro,bloomxq,samsung,8192,3
+on7xeltektt,Galaxy On7(2016),Exynos 7870,on7xeltektt,samsung,3072,8
+shamu,Nexus 6,APQ8084AB,shamu,google,3072,3
+v1awifikx,Galaxy Note Pro 12.2,Exynos 5420,v1awifikx,samsung,3072,1
+m13nseea,Galaxy M13,Exynos 850,m13,samsung,4096,35
+a01qvzw,Galaxy A01,SDM439,a01q,samsung,2048,24
+vasta3gxx,Galaxy Mega2,MSM8216,vasta3g,samsung,1536,3
+a22nnxx,Galaxy A22,MT6769T,a22,samsung,4096,48
+a51nsser,Galaxy A51,Exynos 9611,a51,samsung,4096,50
+j5y17ltelgt,Galaxy J5,Exynos 7870,j5y17ltelgt,samsung,2048,8
+gts210ltekx,Galaxy Tab S2 9.7,Exynos 5433,gts210ltekx,samsung,3072,15
+a13nsxx,Galaxy A13,Exynos 850,a13,samsung,3072,40
+a6pltezm,Galaxy A9 Star Lite,SDM450,a6pltecmcc,samsung,4096,2
+gts3lltexx,Galaxy Tab S3,MSM8996,gts3llte,samsung,4096,40
+j5ltexx,Galaxy J5,MSM8916,j5lte,samsung,1536,17
+SC-01G,Galaxy Note Edge,APQ8084,SC-01G,samsung,3072,2
+m20ltedd,Galaxy M20,Exynos 7904,m20lte,samsung,3072,39
+t03gzs,Galaxy Note2,Exynos 4412,t03g,samsung,2048,4
+gta4ltur,Galaxy Tab A7,SM6115,gta4l,samsung,3072,33
+degasy18wifibnz,Galaxy Tab4 7,Exynos 7870,degasy18wifi,samsung,3072,3
+blueline,Pixel 3,SDM845,blueline,google,4096,6
+j2corepltemtr,Galaxy J2,Exynos 7570,j2corepltemtr,samsung,2048,32
+j5xnltejv,Galaxy J5(2016),MSM8916,j5xnlte,samsung,2048,24
+on7xelteub,Galaxy J7 Prime,Exynos 7870,on7xelte,samsung,3072,53
+on7xrefltelgt,Galaxy On7 Prime,Exynos 7870,on7xrefltelgt,samsung,3072,14
+tbeltelgt,Galaxy Note Edge,Exynos 5433,tbeltelgt,samsung,3072,3
+cruiserltesq,Galaxy S8 Active,MSM8998,cruiserltesq,samsung,4096,25
+crownqltesq,Galaxy Note9,SDM845,crownqltesq,samsung,6144,59
+dream2qlteue,Galaxy S8+,MSM8998,dream2qlteue,samsung,4096,38
+a04snsxx,Galaxy A04s,Exynos 850,a04s,samsung,3072,20
+a52qub,Galaxy A52,SM7125,a52q,samsung,4096,47
+a02qnaeea,Galaxy A02s,SDM450,a02q,samsung,2048,44
+r8qeea,Galaxy S20 FE,SM8250,r8q,samsung,6144,50
+beyond2qltesq,Galaxy S10+,SM8150,beyond2q,samsung,8192,55
+j8y18ltedx,Galaxy J8,SDM450,j8y18lte,samsung,3072,39
+gta7litewifiser,Galaxy Tab A7 Lite,MT8768N,gta7litewifi,samsung,3072,31
+gta3xlser,Galaxy Tab A,Exynos 7904,gta3xl,samsung,2048,32
+z3qzcx,Galaxy S20 Ultra 5G,SM8250,z3q,samsung,12288,15
+beyond2qltecs,Galaxy S10+,SM8150,beyond2q,samsung,8192,38
+xcover3ltexx,Galaxy Xcover3,PXA1908,xcover3lte,samsung,1536,9
+chagallltetmo,Galaxy TabS 10.5,Exynos 5420,chagallltetmo,samsung,3072,1
+greatltexx,Galaxy Note8,Exynos 8895,greatlte,samsung,6144,58
+gts6lwifizc,Galaxy Tab S6,SM8150,gts6lwifi,samsung,6144,4
+c7ltezh,Galaxy C7,MSM8953,c7ltechn,samsung,4096,29
+lt02ltespr,Galaxy Tab3 7.0,MSM8930AB,lt02ltespr,samsung,1536,6
+j7xeltexx,Galaxy J7(2016),Exynos 7870,j7xelte,samsung,2048,44
+a13xsq,Galaxy A13 5G,MT6833V/NZA,a13x,samsung,4096,52
+a7xeltextc,Galaxy A7(2016),Exynos 7580,a7xeltextc,samsung,3072,2
+beyondxeea,Galaxy S10 5G,Exynos 9820,beyondx,samsung,8192,34
+haechiy19lteuc,Galaxy XCover FieldPro,Exynos 9810,haechiy19lteatt,samsung,4096,6
+gta8wifieea,Galaxy Tab A8,T618,gta8wifi,samsung,3072,56
+r0quew,Galaxy S22,SM8450,r0q,samsung,8192,33
+j7xltedd,Galaxy On8,Exynos 7580,j7xlte,samsung,3072,10
+gts8pkxx,Galaxy Tab S8+ 5G,SM8450,gts8p,samsung,8192,14
+jflterefreshspr,Galaxy S4,APQ8064,jflterefreshspr,samsung,2048,1
+j7popeltemtr,Galaxy J7 Prime,Exynos 7870,j7popeltemtr,samsung,2048,33
+crownqltecs,Galaxy Note9,SDM845,crownqltecs,samsung,6144,38
+gta4xlwifixx,Galaxy Tab S6 Lite,Exynos 9611,gta4xlwifi,samsung,4096,65
+c2quew,Galaxy Note20 Ultra 5G,SM8250Pro,c2q,samsung,12288,44
+kona3gxx,Galaxy Note 8.0,Exynos 4412,kona3g,samsung,2048,5
+gts210veltetmo,Galaxy Tab S2 9.7,MSM8976,gts210veltetmo,samsung,3072,5
+a13venseea,Galaxy A13,MT6769T,a13ve,samsung,4096,54
+heroqltetu,Galaxy S7,MSM8996,heroqlteaio,samsung,4096,5
+on7xreflteins,Galaxy J7 Prime2,Exynos 7870,on7xreflteins,samsung,3072,21
+xcover5xx,Galaxy XCover 5,Exynos 850,xcover5,samsung,4096,19
+gts210ltespr,Galaxy Tab S2 9.7,Exynos 5433,gts210ltespr,samsung,3072,6
+on5ltetmowal,Galaxy On5,Exynos 3475,on5ltetmo,samsung,1536,1
+degas3gzs,Galaxy Tab4 7.0,PXA1088,degas3g,samsung,1536,1
+v2wifiue,Galaxy Tab Pro 12.2,Exynos 5420,v2wifi,samsung,3072,6
+SCG15_jp_kdi,Galaxy A53 5G,s5e8825,SCG15,samsung,6144,22
+kltejv,Galaxy S5,MSM8974,klte,samsung,2048,9
+m13nsxx,Galaxy M13,Exynos 850,m13,samsung,4096,8
+zeroltelgt,Galaxy S6 edge,Exynos 7420,zeroltelgt,samsung,3072,11
+rubenswifixx,Galaxy Tab4 Active,APQ8026,rubenswifi,samsung,1536,12
+gts8wifiser,Galaxy Tab S8,SM8450,gts8wifi,samsung,8192,4
+a52xqnaeea,Galaxy A52 5G,SM7225,a52xq,samsung,6144,45
+a02quc,Galaxy A02s,SDM450,a02q,samsung,2048,28
+eliteltekx,Galaxy Folder2,MSM8917,eliteltekx,samsung,2048,6
+m52xqins,Galaxy M52 5G,SM7325,m52xq,samsung,6144,44
+gts7lwifixx,Galaxy Tab S7,SM8250Pro,gts7lwifi,samsung,6144,55
+a72qnsxx,Galaxy A72,SM7125,a72q,samsung,6144,58
+d1que,Galaxy Note10,SM8150,d1q,samsung,8192,35
+b2qxser,Galaxy Z Flip3 5G,SM8350,b2q,samsung,8192,20
+c1sxxx,Galaxy Note20 5G,Exynos 990,c1s,samsung,8192,44
+g0qksx,Galaxy S22+,SM8450,g0q,samsung,8192,33
+chagallwifikx,Galaxy TabS 10.5,Exynos 5420,chagallwifikx,samsung,3072,5
+a53xnaeea,Galaxy A53 5G,s5e8825,a53x,samsung,6144,56
+j75ltektt,Galaxy J7,MSM8916,j75ltektt,samsung,1536,7
+degasveltexx,Galaxy Tab4 7.0,PXA1908,degasvelte,samsung,1536,4
+a22nseea,Galaxy A22,MT6769T,a22,samsung,4096,43
+zeroltexx,Galaxy S6 edge,Exynos 7420,zerolte,samsung,3072,42
+a23xqtfn,Galaxy A23 5G,SM6375,a23xq,samsung,4096,20
+ks01lteskt,Galaxy S4 LTE-A,MSM8974,ks01lteskt,samsung,2048,2
+a73gxx,Galaxy A7,MSM8239,a73g,samsung,2048,10
+a22nsxx,Galaxy A22,MT6769T,a22,samsung,4096,49
+m33xins,Galaxy M33 5G,s5e8825,m33x,samsung,6144,35
+marinelteuc,Galaxy S6 Active,Exynos 7420,marinelteatt,samsung,3072,18
+trltetmofrp,Galaxy Note4,APQ8084,trltetmo,samsung,3072,4
+r9qzc,Galaxy S21 FE 5G,SM8350,r9q,samsung,6144,3
+a42xuque,Galaxy A42 5G,SM7225,a42xuq,samsung,4096,32
+astarqltezh,Galaxy A8 Star,SDM660,astarqltechn,samsung,4096,20
+b0qcsx,Galaxy 12,SM8450,b0q,samsung,8192,40
+m31nnxx,Galaxy M31,Exynos 9611,m31,samsung,6144,55
+gta7litekx,Galaxy Tab A7 Lite,MT8768T,gta7lite,samsung,3072,26
+gts28wifizs,Galaxy Tab S2 8.0,Exynos 5433,gts28wifi,samsung,3072,4
+j3xlteub,Galaxy J3(2016),SC9830I,j3xlte,samsung,1536,16
+chagallltejt,Galaxy TabS 10.5,Exynos 5420,chagalllte,samsung,3072,6
+b4qksx,Galaxy Z Flip4,SM8475,b4q,samsung,8192,34
+gts210veltejv,Galaxy Tab S2 9.7,MSM8976,gts210velte,samsung,3072,9
+milletltexx,Galaxy Tab4 8.0,MSM8926,milletlte,samsung,1536,9
+SCG05_jp_kdi,Galaxy Z Fold2 5G,SM8250Pro,SCG05,samsung,12288,3
+hlltexx,Galaxy Note3 Neo,Exynos 5260,hllte,samsung,1984,12
+a5lteub,Galaxy A5,MSM8916,a5lte,samsung,2048,20
+nobleltextc,Galaxy Note5,Exynos 7420,noblelte,samsung,4096,27
+m33xktt,Galaxy Jump2,s5e8825,m33x,samsung,6144,25
+m23xqeea,Galaxy M23 5G,SM7225,m23xq,samsung,4096,34
+j5xnltedx,Galaxy J5(2016),MSM8916,j5xnlte,samsung,2048,14
+f2qzhx,Galaxy Z Fold2 5G,SM8250Pro,f2q,samsung,12288,10
+gtanotexlwifizs,Galaxy Tab A (2016) with S Pen,Exynos 7870,gtanotexlwifikx,samsung,3072,15
+gts7fewifizc,Galaxy Tab S7 FE,SM7325,gts7fewifi,samsung,4096,5
+starlteeea,Galaxy S9,Exynos 9810,starlte,samsung,4096,31
+gta4lwifixx,Galaxy Tab A7,SM6115,gta4lwifi,samsung,3072,61
+ha3gxx,Galaxy Note3,Exynos 5420,ha3g,samsung,3072,12
+m12nseea,Galaxy M12,Exynos 850,m12,samsung,3072,43
+m31snseea,Galaxy M31s,Exynos 9611,m31s,samsung,6144,33
+j3popltetfnvzw,Galaxy J3 Pop,MSM8917,j3popltetfnvzw,samsung,1536,15
+SCG02_jp_kdi,Galaxy S20+ 5G,SM8250,SCG02,samsung,12288,31
