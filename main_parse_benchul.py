@@ -4,25 +4,37 @@ from pathlib import Path
 import re
 
 benchmarkNames = set([
-    "3DMark for Android Wild Life",
-    "3DMark for Android Wild Life Unlimited",
+    # "3DMark for Android Wild Life",
+    # "3DMark for Android Wild Life Unlimited",
     "3DMark for Android Wild Life Extreme",
-    "Wild Life Extreme Unlimited",
-    "3DMark for Android Sling Shot Extreme (OpenGL ES 3.1)",
-    "3DMark for Android Sling Shot Extreme (Vulkan)",
-    "3DMark for Android Sling Shot Extreme Unlimited",
-    "3DMark for Android Sling Shot",
-    "3DMark for Android Sling Shot Unlimited",
-    "3DMark for Android Solar Bay",
-    "PCMark for Android Work 3.0",
-    "PCMark for Android Storage 2.0",
-    "PCMark for Android Work 2.0",
-    "PCMark for Android Computer Vision",
-    "PCMark for Android Storage"
+    # "Wild Life Extreme Unlimited",
+
+    # "3DMark for Android Sling Shot Extreme (OpenGL ES 3.1)",
+    # "3DMark for Android Sling Shot Extreme (Vulkan)",
+    # "3DMark for Android Sling Shot Extreme Unlimited",
+    # "3DMark for Android Sling Shot",
+    # "3DMark for Android Sling Shot Unlimited",
+
+    # "3DMark Sling Shot Extreme (OpenGL ES 3.1)",
+    # "3DMark Sling Shot Extreme (Vulkan)",
+    # "3DMark Sling Shot Extreme Unlimited",
+    # "3DMark Sling Shot",
+    # "3DMark Sling Shot Unlimited",
+
+    # "3DMark for Android Solar Bay",
+    # "PCMark for Android Work 3.0",
+    # "PCMark for Android Storage 2.0",
+    # "PCMark for Android Work 2.0",
+    # "PCMark for Android Computer Vision",
+    # "PCMark for Android Storage",
 ])
 
-
+failedSamsungDevices = []
 def handleSamsungQuirks(name, chip, googleCsvData, benchMarkDataRow):
+    if not any([chip.startswith(x) for x in ["Snapdragon", "Dimensity", "Helio", "Exynos"]]):
+        failedSamsungDevices.append(name)
+        return []
+
     assert (any([chip.startswith(x) for x in ["Snapdragon", "Dimensity", "Helio", "Exynos"]]))
 
     def isSamsungChip(c):
@@ -36,17 +48,67 @@ def handleSamsungQuirks(name, chip, googleCsvData, benchMarkDataRow):
         f = csv[csv['marketing_name'].str.lower() == n]
         return f[f['cpu_make'] == "Samsung"] if isSamsungChip(c) else f[f['cpu_make'] != "Samsung"]
 
-    def fixNoteSpace(n):
-        notePhoneCheck = re.findall(r'note [0-9]*', n)
+    def fixNumberSpace(word, n):
+        notePhoneCheck = re.findall(re.escape(word) + r' [0-9]*', n)
         if len(notePhoneCheck) > 0:
             removedSpace = notePhoneCheck[0].replace(" ", "")
             n = n.replace(notePhoneCheck[0], removedSpace)
         return n
 
+    def fixNoteSpace(n):
+        return fixNumberSpace('note', n)
+
+    def fixWidePhoneSpace(n):
+        return fixNumberSpace('wide', n)
+
+    def stripYear(n):
+        n = n.replace(" 2018", "")
+        n = n.replace(" 2022", "")
+        return n
+
+    if name in [
+        'galaxy j3 eclipse',# The CPU of this phone doesn't match our database. So skip it
+        'galaxy j3 v',# The CPU of this phone doesn't match our database. So skip it
+        'galaxy m13 5g',# The CPU of this phone doesn't match our database. So skip it
+        'w22 5g',
+                ]:
+        return []
+
     nameWithoutCPU = stripCpuName(name)
-    nameWithoutCPU = fixNoteSpace(nameWithoutCPU)
+    nameWithoutCPU = nameWithoutCPU.strip()
+
+    if nameWithoutCPU == "galaxy tab s4 10.5":
+        nameWithoutCPU = "galaxy tab s4"
+    elif nameWithoutCPU == 'galaxy a9':
+        nameWithoutCPU = "galaxy a9(2016)"
+    elif nameWithoutCPU == 'galaxy j7 2017':
+        nameWithoutCPU = "galaxy j7"
+    elif nameWithoutCPU == 'galaxy a3 2017':
+        nameWithoutCPU = 'galaxy a3 (2017)'
+    elif nameWithoutCPU == 'galaxy a7 2017':
+        nameWithoutCPU = 'galaxy a7(2017)'
+    elif nameWithoutCPU == 'galaxy a5 2017':
+        nameWithoutCPU = 'galaxy a5(2017)'
 
     foundPhones = findPhones(nameWithoutCPU, chip, googleCsvData)
+
+    if len(foundPhones) == 0:
+        fixedNoteSpace = fixNoteSpace(nameWithoutCPU)
+        foundPhones = findPhones(fixedNoteSpace, chip, googleCsvData)
+
+    if len(foundPhones) == 0:
+        fixedWideSpace = fixWidePhoneSpace(nameWithoutCPU)
+        foundPhones = findPhones(fixedWideSpace, chip, googleCsvData)
+        if len(foundPhones) == 0:
+            foundPhones = findPhones(fixedWideSpace+' ', chip, googleCsvData)
+
+    if len(foundPhones) == 0:
+        nameWithoutCPU = fixNumberSpace('quantum', nameWithoutCPU)
+        foundPhones = findPhones(fixedWideSpace, chip, googleCsvData)
+
+    if len(foundPhones) == 0:
+        nameWithoutCPU = fixNumberSpace('xcover', nameWithoutCPU)
+        foundPhones = findPhones(fixedWideSpace, chip, googleCsvData)
 
     if len(foundPhones) == 0:
         nameWithoutNetwork = nameWithoutCPU.replace(" 5g", "").replace(" 4g", "").replace(" lte", "")
@@ -56,8 +118,21 @@ def handleSamsungQuirks(name, chip, googleCsvData, benchMarkDataRow):
         foundPhones = findPhones(nameWithoutCPU + " 5g", chip, googleCsvData)
 
     if len(foundPhones) == 0:
+        if nameWithoutCPU.endswith(" 2016"):
+            nameWithoutCPU = nameWithoutCPU.replace(" 2016", "(2016)")
+            foundPhones = findPhones(nameWithoutCPU, chip, googleCsvData)
+
+    if len(foundPhones) == 0:
+        foundPhones = findPhones(stripYear(nameWithoutCPU), chip, googleCsvData)
+
+    if len(foundPhones) == 0:
+        nameWithoutCPU = nameWithoutCPU.replace(' wi-fi', '')
+        nameWithoutCPU = nameWithoutCPU.replace(' wifi', '')
+        foundPhones = findPhones(nameWithoutCPU, chip, googleCsvData)
+
+    if len(foundPhones) == 0:
         print(f"Couldn't match samsung phone {name}")  # raise Exception(f"Couldn't match {nameWithoutCpu}")
-        return []
+        raise Exception(f"Couldn't match {name}")
 
     result = []
     for _, phoneRow in foundPhones.iterrows():
@@ -75,9 +150,9 @@ def getBenchNameToGoogleNameMap(benchDataFrame, googleCsvData) -> dict:
 
     for _, benchMarkDataRow in benchDataFrame.iterrows():
         chip = benchMarkDataRow['General__Chipset']
-        _name = benchMarkDataRow['name'].lower()
-        brand = _name.split()[0]
-        name = _name[len(brand) + 1:]
+        nameWithBrand = benchMarkDataRow['name'].lower()
+        brand = nameWithBrand.split()[0]
+        name = nameWithBrand[len(brand) + 1:]
 
         if brand == "apple" or brand == "huawei":
             # Skip apple and huawei devices
@@ -88,7 +163,9 @@ def getBenchNameToGoogleNameMap(benchDataFrame, googleCsvData) -> dict:
                 for k, v in phoneData.items():
                     resultDataFrameDict[k].append(v)
         elif brand == "google":
-            name = "pixel 5a 5g" if name == "pixel 5a" else name
+            if name == "pixel 5a":
+                name = "pixel 5a 5g"
+
             foundPhones = googleCsvData[googleCsvData['marketing_name'].str.lower() == name]
             assert (len(foundPhones) == 1)
 
@@ -100,6 +177,118 @@ def getBenchNameToGoogleNameMap(benchDataFrame, googleCsvData) -> dict:
             filtered = googleCsvData
             if len(cpuCheck) > 0:
                 name = name.replace(cpuCheck[0], "")
+        elif brand == "oneplus":
+            if name in [
+                "ace racing",
+                'ace 2v',
+                'ace 2',
+                'ace 2 pro'
+            ]:
+                continue # We don't have this device????
+
+            foundPhones = googleCsvData[googleCsvData['marketing_name'].str.lower() == nameWithBrand]
+
+            if len(foundPhones) == 0:
+                nameWithBrand = nameWithBrand.replace("oneplus 5", "oneplus5")
+                nameWithBrand = nameWithBrand.replace("oneplus 6", "oneplus6")
+                nameWithBrand = nameWithBrand.replace(" 5g", "")
+                foundPhones = googleCsvData[googleCsvData['marketing_name'].str.lower() == f"{nameWithBrand}"]
+
+            if len(foundPhones) == 0:
+                if nameWithBrand == 'oneplus nord2t':
+                    nameWithBrand = 'oneplus nord 2t'
+                elif nameWithBrand == 'oneplus nord 2':
+                    nameWithBrand = 'oneplus nord2'
+
+                foundPhones = googleCsvData[googleCsvData['marketing_name'].str.lower() == f"{nameWithBrand} 5g"]
+
+            if len(foundPhones) == 0:
+                pass
+                print("...")
+
+            merged = dict(foundPhones.iloc[0]) | dict(benchMarkDataRow)
+            for k, v in merged.items():
+                resultDataFrameDict[k].append(v)
+
+        elif brand == "xiaomi":
+            if name in [
+                "redmi k50 extreme edition",
+                "mi 6",
+                "mi mix 2",
+                "black shark helo",
+                "mi 8 explorer edition",
+                "black shark 3",
+                "mi 11x",
+                "poco x3 gt",
+                'mi mix 4',
+                'black shark 4',
+                'mi 11t',
+                'black shark 4s pro',
+                'redmi note 11t pro+'
+            ]:
+                continue # We don't have this device????
+
+            # Fix for redmi not 8 2021
+            name = name.replace(" 2021", "")
+
+            # Fix for redmi note 11 pro global
+            name = name.replace(" global", "")
+
+            # Fix for poco m4 5g india
+            name = name.replace(" india", "")
+            name = name.replace(" (india)", "")
+            name = name.replace(" (china)", "")
+
+            # Fix for poco m4 pro 4g
+            name = name.replace(" 4g", "")
+
+            # Fix for note 11se
+            name = name.replace(" 11se", " 11 se")
+
+            # Fix for note 11e pro
+            name = name.replace("11e pro", "11e pro ")
+
+            nameWithBrand = nameWithBrand.replace("civi 2", "civi2")
+
+            # Fix for poco x5 5g
+            name = name.replace("poco x5 5g", "poco x5 5g ")
+
+            name = name.replace("pocophone f1", "poco f1")
+            name = name.replace(" transparent edition", "")
+            name = name.replace("redmi k30 pro", "k30 pro")
+            name = name.replace("k30 pro zoom", "redmi k30 pro zoom edition")
+            name = name.replace('redmi k40 gaming edition', "redmi k40 gaming")
+            name = name.replace('redmi k50 gaming edition', "redmi k40 gaming")
+
+            #FIXME: check if this is right
+            if name == "black shark": # 'xiaomi black shark 2' is ok
+                name = "shark"
+            elif name == "redmi k30s":
+                name = "redmi k30s ultra"
+
+            cpuCheck = re.findall(r' \(.*\)$', nameWithBrand)
+            if len(cpuCheck) > 0:
+                #FIXME: this is very messy
+                nameWithBrand = nameWithBrand.replace(cpuCheck[0], "")
+
+            foundPhones = googleCsvData[googleCsvData['marketing_name'].str.lower() == nameWithBrand]
+            if len(foundPhones) == 0:
+                foundPhones = googleCsvData[googleCsvData['marketing_name'].str.lower() == name]
+
+            if len(foundPhones) == 0:
+                foundPhones = googleCsvData[googleCsvData['marketing_name'].str.lower() == f"{name} 5g"]
+
+            if len(foundPhones) == 0:
+                foundPhones = googleCsvData[googleCsvData['marketing_name'].str.lower() == name.replace(" 5g", "")]
+
+            x = len(foundPhones)
+            if x == 0:
+                #assert (len(foundPhones) > 0)
+                continue
+
+            merged = dict(foundPhones.iloc[0]) | dict(benchMarkDataRow)
+            for k, v in merged.items():
+                resultDataFrameDict[k].append(v)
         else:
             print(f"\"{brand}\" brand not found")
 
@@ -140,10 +329,14 @@ def buildBenchmarkDataframeFromFilteredData(filteredPhoneDatas):
             result[k].append(phoneData.get(k))
     return pd.DataFrame(data=result)
 
+def startsWithCaseInsensitive(inStr, startSection):
+    return bool(re.match(startSection, inStr, re.IGNORECASE))
 
 def main():
     keys = set([
         "name",
+        "popularity",
+        "url",
         "General",
     ]).union(benchmarkNames)
 
@@ -176,3 +369,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    print(failedSamsungDevices)
